@@ -1,0 +1,228 @@
+      ------New Day------
+Greg the clerk arrives at the store on day 1.
+Bob the trainer arrives at the store on day 1.
+Bob is feeding a dog.
+Bob is feeding a bird.
+Bob is feeding a cat.
+Bob is feeding a dog.
+Bob is feeding a bird.
+Bob is feeding a cat.
+Bob is feeding a dog.
+Bob is feeding a bird.
+Bob is feeding a cat. Bob says the cat has gotten sick. They're being moved to the clinic.
+Greg says there is $0.0 in the register. They're going to the bank.
+There is now $1000.0 in the bank.
+Greg says the inventory is valued at $1143.0
+Greg says there are no more dog toys in stock. They're not going to order more.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a leash.
+Greg says Customer 1 will pay for the leash at list price.
+Greg is adding 138.0 to the register.
+Customer 1 has left the store after buying a leash.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a food.
+Greg says Customer 2 will pay for the food at list price.
+Greg is adding 10.0 to the register.
+Customer 2 has left the store after buying a food.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a toy.
+Greg says Customer 3 will pay for the toy at list price.
+Greg is adding 128.0 to the register.
+Customer 3 has left the store after buying a toy.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a cat litter.
+Greg says Customer 4 will pay for the cat litter at list price.
+Greg is adding 148.0 to the register.
+Customer 4 has left the store after buying a cat litter.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a bird.
+Bob offered Customer 5 a 10% discount on the bird
+Customer 5 will pay for the bird with a 10% discount
+Greg is adding 27.0 to the register.
+Customer 5 has left the store after buying a bird.
+Customer 6 has entered the store.
+Customer 6 is thinking about buying a food.
+Greg says Customer 6 will pay for the food at list price.
+Greg is adding 30.0 to the register.
+Customer 6 has left the store after buying a food.
+Bob is cleaning a dog cage.
+Bob is cleaning a cat cage. Oh no the cat escaped.
+Greg has caught the cat and returned it to the cage.
+Bob is cleaning a dog cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a dog cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a sick cat's cage.
+Greg is locking up the store. Greg and Bob are leaving the store.
+      ------New Day------
+Lisa the clerk arrives at the store on day 2.
+Julie the trainer arrives at the store on day 2.
+Julie is feeding a dog.
+Julie is feeding a cat.
+Julie is feeding a dog.
+Julie is feeding a bird.
+Julie is feeding a cat.
+Julie is feeding a dog.
+Julie is feeding a bird.
+Julie is feeding a sick cat. They haven't gotten better.
+Lisa says there is $1481.0 in the register. No need to go to bank.
+Lisa says the inventory is valued at $901.0
+Lisa says there is no dog food in stock. They're going to order more.
+The order will cost $128.0
+Lisa says there is no cat food in stock. They're going to order more.
+The order will cost $140.0
+Lisa says there are no more dog toys in stock. They're not going to order more.
+Lisa says there are no more bird toys in stock. They're not going to order more.
+Lisa says there are no cat leashes in stock. They're going to order more.
+The order will cost $211.0
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a cat.
+Julie offered Customer 1 a 10% discount on the cat
+Customer 1 will pay for the cat with a 10% discount
+Lisa is adding 39.6 to the register.
+Customer 1 has left the store after buying a cat.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a dog.
+Lisa says Customer 2 will pay for the dog at list price.
+Lisa is adding 166.0 to the register.
+Customer 2 has left the store after buying a dog.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a bird.
+Lisa says Customer 3 will pay for the bird at list price.
+Lisa is adding 124.0 to the register.
+Customer 3 has left the store after buying a bird.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a dog.
+Julie offered Customer 4 a 10% discount on the dog
+Customer 4 will pay for the dog with a 10% discount
+Lisa is adding 102.6 to the register.
+Customer 4 has left the store after buying a dog.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a cat.
+Julie offered Customer 5 a 10% discount on the cat
+Customer 5 will pay for the cat with a 10% discount
+Lisa is adding 84.6 to the register.
+Customer 5 has left the store after buying a cat.
+Customer 6 has entered the store.
+Customer 6 has left the store without buying an item.
+Julie is cleaning a dog cage.
+Julie is cleaning a bird cage.
+Julie is cleaning a sick cat's cage.
+Lisa is locking up the store. Lisa and Julie are leaving the store.
+      ------New Day------
+Lisa the clerk arrives at the store on day 3.
+Julie the trainer arrives at the store on day 3.
+Lisa says a new food has arrived. It will be added to inventory.
+Lisa says a new food has arrived. It will be added to inventory.
+Lisa says a new food has arrived. It will be added to inventory.
+Lisa says a new food has arrived. It will be added to inventory.
+Lisa says a new food has arrived. It will be added to inventory.
+Lisa says a new food has arrived. It will be added to inventory.
+Julie is feeding a dog.
+Julie is feeding a bird.
+Julie is feeding a sick cat. They haven't gotten better.
+Lisa says there is $1518.7999 in the register. No need to go to bank.
+Lisa says the inventory is valued at $898.0
+Lisa says there are no more dog toys in stock. They're not going to order more.
+Lisa says there are no more bird toys in stock. They're not going to order more.
+Lisa says there are no cat leashes in stock. They're going to order more.
+The order will cost $119.0
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a food.
+Lisa says Customer 1 will pay for the food at list price.
+Lisa is adding 0.0 to the register.
+Customer 1 has left the store after buying a food.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a bird.
+Lisa says Customer 2 will pay for the bird at list price.
+Lisa is adding 26.0 to the register.
+Customer 2 has left the store after buying a bird.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a food.
+Julie offered Customer 3 a 10% discount on the food
+Customer 3 will continue to look at other items.
+Customer 3 is thinking about buying a food.
+Julie offered Customer 3 a 10% discount on the food
+Customer 3 will continue to look at other items.
+Customer 3 has left the store without buying an item.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a toy.
+Lisa says Customer 4 will pay for the toy at list price.
+Lisa is adding 170.0 to the register.
+Customer 4 has left the store after buying a toy.
+Julie is cleaning a dog cage.
+Julie is cleaning a sick cat's cage.
+Lisa is locking up the store. Lisa and Julie are leaving the store.
+      ------New Day------
+Lisa the clerk arrives at the store on day 4.
+Bob the trainer arrives at the store on day 4.
+Lisa says a new leash has arrived. It will be added to inventory.
+Lisa says a new leash has arrived. It will be added to inventory.
+Lisa says a new leash has arrived. It will be added to inventory.
+Lisa says a new leash has arrived. It will be added to inventory.
+Lisa says a new leash has arrived. It will be added to inventory.
+Lisa says a new leash has arrived. It will be added to inventory.
+Bob is feeding a dog.
+Bob is feeding a sick cat. They haven't gotten better.
+Lisa says there is $1595.7999 in the register. No need to go to bank.
+Lisa says the inventory is valued at $1130.0
+Lisa says there are no birds in stock. They're going to order more.
+The order will cost $176.0
+Lisa says there are no more dog toys in stock. They're not going to order more.
+Lisa says there are no more bird toys in stock. They're not going to order more.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a toy.
+Lisa says Customer 1 will pay for the toy at list price.
+Lisa is adding 14.0 to the register.
+Customer 1 has left the store after buying a toy.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a cat litter.
+Bob offered Customer 2 a 10% discount on the cat litter
+Customer 2 will pay for the cat litter with a 10% discount
+Lisa is adding 180.0 to the register.
+Customer 2 has left the store after buying a cat litter.
+Bob is cleaning a dog cage.
+Bob is cleaning a sick cat's cage.
+Lisa is locking up the store. Lisa and Bob are leaving the store.
+       -------End Simulation-------
+After 5 days the following items are left in inventory.
+leash: $35.0
+dog: $71.0
+cat: $89.0
+cat litter: $72.0
+food: $96.0
+leash: $62.0
+food: $86.0
+food: $42.0
+food: $59.0
+food: $27.0
+food: $54.0
+leash: $43.0
+leash: $88.0
+leash: $80.0
+leash: $75.0
+leash: $8.0
+leash: $36.0
+Value of remaining inventory: $1023.0
+Over 5 days the following items were sold.
+leash: sold on day 1 for 138.0
+food: sold on day 1 for 10.0
+toy: sold on day 1 for 128.0
+cat litter: sold on day 1 for 148.0
+bird: sold on day 1 for 27.0
+food: sold on day 1 for 30.0
+cat: sold on day 2 for 39.6
+dog: sold on day 2 for 166.0
+bird: sold on day 2 for 124.0
+dog: sold on day 2 for 102.6
+cat: sold on day 2 for 84.6
+food: sold on day 3 for 0.0
+bird: sold on day 3 for 26.0
+toy: sold on day 3 for 170.0
+toy: sold on day 4 for 14.0
+cat litter: sold on day 4 for 180.0
+Total money from sales: $718.0
+There are 1 sick pets remaining in inventory.
+There is 1613.7999 left in the register after 5 days.
+$1000.0 was added to the register over 5 days.
