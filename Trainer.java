@@ -2,9 +2,50 @@
 import java.util.*;
 public class Trainer extends Employees{
     String name;
+
+    Method technique;
     int daysWorked  = 0;
-    Trainer(String n){
+    Trainer(String n, Method method){
         name = n;
+        technique = method;
+    }
+    void trainAnimals(Inventory I){
+        for(int i = 0; i < I.items.size(); i++){
+            Item item = I.items.get(i);
+            if(item.name == "pet"){
+                Pet pet = (Pet) item;
+                if(pet.breed == "dog"){
+                    Dog dog = (Dog) pet;
+                    if(dog.housebroken){
+                        System.out.println("The dog is housebroken, but they're going to train more with " + name);
+                    }
+                    else{
+                        System.out.println("The dog is not yet housebroken, they're going to train with " + name);
+                    }
+                    technique.train(pet);
+                }
+                if(pet.breed == "cat"){
+                    Cat cat = (Cat) pet;
+                    if(cat.housebroken){
+                        System.out.println("The cat is housebroken, but they're going to train more with " + name);
+                    }
+                    else{
+                        System.out.println("The cat is not yet housebroken, they're going to train with " + name);
+                    }
+                    technique.train(pet);
+                }
+                if(pet.breed == "ferret"){
+                    Ferret ferret = (Ferret) pet;
+                    if(ferret.housebroken){
+                        System.out.println("The ferret is housebroken, but they're going to train more with " + name);
+                    }
+                    else{
+                        System.out.println("The ferret is not yet housebroken, they're going to train with " + name);
+                    }
+                    technique.train(ferret);
+                }
+            }
+        }
     }
     void feedAnimals(Inventory I, Trainer t){
         Random rand = new Random();

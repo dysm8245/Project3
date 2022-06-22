@@ -5,9 +5,9 @@ public class Employees{
     Trainer workingT;
     Trainer[] trainers = new Trainer[3];
     void hire(){
-        trainers[0] = new Trainer("Bob");
-        trainers[1] = new Trainer("Julie");
-        trainers[2] = new Trainer("Harry");
+        trainers[0] = new Trainer("Bob", new Haphazard());
+        trainers[1] = new Trainer("Julie", new Negative());
+        trainers[2] = new Trainer("Harry", new Positive());
         clerks[0] = new Clerk("Greg");
         clerks[1] = new Clerk("Lisa");
         clerks[2] = new Clerk("Mike");
@@ -24,63 +24,54 @@ public class Employees{
     Trainer getTrainer(){
         return workingT;
     }
-    void ArriveAtStore(int days){
-        int day = days-1;
-        Random rand = new Random();
-        String[] clerk = new String[30];
-        String[] trainer = new String[30];
-        int num = rand.nextInt(2);
-        System.out.println("      ------New Day------");
-        
-        if(day >= 3){
-            if(clerk[day-3] == clerk[day-2] && clerk[day-2] == clerk[day-1]){
+    void ArriveAtStore(int days){//starts day off
+            Random rand = new Random();
+            int num = rand.nextInt(2);
+            System.out.println("      ------New Day------");
+            if(clerks[num].daysWorked == 3) {//checks to see if they worked 3 days in a row
+                if(num == 1){
+                    num = num - 1;
+                    System.out.println(clerks[num].name + " the clerk arrives at the store on day " + days + ".");
+                    workingC = clerks[num];
+                    clerks[num].daysWorked++;
+                    clerks[num+1].daysWorked = 0;
+                    num = num+1;
+                }
+                else if(num == 0){
+                    num = num + 1;
+                    System.out.println(clerks[num].name + " the clerk arrives at the store on day " + days + ".");
+                    workingC = clerks[num];
+                    clerks[num].daysWorked++;
+                    clerks[num-1].daysWorked = 0;
+                    num = num-1;
+                }
+            }
+            if(trainers[num].daysWorked == 3){//check for days worked
                 if(num == 1){
                     num = num-1;
-                    System.out.println(clerks[num].name + " the clerk arrives at the store on day " + days + ".");
-                    workingC = clerks[num];
-                    clerk[day] = workingC.name;
+                    System.out.println(trainers[num].name + " the trainer arrives at the store on day " + days + ".");
+                    workingT = trainers[num];
+                    trainers[num].daysWorked++;
+                    trainers[num+1].daysWorked = 0;
+                    num=num+1;
                 }
-                else{
+                else if(num == 0){
                     num = num+1;
-                    System.out.println(clerks[num].name + " the clerk arrives at the store on day " + days + ".");
-                    workingC = clerks[num];
-                    clerk[day] = workingC.name;
+                    System.out.println(trainers[num].name + " the trainer arrives at the store on day " + days + ".");
+                    workingT = trainers[num];
+                    trainers[num].daysWorked++;
+                    trainers[num-1].daysWorked = 0;
+                    num=num-1;
                 }
             }
             else{
                 System.out.println(clerks[num].name + " the clerk arrives at the store on day " + days + ".");
                 workingC = clerks[num];
-                clerk[day] = workingC.name;
-            }
-            if(trainer[day-3] == trainer[day-2] && trainer[day-2] == trainer[day-1]){
-                if(num == 1){
-                    num = num-1;
-                    System.out.println(trainers[num].name + " the trainer arrives at the store on day " + days + ".");
-                    workingT = trainers[num];
-                    trainer[day] = workingT.name;
-                }
-                else{
-                    num = num+1;
-                    System.out.println(trainers[num].name + " the trainer arrives at the store on day " + days + ".");
-                    workingT = trainers[num];
-                    trainer[day] = workingT.name;
-                }
-            }
-            else{
+                clerks[num].daysWorked++;
                 System.out.println(trainers[num].name + " the trainer arrives at the store on day " + days + ".");
                 workingT = trainers[num];
-                trainer[day] = workingT.name;
+                trainers[num].daysWorked++;
             }
-        }
-        
-        else{
-            System.out.println(clerks[num].name + " the clerk arrives at the store on day " + days + ".");
-            workingC = clerks[num];
-            clerk[day] = workingC.name;
-            System.out.println(trainers[num].name + " the trainer arrives at the store on day " + days + ".");
-            workingT = trainers[num];
-            trainer[day] = workingT.name;
-        }
     }
     
     private static int getPoissonRandom(double mean) { // https://stackoverflow.com/questions/9832919/generate-poisson-arrival-in-java
@@ -103,6 +94,8 @@ public class Employees{
         int buyChance = 0;
         int noDeal = 0;
         int deal = 0;
+        int add = 0;
+        int amount = 0;
     
         for(int i = 0; i < custAmmt; i++){
             int cust = i+1;
@@ -117,12 +110,29 @@ public class Employees{
                             System.out.println("Customer " + cust + " is thinking about buying a " + pet.breed +".");
                             noDeal = rand.nextInt(2);
                             if(noDeal == 0){
+                                add = rand.nextInt(4);
                                 System.out.println(c.name + " says Customer " + cust + " will pay for the " + pet.breed +" at list price.");
                                 pet.salePrice = pet.listPrice;
                                 pet.daySold = day;
                                 I.items.remove(pet);
                                 I.soldItems.add(pet);
                                 r.amount += pet.salePrice;
+                                if(add == 0){
+                                    Insurance addOn = new Insurance();
+                                    addOn.addIns(pet);
+                                }
+                                else if(add == 1){
+                                    amount = rand.nextInt(5);
+                                    if(amount == 0){
+                                        amount = 1;
+                                    }
+                                    Vet addOn = new Vet();
+                                    addOn.addVisits(pet,amount);
+                                }
+                                else{
+                                    Microchip addOn = new Microchip();
+                                    addOn.addMicro(pet);
+                                }
                                 System.out.println(c.name + " is adding $" + pet.salePrice + " to the register.");
                                 j = I.items.size();
                                 System.out.println("Customer " + cust + " has left the store after buying a " + pet.breed + ".");
@@ -131,12 +141,29 @@ public class Employees{
                                 System.out.println(t.name + " offered Customer " + cust + " a 10% discount on the " + pet.breed);
                                 deal = rand.nextInt(4);
                                 if(deal != 0){
+                                    add = rand.nextInt(4);
                                     System.out.println("Customer " + cust + " will pay for the " + pet.breed +" with a 10% discount");
                                     pet.salePrice = (float) (pet.listPrice*0.9);
                                     pet.daySold = day;
                                     I.items.remove(pet);
                                     I.soldItems.add(pet);
                                     r.amount += pet.salePrice;
+                                    if(add == 0){
+                                        Insurance addOn = new Insurance();
+                                        addOn.addIns(pet);
+                                    }
+                                    else if(add == 1){
+                                        amount = rand.nextInt(5);
+                                        if(amount == 0){
+                                            amount = 1;
+                                        }
+                                        Vet addOn = new Vet();
+                                        addOn.addVisits(pet,amount);
+                                    }
+                                    else{
+                                        Microchip addOn = new Microchip();
+                                        addOn.addMicro(pet);
+                                    }
                                     System.out.println(c.name + " is adding $" + pet.salePrice + " to the register.");
                                     j = I.items.size();
                                     System.out.println("Customer " + cust + " has left the store after buying a " + pet.breed + ".");
