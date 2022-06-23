@@ -1,228 +1,2629 @@
       ------New Day------
-Greg the clerk arrives at the store on day 1.
+Lisa the clerk arrives at the store on day 1.
 Bob the trainer arrives at the store on day 1.
 Bob is feeding a dog.
 Bob is feeding a bird.
 Bob is feeding a cat.
+Bob is feeding a ferret.
+Bob is feeding a snake.
 Bob is feeding a dog.
 Bob is feeding a bird.
 Bob is feeding a cat.
+Bob is feeding a ferret.
+Bob is feeding a snake.
 Bob is feeding a dog.
 Bob is feeding a bird.
-Bob is feeding a cat. Bob says the cat has gotten sick. They're being moved to the clinic.
-Greg says there is $0.0 in the register. They're going to the bank.
+Bob is feeding a cat.
+Bob is feeding a ferret.
+Bob is feeding a snake.
+Lisa says there is $0.0 in the register. They're going to the bank.
 There is now $1000.0 in the bank.
-Greg says the inventory is valued at $1143.0
-Greg says there are no more dog toys in stock. They're not going to order more.
+Lisa says the inventory is valued at $1788.0
+Lisa says there is no bird food in stock. They're going to order more.
+The order will cost $235.0
+Lisa says there are no more dog toys in stock. They're not going to order more.
+Lisa says there are no more bird toys in stock. They're not going to order more.
+Lisa says there are no cat leashes in stock. They're going to order more.
+The order will cost $113.0
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a cat.
+The cat is not yet housebroken, they're going to train with Bob
+The positive reinforcement training worked, the cat is now housebroken.
+Bob is training a ferret.
+The ferret is not yet housebroken, they're going to train with Bob
+The positive reinforcement training worked, the ferret is now housebroken.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is not yet housebroken, they're going to train with Bob
+The positive reinforcement training worked, the ferret is now housebroken.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
 Customer 1 has entered the store.
 Customer 1 is thinking about buying a leash.
-Greg says Customer 1 will pay for the leash at list price.
-Greg is adding 138.0 to the register.
+Lisa says Customer 1 will pay for the leash at list price.
+Lisa is adding $76.0 to the register.
 Customer 1 has left the store after buying a leash.
 Customer 2 has entered the store.
+Customer 2 is thinking about buying a cat.
+Bob offered Customer 2 a 10% discount on the cat
+Customer 2 will continue to look at other items.
 Customer 2 is thinking about buying a food.
-Greg says Customer 2 will pay for the food at list price.
-Greg is adding 10.0 to the register.
+Bob offered Customer 2 a 10% discount on the food
+Customer 2 will pay for the food with a 10% discount
+Lisa is adding $172.8 to the register.
 Customer 2 has left the store after buying a food.
 Customer 3 has entered the store.
-Customer 3 is thinking about buying a toy.
-Greg says Customer 3 will pay for the toy at list price.
-Greg is adding 128.0 to the register.
-Customer 3 has left the store after buying a toy.
+Customer 3 is thinking about buying a leash.
+Lisa says Customer 3 will pay for the leash at list price.
+Lisa is adding $180.0 to the register.
+Customer 3 has left the store after buying a leash.
 Customer 4 has entered the store.
-Customer 4 is thinking about buying a cat litter.
-Greg says Customer 4 will pay for the cat litter at list price.
-Greg is adding 148.0 to the register.
-Customer 4 has left the store after buying a cat litter.
+Customer 4 is thinking about buying a bird.
+Bob offered Customer 4 a 10% discount on the bird
+Customer 4 will pay for the bird with a 10% discount
+A microchip will be added to the sale for $50.
+Lisa is adding $219.2 to the register.
+Customer 4 has left the store after buying a bird.
 Customer 5 has entered the store.
 Customer 5 is thinking about buying a bird.
 Bob offered Customer 5 a 10% discount on the bird
-Customer 5 will pay for the bird with a 10% discount
-Greg is adding 27.0 to the register.
-Customer 5 has left the store after buying a bird.
+Customer 5 will continue to look at other items.
+Customer 5 is thinking about buying a ferret.
+Bob offered Customer 5 a 10% discount on the ferret
+Customer 5 will pay for the ferret with a 10% discount
+1 Vet visits will be added to the sale for $25
+Lisa is adding $77.2 to the register.
+Customer 5 has left the store after buying a ferret.
 Customer 6 has entered the store.
-Customer 6 is thinking about buying a food.
-Greg says Customer 6 will pay for the food at list price.
-Greg is adding 30.0 to the register.
-Customer 6 has left the store after buying a food.
-Bob is cleaning a dog cage.
-Bob is cleaning a cat cage. Oh no the cat escaped.
-Greg has caught the cat and returned it to the cage.
+Customer 6 has left the store without buying an item.
 Bob is cleaning a dog cage.
 Bob is cleaning a bird cage.
 Bob is cleaning a cat cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a dog cage. Oh no the dog escaped.
+Lisa has caught the dog and returned it to the cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a snake cage.
 Bob is cleaning a dog cage.
 Bob is cleaning a bird cage.
-Bob is cleaning a sick cat's cage.
-Greg is locking up the store. Greg and Bob are leaving the store.
+Bob is cleaning a cat cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a snake cage.
+Lisa is locking up the store. Lisa and Bob are leaving the store.
       ------New Day------
-Lisa the clerk arrives at the store on day 2.
-Julie the trainer arrives at the store on day 2.
-Julie is feeding a dog.
-Julie is feeding a cat.
-Julie is feeding a dog.
-Julie is feeding a bird.
-Julie is feeding a cat.
-Julie is feeding a dog.
-Julie is feeding a bird.
-Julie is feeding a sick cat. They haven't gotten better.
-Lisa says there is $1481.0 in the register. No need to go to bank.
-Lisa says the inventory is valued at $901.0
-Lisa says there is no dog food in stock. They're going to order more.
-The order will cost $128.0
-Lisa says there is no cat food in stock. They're going to order more.
-The order will cost $140.0
-Lisa says there are no more dog toys in stock. They're not going to order more.
-Lisa says there are no more bird toys in stock. They're not going to order more.
-Lisa says there are no cat leashes in stock. They're going to order more.
-The order will cost $211.0
+Greg the clerk arrives at the store on day 2.
+Bob the trainer arrives at the store on day 2.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new leash has arrived. It will be added to inventory.
+Greg says a new leash has arrived. It will be added to inventory.
+Greg says a new leash has arrived. It will be added to inventory.
+Bob is feeding a dog.
+Bob is feeding a bird.
+Bob is feeding a cat.
+Bob is feeding a ferret.
+Bob is feeding a snake.
+Bob is feeding a dog.
+Bob is feeding a cat.
+Bob is feeding a snake.
+Bob is feeding a dog.
+Bob is feeding a bird.
+Bob is feeding a cat.
+Bob is feeding a ferret.
+Bob is feeding a snake.
+Greg says there is $1302.2 in the register. No need to go to bank.
+Greg says the inventory is valued at $1789.0
+Greg says there are no more dog toys in stock. They're not going to order more.
+Greg says there are no more bird toys in stock. They're not going to order more.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
 Customer 1 has entered the store.
-Customer 1 is thinking about buying a cat.
-Julie offered Customer 1 a 10% discount on the cat
-Customer 1 will pay for the cat with a 10% discount
-Lisa is adding 39.6 to the register.
-Customer 1 has left the store after buying a cat.
+Customer 1 is thinking about buying a toy.
+Bob offered Customer 1 a 10% discount on the toy
+Customer 1 will pay for the toy with a 10% discount
+Greg is adding $165.6 to the register.
+Customer 1 has left the store after buying a toy.
 Customer 2 has entered the store.
 Customer 2 is thinking about buying a dog.
-Lisa says Customer 2 will pay for the dog at list price.
-Lisa is adding 166.0 to the register.
+Greg says Customer 2 will pay for the dog at list price.
+Insurance will be added to the sale for $50.
+Greg is adding $52.0 to the register.
 Customer 2 has left the store after buying a dog.
 Customer 3 has entered the store.
-Customer 3 is thinking about buying a bird.
-Lisa says Customer 3 will pay for the bird at list price.
-Lisa is adding 124.0 to the register.
-Customer 3 has left the store after buying a bird.
+Customer 3 is thinking about buying a snake.
+Bob offered Customer 3 a 10% discount on the snake
+Customer 3 will pay for the snake with a 10% discount
+Insurance will be added to the sale for $50.
+Greg is adding $96.8 to the register.
+Customer 3 has left the store after buying a snake.
 Customer 4 has entered the store.
-Customer 4 is thinking about buying a dog.
-Julie offered Customer 4 a 10% discount on the dog
-Customer 4 will pay for the dog with a 10% discount
-Lisa is adding 102.6 to the register.
-Customer 4 has left the store after buying a dog.
+Customer 4 is thinking about buying a bird.
+Bob offered Customer 4 a 10% discount on the bird
+Customer 4 will pay for the bird with a 10% discount
+Insurance will be added to the sale for $50.
+Greg is adding $120.2 to the register.
+Customer 4 has left the store after buying a bird.
 Customer 5 has entered the store.
-Customer 5 is thinking about buying a cat.
-Julie offered Customer 5 a 10% discount on the cat
-Customer 5 will pay for the cat with a 10% discount
-Lisa is adding 84.6 to the register.
-Customer 5 has left the store after buying a cat.
+Customer 5 has left the store without buying an item.
 Customer 6 has entered the store.
-Customer 6 has left the store without buying an item.
-Julie is cleaning a dog cage.
-Julie is cleaning a bird cage.
-Julie is cleaning a sick cat's cage.
-Lisa is locking up the store. Lisa and Julie are leaving the store.
+Customer 6 is thinking about buying a dog.
+Greg says Customer 6 will pay for the dog at list price.
+A microchip will be added to the sale for $50.
+Greg is adding $84.0 to the register.
+Customer 6 has left the store after buying a dog.
+Customer 7 has entered the store.
+Customer 7 is thinking about buying a cat.
+Greg says Customer 7 will pay for the cat at list price.
+A microchip will be added to the sale for $50.
+Greg is adding $60.0 to the register.
+Customer 7 has left the store after buying a cat.
+Bob is cleaning a cat cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a dog cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a snake cage.
+Greg is locking up the store. Greg and Bob are leaving the store.
       ------New Day------
-Lisa the clerk arrives at the store on day 3.
-Julie the trainer arrives at the store on day 3.
-Lisa says a new food has arrived. It will be added to inventory.
-Lisa says a new food has arrived. It will be added to inventory.
-Lisa says a new food has arrived. It will be added to inventory.
-Lisa says a new food has arrived. It will be added to inventory.
-Lisa says a new food has arrived. It will be added to inventory.
-Lisa says a new food has arrived. It will be added to inventory.
-Julie is feeding a dog.
-Julie is feeding a bird.
-Julie is feeding a sick cat. They haven't gotten better.
-Lisa says there is $1518.7999 in the register. No need to go to bank.
-Lisa says the inventory is valued at $898.0
+Mike the clerk arrives at the store on day 3.
+Harry the trainer arrives at the store on day 3.
+Harry is feeding a cat.
+Harry is feeding a ferret.
+Harry is feeding a snake.
+Harry is feeding a dog.
+Harry is feeding a bird. Harry says the bird has gotten sick. They're being moved to the clinic.
+Harry is feeding a cat.
+Harry is feeding a ferret.
+Harry is feeding a snake.
+Mike says there is $1630.7999 in the register. No need to go to bank.
+Mike says the inventory is valued at $1609.0
+Mike says there are no more dog toys in stock. They're not going to order more.
+Mike says there are no more bird toys in stock. They're not going to order more.
+Harry is training a cat.
+The cat is already housebroken, no need to train.
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Harry is training a dog.
+The dog is already housebroken, no need to train.
+Harry is training a cat.
+The cat is already housebroken, no need to train.
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a treats.
+Mike says Customer 1 will pay for the treats at list price.
+Mike is adding $36.0 to the register.
+Customer 1 has left the store after buying a treats.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a food.
+Harry offered Customer 2 a 10% discount on the food
+Customer 2 will pay for the food with a 10% discount
+Mike is adding $165.6 to the register.
+Customer 2 has left the store after buying a food.
+Harry is cleaning a cat cage.
+Harry is cleaning a ferret cage.
+Harry is cleaning a snake cage.
+Harry is cleaning a dog cage.
+Harry is cleaning a sick bird's cage.
+Harry is cleaning a cat cage.
+Harry is cleaning a ferret cage.
+Harry is cleaning a snake cage.
+Mike is locking up the store. Mike and Harry are leaving the store.
+      ------New Day------
+Lisa the clerk arrives at the store on day 4.
+Harry the trainer arrives at the store on day 4.
+Harry is feeding a cat.
+Harry is feeding a ferret.
+Harry is feeding a snake.
+Harry is feeding a dog.
+Harry is feeding a sick bird. They haven't gotten better.
+Harry is feeding a cat.
+Harry is feeding a ferret.
+Harry is feeding a snake.
+Lisa says there is $1832.3999 in the register. No need to go to bank.
+Lisa says the inventory is valued at $1499.0
+Lisa says there is no dog food in stock. They're going to order more.
+The order will cost $72.0
 Lisa says there are no more dog toys in stock. They're not going to order more.
 Lisa says there are no more bird toys in stock. They're not going to order more.
-Lisa says there are no cat leashes in stock. They're going to order more.
-The order will cost $119.0
+Harry is training a cat.
+The cat is already housebroken, no need to train.
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Harry is training a dog.
+The dog is already housebroken, no need to train.
+Harry is training a cat.
+The cat is already housebroken, no need to train.
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a cat litter.
+Harry offered Customer 1 a 10% discount on the cat litter
+Customer 1 will pay for the cat litter with a 10% discount
+Lisa is adding $118.8 to the register.
+Customer 1 has left the store after buying a cat litter.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a snake.
+Harry offered Customer 2 a 10% discount on the snake
+Customer 2 will continue to look at other items.
+Customer 2 has left the store without buying an item.
+Harry is cleaning a cat cage.
+Harry is cleaning a ferret cage.
+Harry is cleaning a snake cage.
+Harry is cleaning a dog cage.
+Harry is cleaning a sick bird's cage.
+Harry is cleaning a cat cage.
+Harry is cleaning a ferret cage.
+Harry is cleaning a snake cage.
+Lisa is locking up the store. Lisa and Harry are leaving the store.
+      ------New Day------
+Mike the clerk arrives at the store on day 5.
+Julie the trainer arrives at the store on day 5.
+Julie is feeding a cat.
+Julie is feeding a ferret.
+Julie is feeding a snake.
+Julie is feeding a dog.
+Julie is feeding a sick bird. They haven't gotten better.
+Julie is feeding a cat.
+Julie is feeding a ferret.
+Julie is feeding a snake.
+Mike says there is $1879.2 in the register. No need to go to bank.
+Mike says the inventory is valued at $1433.0
+Mike says there is no dog food in stock. They're going to order more.
+The order will cost $137.0
+Mike says there are no more dog toys in stock. They're not going to order more.
+Mike says there are no more bird toys in stock. They're not going to order more.
+Julie is training a cat.
+The cat is already housebroken, no need to train.
+Julie is training a ferret.
+The ferret is already housebroken, no need to train.
+Julie is training a dog.
+The dog is already housebroken, no need to train.
+Julie is training a cat.
+The cat is already housebroken, no need to train.
+Julie is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a cat litter.
+Julie offered Customer 1 a 10% discount on the cat litter
+Customer 1 will pay for the cat litter with a 10% discount
+Mike is adding $162.0 to the register.
+Customer 1 has left the store after buying a cat litter.
+Customer 2 has entered the store.
+Customer 2 has left the store without buying an item.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a ferret.
+Mike says Customer 3 will pay for the ferret at list price.
+Insurance will be added to the sale for $50.
+Mike is adding $98.0 to the register.
+Customer 3 has left the store after buying a ferret.
+Julie is cleaning a cat cage.
+Julie is cleaning a snake cage.
+Julie is cleaning a dog cage.
+Julie is cleaning a sick bird's cage.
+Julie is cleaning a cat cage.
+Julie is cleaning a ferret cage.
+Julie is cleaning a snake cage.
+Mike is locking up the store. Mike and Julie are leaving the store.
+      ------New Day------
+Mike the clerk arrives at the store on day 6.
+Bob the trainer arrives at the store on day 6.
+Mike says a new food has arrived. It will be added to inventory.
+Mike says a new food has arrived. It will be added to inventory.
+Mike says a new food has arrived. It will be added to inventory.
+Bob is feeding a cat.
+Bob is feeding a snake.
+Bob is feeding a dog.
+Bob is feeding a sick bird. They haven't gotten better.
+Bob is feeding a cat.
+Bob is feeding a ferret.
+Bob is feeding a snake. Bob says the snake has gotten sick. They're being moved to the clinic.
+Mike says there is $1952.2 in the register. No need to go to bank.
+Mike says the inventory is valued at $1391.0
+Mike says there are no more dog toys in stock. They're not going to order more.
+Mike says there are no more bird toys in stock. They're not going to order more.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a cat.
+Bob offered Customer 1 a 10% discount on the cat
+Customer 1 will pay for the cat with a 10% discount
+A microchip will be added to the sale for $50.
+Mike is adding $145.4 to the register.
+Customer 1 has left the store after buying a cat.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a food.
+Mike says Customer 2 will pay for the food at list price.
+Mike is adding $158.0 to the register.
+Customer 2 has left the store after buying a food.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a dog.
+Mike says Customer 3 will pay for the dog at list price.
+A microchip will be added to the sale for $50.
+Mike is adding $242.0 to the register.
+Customer 3 has left the store after buying a dog.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a food.
+Bob offered Customer 4 a 10% discount on the food
+Customer 4 will continue to look at other items.
+Customer 4 is thinking about buying a treats.
+Bob offered Customer 4 a 10% discount on the treats
+Customer 4 will pay for the treats with a 10% discount
+Mike is adding $133.2 to the register.
+Customer 4 has left the store after buying a treats.
+Bob is cleaning a snake cage.
+Bob is cleaning a sick bird's cage. Oh no the bird escaped.
+Mike has caught the bird and returned it to the cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a sick snake's cage.
+Mike is locking up the store. Mike and Bob are leaving the store.
+      ------New Day------
+Greg the clerk arrives at the store on day 7.
+Harry the trainer arrives at the store on day 7.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Harry is feeding a snake.
+Harry is feeding a sick bird. They haven't gotten better.
+Harry is feeding a cat.
+Harry is feeding a ferret.
+Harry is feeding a sick snake. They haven't gotten better.
+Greg says there is $2530.8 in the register. No need to go to bank.
+Greg says the inventory is valued at $1226.0
+Greg says there are no dogs in stock. They're going to order more.
+The order will cost $109.0
+Greg says there are no ferrets in stock. They're going to order more.
+The order will cost $187.0
+Greg says there are no more dog toys in stock. They're not going to order more.
+Greg says there are no more bird toys in stock. They're not going to order more.
+Harry is training a cat.
+The cat is already housebroken, no need to train.
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a leash.
+Harry offered Customer 1 a 10% discount on the leash
+Customer 1 will pay for the leash with a 10% discount
+Greg is adding $154.8 to the register.
+Customer 1 has left the store after buying a leash.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a ferret.
+Greg says Customer 2 will pay for the ferret at list price.
+A microchip will be added to the sale for $50.
+Greg is adding $232.0 to the register.
+Customer 2 has left the store after buying a ferret.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a food.
+Harry offered Customer 3 a 10% discount on the food
+Customer 3 will pay for the food with a 10% discount
+Greg is adding $115.2 to the register.
+Customer 3 has left the store after buying a food.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a food.
+Greg says Customer 4 will pay for the food at list price.
+Greg is adding $20.0 to the register.
+Customer 4 has left the store after buying a food.
+Harry is cleaning a snake cage.
+Harry is cleaning a sick bird's cage.
+Harry is cleaning a cat cage.
+Harry is cleaning a sick snake's cage.
+Greg is locking up the store. Greg and Harry are leaving the store.
+      ------New Day------
+Lisa the clerk arrives at the store on day 8.
+Julie the trainer arrives at the store on day 8.
+Lisa says a new dog has arrived. It will be added to inventory.
+Lisa says a new dog has arrived. It will be added to inventory.
+Lisa says a new dog has arrived. It will be added to inventory.
+Julie is feeding a snake.
+Julie is feeding a sick bird. They haven't gotten better.
+Julie is feeding a cat.
+Julie is feeding a sick snake. They haven't gotten better.
+Julie is feeding a dog.
+Julie is feeding a dog.
+Julie is feeding a dog.
+Lisa says there is $2706.8 in the register. No need to go to bank.
+Lisa says the inventory is valued at $1084.0
+Lisa says there are no more dog toys in stock. They're not going to order more.
+Lisa says there are no more bird toys in stock. They're not going to order more.
+Julie is training a cat.
+The cat is already housebroken, no need to train.
+Julie is training a dog.
+The dog is not yet housebroken, they're going to train with Julie
+Julie is training a dog.
+The dog is not yet housebroken, they're going to train with Julie
+Julie is training a dog.
+The dog is not yet housebroken, they're going to train with Julie
+Customer 1 has entered the store.
+Customer 1 has left the store without buying an item.
+Customer 2 has entered the store.
+Customer 2 has left the store without buying an item.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a leash.
+Lisa says Customer 3 will pay for the leash at list price.
+Lisa is adding $14.0 to the register.
+Customer 3 has left the store after buying a leash.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a snake.
+Lisa says Customer 4 will pay for the snake at list price.
+Insurance will be added to the sale for $50.
+Lisa is adding $232.0 to the register.
+Customer 4 has left the store after buying a snake.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a dog.
+Julie offered Customer 5 a 10% discount on the dog
+Customer 5 will continue to look at other items.
+Customer 5 has left the store without buying an item.
+Customer 6 has entered the store.
+Customer 6 is thinking about buying a cat litter.
+Lisa says Customer 6 will pay for the cat litter at list price.
+Lisa is adding $154.0 to the register.
+Customer 6 has left the store after buying a cat litter.
+Customer 7 has entered the store.
+Customer 7 has left the store without buying an item.
+Customer 8 has entered the store.
+Customer 8 is thinking about buying a toy.
+Lisa says Customer 8 will pay for the toy at list price.
+Lisa is adding $194.0 to the register.
+Customer 8 has left the store after buying a toy.
+Julie is cleaning a sick bird's cage.
+Julie is cleaning a cat cage.
+Julie is cleaning a sick snake's cage.
+Julie is cleaning a dog cage.
+Julie is cleaning a dog cage.
+Julie is cleaning a dog cage.
+Lisa is locking up the store. Lisa and Julie are leaving the store.
+      ------New Day------
+Greg the clerk arrives at the store on day 9.
+Julie the trainer arrives at the store on day 9.
+Greg says a new ferret has arrived. It will be added to inventory.
+Greg says a new ferret has arrived. It will be added to inventory.
+Greg says a new ferret has arrived. It will be added to inventory.
+Julie is feeding a sick bird. Julie says the bird has gotten better. They're being moved to the store.
+Julie is feeding a cat.
+Julie is feeding a sick snake. They haven't gotten better.
+Julie is feeding a dog.
+Julie is feeding a dog. Julie says the dog has gotten sick. They're being moved to the clinic.
+Julie is feeding a dog.
+Julie is feeding a ferret.
+Julie is feeding a ferret.
+Julie is feeding a ferret.
+Greg says there is $3250.8 in the register. No need to go to bank.
+Greg says the inventory is valued at $999.0
+Greg says there are no more dog toys in stock. They're not going to order more.
+Greg says there are no more bird toys in stock. They're not going to order more.
+Greg says there is no cat litter in stock. They're going to order more.
+The order will cost $67.0
+Julie is training a cat.
+The cat is already housebroken, no need to train.
+Julie is training a dog.
+The dog is not yet housebroken, they're going to train with Julie
+Julie is training a dog.
+The dog is not yet housebroken, they're going to train with Julie
+Julie is training a dog.
+The dog is not yet housebroken, they're going to train with Julie
+Julie is training a ferret.
+The ferret is already housebroken, no need to train.
+Julie is training a ferret.
+The ferret is not yet housebroken, they're going to train with Julie
+Julie is training a ferret.
+The ferret is not yet housebroken, they're going to train with Julie
+Customer 1 has entered the store.
+Customer 1 has left the store without buying an item.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a dog.
+Julie offered Customer 2 a 10% discount on the dog
+Customer 2 will continue to look at other items.
+Customer 2 is thinking about buying a ferret.
+Greg says Customer 2 will pay for the ferret at list price.
+2 Vet visits will be added to the sale for $50
+Greg is adding $240.0 to the register.
+Customer 2 has left the store after buying a ferret.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a dog.
+Greg says Customer 3 will pay for the dog at list price.
+A microchip will be added to the sale for $50.
+Greg is adding $62.0 to the register.
+Customer 3 has left the store after buying a dog.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a food.
+Julie offered Customer 4 a 10% discount on the food
+Customer 4 will pay for the food with a 10% discount
+Greg is adding $25.2 to the register.
+Customer 4 has left the store after buying a food.
+Julie is cleaning a bird cage.
+Julie is cleaning a cat cage.
+Julie is cleaning a sick snake's cage.
+Julie is cleaning a dog cage.
+Julie is cleaning a sick dog's cage.
+Julie is cleaning a ferret cage.
+Julie is cleaning a ferret cage.
+Greg is locking up the store. Greg and Julie are leaving the store.
+      ------New Day------
+Lisa the clerk arrives at the store on day 10.
+Bob the trainer arrives at the store on day 10.
+Lisa says a new cat litter has arrived. It will be added to inventory.
+Lisa says a new cat litter has arrived. It will be added to inventory.
+Lisa says a new cat litter has arrived. It will be added to inventory.
+Bob is feeding a bird.
+Bob is feeding a cat.
+Bob is feeding a sick snake. Bob says the snake has gotten better. They're being moved to the store.
+Bob is feeding a dog.
+Bob is feeding a sick dog. Bob says the dog has gotten better. They're being moved to the store.
+Bob is feeding a ferret. Bob says the ferret has gotten sick. They're being moved to the clinic.
+Bob is feeding a ferret.
+Lisa says there is $3411.0 in the register. No need to go to bank.
+Lisa says the inventory is valued at $951.0
+Lisa says there is no cat food in stock. They're going to order more.
+The order will cost $76.0
+Lisa says there are no more dog toys in stock. They're not going to order more.
+Lisa says there are no more bird toys in stock. They're not going to order more.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a dog.
+The dog is not yet housebroken, they're going to train with Bob
+Bob is training a dog.
+The dog is not yet housebroken, they're going to train with Bob
+The positive reinforcement training worked, the dog is now housebroken.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is not yet housebroken, they're going to train with Bob
+The positive reinforcement training worked, the ferret is now housebroken.
 Customer 1 has entered the store.
 Customer 1 is thinking about buying a food.
 Lisa says Customer 1 will pay for the food at list price.
-Lisa is adding 0.0 to the register.
+Lisa is adding $184.0 to the register.
 Customer 1 has left the store after buying a food.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a leash.
+Lisa says Customer 2 will pay for the leash at list price.
+Lisa is adding $174.0 to the register.
+Customer 2 has left the store after buying a leash.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a bird.
+Bob offered Customer 3 a 10% discount on the bird
+Customer 3 will pay for the bird with a 10% discount
+Insurance will be added to the sale for $50.
+Lisa is adding $181.4 to the register.
+Customer 3 has left the store after buying a bird.
+Customer 4 has entered the store.
+Customer 4 has left the store without buying an item.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a food.
+Bob offered Customer 5 a 10% discount on the food
+Customer 5 will pay for the food with a 10% discount
+Lisa is adding $27.0 to the register.
+Customer 5 has left the store after buying a food.
+Customer 6 has entered the store.
+Customer 6 is thinking about buying a dog.
+Lisa says Customer 6 will pay for the dog at list price.
+3 Vet visits will be added to the sale for $75
+Lisa is adding $241.0 to the register.
+Customer 6 has left the store after buying a dog.
+Customer 7 has entered the store.
+Customer 7 is thinking about buying a leash.
+Lisa says Customer 7 will pay for the leash at list price.
+Lisa is adding $40.0 to the register.
+Customer 7 has left the store after buying a leash.
+Customer 8 has entered the store.
+Customer 8 is thinking about buying a cat litter.
+Bob offered Customer 8 a 10% discount on the cat litter
+Customer 8 will pay for the cat litter with a 10% discount
+Lisa is adding $45.0 to the register.
+Customer 8 has left the store after buying a cat litter.
+Customer 9 has entered the store.
+Customer 9 is thinking about buying a snake.
+Lisa says Customer 9 will pay for the snake at list price.
+1 Vet visits will be added to the sale for $25
+Lisa is adding $119.0 to the register.
+Customer 9 has left the store after buying a snake.
+Bob is cleaning a cat cage.
+Bob is cleaning a dog cage.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a ferret cage.
+Lisa is locking up the store. Lisa and Bob are leaving the store.
+      ------New Day------
+Lisa the clerk arrives at the store on day 11.
+Harry the trainer arrives at the store on day 11.
+Lisa says a new food has arrived. It will be added to inventory.
+Lisa says a new food has arrived. It will be added to inventory.
+Lisa says a new food has arrived. It will be added to inventory.
+Harry is feeding a cat.
+Harry is feeding a dog.
+Harry is feeding a sick ferret. They haven't gotten better.
+Harry is feeding a ferret.
+Lisa says there is $4196.4 in the register. No need to go to bank.
+Lisa says the inventory is valued at $585.0
+Lisa says there are no birds in stock. They're going to order more.
+The order will cost $145.0
+Lisa says there are no snakes in stock. They're going to order more.
+The order will cost $149.0
+Lisa says there is no bird food in stock. They're going to order more.
+The order will cost $174.0
+Lisa says there are no more dog toys in stock. They're not going to order more.
+Lisa says there are no more bird toys in stock. They're not going to order more.
+Lisa says there are no cat leashes in stock. They're going to order more.
+The order will cost $151.0
+Lisa says there are no dog leashes in stock. They're going to order more.
+The order will cost $111.0
+Harry is training a cat.
+The cat is already housebroken, no need to train.
+Harry is training a dog.
+The dog is already housebroken, no need to train.
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a food.
+Harry offered Customer 1 a 10% discount on the food
+Customer 1 will pay for the food with a 10% discount
+Lisa is adding $50.4 to the register.
+Customer 1 has left the store after buying a food.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a food.
+Harry offered Customer 2 a 10% discount on the food
+Customer 2 will continue to look at other items.
+Customer 2 has left the store without buying an item.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a cat.
+Lisa says Customer 3 will pay for the cat at list price.
+A microchip will be added to the sale for $50.
+Lisa is adding $150.0 to the register.
+Customer 3 has left the store after buying a cat.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a cat litter.
+Lisa says Customer 4 will pay for the cat litter at list price.
+Lisa is adding $40.0 to the register.
+Customer 4 has left the store after buying a cat litter.
+Customer 5 has entered the store.
+Customer 5 has left the store without buying an item.
+Harry is cleaning a dog cage.
+Harry is cleaning a sick ferret's cage.
+Harry is cleaning a ferret cage.
+Lisa is locking up the store. Lisa and Harry are leaving the store.
+      ------New Day------
+Greg the clerk arrives at the store on day 12.
+Harry the trainer arrives at the store on day 12.
+Greg says a new bird has arrived. It will be added to inventory.
+Greg says a new bird has arrived. It will be added to inventory.
+Greg says a new bird has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new leash has arrived. It will be added to inventory.
+Greg says a new leash has arrived. It will be added to inventory.
+Greg says a new leash has arrived. It will be added to inventory.
+Harry is feeding a dog.
+Harry is feeding a sick ferret. They haven't gotten better.
+Harry is feeding a ferret.
+Harry is feeding a bird.
+Harry is feeding a bird. Harry says the bird has gotten sick. They're being moved to the clinic.
+Harry is feeding a bird.
+Greg says there is $3656.7998 in the register. No need to go to bank.
+Greg says the inventory is valued at $917.0
+Greg says there are no cats in stock. They're going to order more.
+The order will cost $224.0
+Greg says there are no snakes in stock. They're going to order more.
+The order will cost $192.0
+Greg says there are no more dog toys in stock. They're not going to order more.
+Greg says there are no more bird toys in stock. They're not going to order more.
+Greg says there are no cat leashes in stock. They're going to order more.
+The order will cost $187.0
+Harry is training a dog.
+The dog is already housebroken, no need to train.
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a dog.
+Greg says Customer 1 will pay for the dog at list price.
+A microchip will be added to the sale for $50.
+Greg is adding $90.0 to the register.
+Customer 1 has left the store after buying a dog.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a cat litter.
+Greg says Customer 2 will pay for the cat litter at list price.
+Greg is adding $44.0 to the register.
+Customer 2 has left the store after buying a cat litter.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a bird.
+Harry offered Customer 3 a 10% discount on the bird
+Customer 3 will pay for the bird with a 10% discount
+3 Vet visits will be added to the sale for $75
+Greg is adding $132.6 to the register.
+Customer 3 has left the store after buying a bird.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a food.
+Greg says Customer 4 will pay for the food at list price.
+Greg is adding $46.0 to the register.
+Customer 4 has left the store after buying a food.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a food.
+Harry offered Customer 5 a 10% discount on the food
+Customer 5 will pay for the food with a 10% discount
+Greg is adding $75.6 to the register.
+Customer 5 has left the store after buying a food.
+Harry is cleaning a sick ferret's cage.
+Harry is cleaning a ferret cage.
+Harry is cleaning a sick bird's cage.
+Harry is cleaning a bird cage.
+Greg is locking up the store. Greg and Harry are leaving the store.
+      ------New Day------
+Lisa the clerk arrives at the store on day 13.
+Bob the trainer arrives at the store on day 13.
+Lisa says a new snake has arrived. It will be added to inventory.
+Lisa says a new snake has arrived. It will be added to inventory.
+Lisa says a new snake has arrived. It will be added to inventory.
+Lisa says a new leash has arrived. It will be added to inventory.
+Lisa says a new leash has arrived. It will be added to inventory.
+Lisa says a new leash has arrived. It will be added to inventory.
+Lisa says a new snake has arrived. It will be added to inventory.
+Lisa says a new snake has arrived. It will be added to inventory.
+Lisa says a new snake has arrived. It will be added to inventory.
+Bob is feeding a sick ferret. They haven't gotten better.
+Bob is feeding a ferret.
+Bob is feeding a sick bird. They haven't gotten better.
+Bob is feeding a bird.
+Bob is feeding a snake.
+Bob is feeding a snake.
+Bob is feeding a snake.
+Bob is feeding a snake.
+Bob is feeding a snake.
+Bob is feeding a snake.
+Lisa says there is $3317.0 in the register. No need to go to bank.
+Lisa says the inventory is valued at $1270.0
+Lisa says there are no dogs in stock. They're going to order more.
+The order will cost $36.0
+Lisa says there are no cats in stock. They're going to order more.
+The order will cost $89.0
+Lisa says there are no ferrets in stock. They're going to order more.
+The order will cost $121.0
+Lisa says there are no more dog toys in stock. They're not going to order more.
+Lisa says there are no more bird toys in stock. They're not going to order more.
+Lisa says there is no cat litter in stock. They're going to order more.
+The order will cost $62.0
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a toy.
+Bob offered Customer 1 a 10% discount on the toy
+Customer 1 will pay for the toy with a 10% discount
+Lisa is adding $154.8 to the register.
+Customer 1 has left the store after buying a toy.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a treats.
+Bob offered Customer 2 a 10% discount on the treats
+Customer 2 will pay for the treats with a 10% discount
+Lisa is adding $63.0 to the register.
+Customer 2 has left the store after buying a treats.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a food.
+Lisa says Customer 3 will pay for the food at list price.
+Lisa is adding $10.0 to the register.
+Customer 3 has left the store after buying a food.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a snake.
+Bob offered Customer 4 a 10% discount on the snake
+Customer 4 will pay for the snake with a 10% discount
+A microchip will be added to the sale for $50.
+Lisa is adding $73.4 to the register.
+Customer 4 has left the store after buying a snake.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a leash.
+Lisa says Customer 5 will pay for the leash at list price.
+Lisa is adding $46.0 to the register.
+Customer 5 has left the store after buying a leash.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a sick bird's cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a snake cage.
+Lisa is locking up the store. Lisa and Bob are leaving the store.
+      ------New Day------
+Mike the clerk arrives at the store on day 14.
+Bob the trainer arrives at the store on day 14.
+Mike says a new cat has arrived. It will be added to inventory.
+Mike says a new cat has arrived. It will be added to inventory.
+Mike says a new cat has arrived. It will be added to inventory.
+Mike says a new leash has arrived. It will be added to inventory.
+Mike says a new leash has arrived. It will be added to inventory.
+Mike says a new leash has arrived. It will be added to inventory.
+Mike says a new cat has arrived. It will be added to inventory.
+Mike says a new cat has arrived. It will be added to inventory.
+Mike says a new cat has arrived. It will be added to inventory.
+Mike says a new ferret has arrived. It will be added to inventory.
+Mike says a new ferret has arrived. It will be added to inventory.
+Mike says a new ferret has arrived. It will be added to inventory.
+Mike says a new cat litter has arrived. It will be added to inventory.
+Mike says a new cat litter has arrived. It will be added to inventory.
+Mike says a new cat litter has arrived. It will be added to inventory.
+Bob is feeding a sick ferret. They haven't gotten better.
+Bob is feeding a ferret.
+Bob is feeding a sick bird. They haven't gotten better.
+Bob is feeding a bird.
+Bob is feeding a snake.
+Bob is feeding a snake.
+Bob is feeding a snake.
+Bob is feeding a snake.
+Bob is feeding a snake.
+Bob is feeding a cat.
+Bob is feeding a cat.
+Bob is feeding a cat.
+Bob is feeding a cat.
+Bob is feeding a cat.
+Bob is feeding a cat.
+Bob is feeding a ferret.
+Bob is feeding a ferret. Bob says the ferret has gotten sick. They're being moved to the clinic.
+Bob is feeding a ferret.
+Mike says there is $3306.2 in the register. No need to go to bank.
+Mike says the inventory is valued at $1791.0
+Mike says there are no dogs in stock. They're going to order more.
+The order will cost $224.0
+Mike says there are no ferrets in stock. They're going to order more.
+The order will cost $43.0
+Mike says there are no more dog toys in stock. They're not going to order more.
+Mike says there are no more cat toys in stock. They're not going to order more.
+Mike says there are no more bird toys in stock. They're not going to order more.
+Mike says there are no treats in stock. They're going to order more.
+The order will cost $182.0
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is not yet housebroken, they're going to train with Bob
+The positive reinforcement training worked, the cat is now housebroken.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is not yet housebroken, they're going to train with Bob
+The positive reinforcement training worked, the cat is now housebroken.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is not yet housebroken, they're going to train with Bob
+The positive reinforcement training worked, the ferret is now housebroken.
+Bob is training a ferret.
+The ferret is not yet housebroken, they're going to train with Bob
+The positive reinforcement training worked, the ferret is now housebroken.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a food.
+Mike says Customer 1 will pay for the food at list price.
+Mike is adding $144.0 to the register.
+Customer 1 has left the store after buying a food.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a food.
+Mike says Customer 2 will pay for the food at list price.
+Mike is adding $86.0 to the register.
+Customer 2 has left the store after buying a food.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a food.
+Mike says Customer 3 will pay for the food at list price.
+Mike is adding $72.0 to the register.
+Customer 3 has left the store after buying a food.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a cat.
+Mike says Customer 4 will pay for the cat at list price.
+A microchip will be added to the sale for $50.
+Mike is adding $208.0 to the register.
+Customer 4 has left the store after buying a cat.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a sick bird's cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a ferret cage.
+Mike is locking up the store. Mike and Bob are leaving the store.
+      ------New Day------
+Mike the clerk arrives at the store on day 15.
+Bob the trainer arrives at the store on day 15.
+Mike says a new dog has arrived. It will be added to inventory.
+Mike says a new dog has arrived. It will be added to inventory.
+Mike says a new dog has arrived. It will be added to inventory.
+Mike says a new dog has arrived. It will be added to inventory.
+Mike says a new dog has arrived. It will be added to inventory.
+Mike says a new dog has arrived. It will be added to inventory.
+Mike says a new ferret has arrived. It will be added to inventory.
+Mike says a new ferret has arrived. It will be added to inventory.
+Mike says a new ferret has arrived. It will be added to inventory.
+Bob is feeding a sick ferret. They haven't gotten better.
+Bob is feeding a ferret.
+Bob is feeding a sick bird. They haven't gotten better.
+Bob is feeding a bird.
+Bob is feeding a snake.
+Bob is feeding a snake.
+Bob is feeding a snake. Bob says the snake has gotten sick. They're being moved to the clinic.
+Bob is feeding a snake.
+Bob is feeding a snake.
+Bob is feeding a cat.
+Bob is feeding a cat.
+Bob is feeding a cat.
+Bob is feeding a cat.
+Bob is feeding a cat.
+Bob is feeding a ferret.
+Bob is feeding a sick ferret. They haven't gotten better.
+Bob is feeding a ferret.
+Bob is feeding a dog.
+Bob is feeding a dog.
+Bob is feeding a dog.
+Bob is feeding a dog.
+Bob is feeding a dog.
+Bob is feeding a dog.
+Bob is feeding a ferret.
+Bob is feeding a ferret.
+Bob is feeding a ferret.
+Mike says there is $3317.2 in the register. No need to go to bank.
+Mike says the inventory is valued at $1864.0
+Mike says there is no cat food in stock. They're going to order more.
+The order will cost $90.0
+Mike says there are no more dog toys in stock. They're not going to order more.
+Mike says there are no more cat toys in stock. They're not going to order more.
+Mike says there are no more bird toys in stock. They're not going to order more.
+Mike says there are no treats in stock. They're going to order more.
+The order will cost $102.0
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a dog.
+The dog is not yet housebroken, they're going to train with Bob
+Bob is training a dog.
+The dog is not yet housebroken, they're going to train with Bob
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is not yet housebroken, they're going to train with Bob
+The positive reinforcement training worked, the ferret is now housebroken.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is not yet housebroken, they're going to train with Bob
+The positive reinforcement training worked, the ferret is now housebroken.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a snake.
+Mike says Customer 1 will pay for the snake at list price.
+A microchip will be added to the sale for $50.
+Mike is adding $216.0 to the register.
+Customer 1 has left the store after buying a snake.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a snake.
+Bob offered Customer 2 a 10% discount on the snake
+Customer 2 will continue to look at other items.
+Customer 2 is thinking about buying a dog.
+Mike says Customer 2 will pay for the dog at list price.
+4 Vet visits will be added to the sale for $100
+Mike is adding $118.0 to the register.
+Customer 2 has left the store after buying a dog.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a ferret.
+Bob offered Customer 3 a 10% discount on the ferret
+Customer 3 will pay for the ferret with a 10% discount
+3 Vet visits will be added to the sale for $75
+Mike is adding $197.4 to the register.
+Customer 3 has left the store after buying a ferret.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a ferret.
+Mike says Customer 4 will pay for the ferret at list price.
+1 Vet visits will be added to the sale for $25
+Mike is adding $47.0 to the register.
+Customer 4 has left the store after buying a ferret.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a leash.
+Mike says Customer 5 will pay for the leash at list price.
+Mike is adding $22.0 to the register.
+Customer 5 has left the store after buying a leash.
+Customer 6 has entered the store.
+Customer 6 is thinking about buying a leash.
+Bob offered Customer 6 a 10% discount on the leash
+Customer 6 will pay for the leash with a 10% discount
+Mike is adding $7.2 to the register.
+Customer 6 has left the store after buying a leash.
+Customer 7 has entered the store.
+Customer 7 is thinking about buying a food.
+Mike says Customer 7 will pay for the food at list price.
+Mike is adding $150.0 to the register.
+Customer 7 has left the store after buying a food.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a sick bird's cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a sick snake's cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a cat cage. Oh no the cat escaped.
+Bob has caught the cat and returned it to the cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a dog cage.
+Bob is cleaning a dog cage.
+Bob is cleaning a dog cage.
+Bob is cleaning a dog cage.
+Bob is cleaning a dog cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a ferret cage.
+Mike is locking up the store. Mike and Bob are leaving the store.
+      ------New Day------
+Greg the clerk arrives at the store on day 16.
+Harry the trainer arrives at the store on day 16.
+Greg says a new treats has arrived. It will be added to inventory.
+Greg says a new treats has arrived. It will be added to inventory.
+Greg says a new treats has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new treats has arrived. It will be added to inventory.
+Greg says a new treats has arrived. It will be added to inventory.
+Greg says a new treats has arrived. It will be added to inventory.
+Harry is feeding a sick ferret. They haven't gotten better.
+Harry is feeding a sick bird. They haven't gotten better.
+Harry is feeding a bird.
+Harry is feeding a snake.
+Harry is feeding a sick snake. They haven't gotten better.
+Harry is feeding a snake.
+Harry is feeding a snake.
+Harry is feeding a cat.
+Harry is feeding a cat.
+Harry is feeding a cat. Harry says the cat has gotten sick. They're being moved to the clinic.
+Harry is feeding a cat.
+Harry is feeding a cat.
+Harry is feeding a ferret.
+Harry is feeding a sick ferret. They haven't gotten better.
+Harry is feeding a ferret.
+Harry is feeding a dog.
+Harry is feeding a dog.
+Harry is feeding a dog.
+Harry is feeding a dog.
+Harry is feeding a dog.
+Harry is feeding a ferret.
+Harry is feeding a ferret.
+Greg says there is $3632.7998 in the register. No need to go to bank.
+Greg says the inventory is valued at $1977.0
+Greg says there are no more dog toys in stock. They're not going to order more.
+Greg says there are no more cat toys in stock. They're not going to order more.
+Greg says there are no more bird toys in stock. They're not going to order more.
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Harry is training a cat.
+The cat is already housebroken, no need to train.
+Harry is training a cat.
+The cat is already housebroken, no need to train.
+Harry is training a cat.
+The cat is already housebroken, no need to train.
+Harry is training a cat.
+The cat is already housebroken, no need to train.
+Harry is training a cat.
+The cat is already housebroken, no need to train.
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Harry is training a dog.
+The dog is not yet housebroken, they're going to train with Harry
+Harry is training a dog.
+The dog is already housebroken, no need to train.
+Harry is training a dog.
+The dog is already housebroken, no need to train.
+Harry is training a dog.
+The dog is already housebroken, no need to train.
+Harry is training a dog.
+The dog is already housebroken, no need to train.
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a leash.
+Harry offered Customer 1 a 10% discount on the leash
+Customer 1 will pay for the leash with a 10% discount
+Greg is adding $106.2 to the register.
+Customer 1 has left the store after buying a leash.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a dog.
+Harry offered Customer 2 a 10% discount on the dog
+Customer 2 will continue to look at other items.
+Customer 2 is thinking about buying a treats.
+Harry offered Customer 2 a 10% discount on the treats
+Customer 2 will pay for the treats with a 10% discount
+Greg is adding $138.6 to the register.
+Customer 2 has left the store after buying a treats.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a food.
+Harry offered Customer 3 a 10% discount on the food
+Customer 3 will pay for the food with a 10% discount
+Greg is adding $84.6 to the register.
+Customer 3 has left the store after buying a food.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a leash.
+Greg says Customer 4 will pay for the leash at list price.
+Greg is adding $90.0 to the register.
+Customer 4 has left the store after buying a leash.
+Harry is cleaning a sick ferret's cage.
+Harry is cleaning a sick bird's cage.
+Harry is cleaning a bird cage.
+Harry is cleaning a snake cage.
+Harry is cleaning a sick snake's cage.
+Harry is cleaning a snake cage.
+Harry is cleaning a snake cage.
+Harry is cleaning a cat cage.
+Harry is cleaning a cat cage.
+Harry is cleaning a sick cat's cage.
+Harry is cleaning a cat cage.
+Harry is cleaning a cat cage.
+Harry is cleaning a ferret cage.
+Harry is cleaning a sick ferret's cage.
+Harry is cleaning a ferret cage.
+Harry is cleaning a dog cage.
+Harry is cleaning a dog cage.
+Harry is cleaning a dog cage.
+Harry is cleaning a dog cage.
+Harry is cleaning a dog cage.
+Harry is cleaning a ferret cage.
+Harry is cleaning a ferret cage.
+Greg is locking up the store. Greg and Harry are leaving the store.
+      ------New Day------
+Mike the clerk arrives at the store on day 17.
+Bob the trainer arrives at the store on day 17.
+Bob is feeding a sick ferret. They haven't gotten better.
+Bob is feeding a sick bird. They haven't gotten better.
+Bob is feeding a bird.
+Bob is feeding a snake.
+Bob is feeding a sick snake. They haven't gotten better.
+Bob is feeding a snake.
+Bob is feeding a snake.
+Bob is feeding a cat. Bob says the cat has gotten sick. They're being moved to the clinic.
+Bob is feeding a cat.
+Bob is feeding a sick cat. They haven't gotten better.
+Bob is feeding a cat.
+Bob is feeding a cat.
+Bob is feeding a ferret.
+Bob is feeding a sick ferret. They haven't gotten better.
+Bob is feeding a ferret.
+Bob is feeding a dog.
+Bob is feeding a dog.
+Bob is feeding a dog.
+Bob is feeding a dog.
+Bob is feeding a dog.
+Bob is feeding a ferret.
+Bob is feeding a ferret.
+Mike says there is $4052.2 in the register. No need to go to bank.
+Mike says the inventory is valued at $1749.0
+Mike says there is no dog food in stock. They're going to order more.
+The order will cost $157.0
+Mike says there are no more dog toys in stock. They're not going to order more.
+Mike says there are no more cat toys in stock. They're not going to order more.
+Mike says there are no more bird toys in stock. They're not going to order more.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a dog.
+The dog is not yet housebroken, they're going to train with Bob
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a cat.
+Bob offered Customer 1 a 10% discount on the cat
+Customer 1 will pay for the cat with a 10% discount
+A microchip will be added to the sale for $50.
+Mike is adding $138.2 to the register.
+Customer 1 has left the store after buying a cat.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a cat litter.
+Mike says Customer 2 will pay for the cat litter at list price.
+Mike is adding $12.0 to the register.
+Customer 2 has left the store after buying a cat litter.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a dog.
+Mike says Customer 3 will pay for the dog at list price.
+A microchip will be added to the sale for $50.
+Mike is adding $102.0 to the register.
+Customer 3 has left the store after buying a dog.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a snake.
+Mike says Customer 4 will pay for the snake at list price.
+Insurance will be added to the sale for $50.
+Mike is adding $184.0 to the register.
+Customer 4 has left the store after buying a snake.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a dog.
+Bob offered Customer 5 a 10% discount on the dog
+Customer 5 will pay for the dog with a 10% discount
+1 Vet visits will be added to the sale for $25
+Mike is adding $26.8 to the register.
+Customer 5 has left the store after buying a dog.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a sick bird's cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a sick snake's cage.
+Bob is cleaning a snake cage. Oh no the snake escaped.
+Mike has caught the snake and returned it to the cage.
+Bob is cleaning a sick cat's cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a sick cat's cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a ferret cage. Oh no the ferret escaped.
+Mike has caught the ferret and returned it to the cage.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a dog cage.
+Bob is cleaning a dog cage.
+Bob is cleaning a dog cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a ferret cage.
+Mike is locking up the store. Mike and Bob are leaving the store.
+      ------New Day------
+Greg the clerk arrives at the store on day 18.
+Bob the trainer arrives at the store on day 18.
+Bob is feeding a sick ferret. They haven't gotten better.
+Bob is feeding a sick bird. They haven't gotten better.
+Bob is feeding a bird.
+Bob is feeding a snake.
+Bob is feeding a sick snake. They haven't gotten better.
+Bob is feeding a snake.
+Bob is feeding a sick cat. They haven't gotten better.
+Bob is feeding a cat.
+Bob is feeding a sick cat. They haven't gotten better.
+Bob is feeding a cat.
+Bob is feeding a ferret. Bob says the ferret has gotten sick. They're being moved to the clinic.
+Bob is feeding a sick ferret. They haven't gotten better.
+Bob is feeding a ferret.
+Bob is feeding a dog.
+Bob is feeding a dog.
+Bob is feeding a dog.
+Bob is feeding a ferret.
+Bob is feeding a ferret.
+Greg says there is $4183.1997 in the register. No need to go to bank.
+Greg says the inventory is valued at $1600.0
+Greg says there is no dog food in stock. They're going to order more.
+The order will cost $135.0
+Greg says there are no more dog toys in stock. They're not going to order more.
+Greg says there are no more cat toys in stock. They're not going to order more.
+Greg says there are no more bird toys in stock. They're not going to order more.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a snake.
+Bob offered Customer 1 a 10% discount on the snake
+Customer 1 will continue to look at other items.
+Customer 1 is thinking about buying a dog.
+Greg says Customer 1 will pay for the dog at list price.
+A microchip will be added to the sale for $50.
+Greg is adding $236.0 to the register.
+Customer 1 has left the store after buying a dog.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a snake.
+Bob offered Customer 2 a 10% discount on the snake
+Customer 2 will pay for the snake with a 10% discount
+Insurance will be added to the sale for $50.
+Greg is adding $145.4 to the register.
+Customer 2 has left the store after buying a snake.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a leash.
+Bob offered Customer 3 a 10% discount on the leash
+Customer 3 will pay for the leash with a 10% discount
+Greg is adding $162.0 to the register.
+Customer 3 has left the store after buying a leash.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a dog.
+Greg says Customer 4 will pay for the dog at list price.
+A microchip will be added to the sale for $50.
+Greg is adding $118.0 to the register.
+Customer 4 has left the store after buying a dog.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a cat.
+Greg says Customer 5 will pay for the cat at list price.
+3 Vet visits will be added to the sale for $75
+Greg is adding $91.0 to the register.
+Customer 5 has left the store after buying a cat.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a sick bird's cage. Oh no the bird escaped.
+Bob has caught the bird and returned it to the cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a sick snake's cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a sick cat's cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a sick cat's cage.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a ferret cage. Oh no the ferret escaped.
+Greg has caught the ferret and returned it to the cage.
+Bob is cleaning a dog cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a ferret cage.
+Greg is locking up the store. Greg and Bob are leaving the store.
+      ------New Day------
+Lisa the clerk arrives at the store on day 19.
+Bob the trainer arrives at the store on day 19.
+Lisa says a new food has arrived. It will be added to inventory.
+Lisa says a new food has arrived. It will be added to inventory.
+Lisa says a new food has arrived. It will be added to inventory.
+Bob is feeding a sick ferret. They haven't gotten better.
+Bob is feeding a sick bird. Bob says the bird has gotten better. They're being moved to the store.
+Bob is feeding a bird.
+Bob is feeding a sick snake. Bob says the snake has gotten better. They're being moved to the store.
+Bob is feeding a snake.
+Bob is feeding a sick cat. Bob says the cat has gotten better. They're being moved to the store.
+Bob is feeding a cat. Bob says the cat has gotten sick. They're being moved to the clinic.
+Bob is feeding a sick cat. Bob says the cat has gotten better. They're being moved to the store.
+Bob is feeding a sick ferret. They haven't gotten better.
+Bob is feeding a sick ferret. Bob says the ferret has gotten better. They're being moved to the store.
+Bob is feeding a ferret.
+Bob is feeding a dog.
+Bob is feeding a ferret.
+Bob is feeding a ferret.
+Lisa says there is $4575.5996 in the register. No need to go to bank.
+Lisa says the inventory is valued at $1479.0
+Lisa says there are no more dog toys in stock. They're not going to order more.
+Lisa says there are no more cat toys in stock. They're not going to order more.
+Lisa says there are no more bird toys in stock. They're not going to order more.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a leash.
+Lisa says Customer 1 will pay for the leash at list price.
+Lisa is adding $82.0 to the register.
+Customer 1 has left the store after buying a leash.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a bird.
+Bob offered Customer 2 a 10% discount on the bird
+Customer 2 will pay for the bird with a 10% discount
+Insurance will be added to the sale for $50.
+Lisa is adding $168.8 to the register.
+Customer 2 has left the store after buying a bird.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a snake.
+Lisa says Customer 3 will pay for the snake at list price.
+A microchip will be added to the sale for $50.
+Lisa is adding $172.0 to the register.
+Customer 3 has left the store after buying a snake.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a leash.
+Lisa says Customer 4 will pay for the leash at list price.
+Lisa is adding $166.0 to the register.
+Customer 4 has left the store after buying a leash.
+Customer 5 has entered the store.
+Customer 5 has left the store without buying an item.
+Customer 6 has entered the store.
+Customer 6 is thinking about buying a ferret.
+Lisa says Customer 6 will pay for the ferret at list price.
+Insurance will be added to the sale for $50.
+Lisa is adding $164.0 to the register.
+Customer 6 has left the store after buying a ferret.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a sick cat's cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a dog cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a ferret cage.
+Lisa is locking up the store. Lisa and Bob are leaving the store.
+      ------New Day------
+Lisa the clerk arrives at the store on day 20.
+Bob the trainer arrives at the store on day 20.
+Lisa says a new food has arrived. It will be added to inventory.
+Lisa says a new food has arrived. It will be added to inventory.
+Lisa says a new food has arrived. It will be added to inventory.
+Bob is feeding a sick ferret. Bob says the ferret has gotten better. They're being moved to the store.
+Bob is feeding a bird.
+Bob is feeding a snake.
+Bob is feeding a cat.
+Bob is feeding a sick cat. They haven't gotten better.
+Bob is feeding a cat.
+Bob is feeding a sick ferret. They haven't gotten better.
+Bob is feeding a ferret.
+Bob is feeding a dog.
+Bob is feeding a ferret.
+Bob is feeding a ferret.
+Lisa says there is $5178.3994 in the register. No need to go to bank.
+Lisa says the inventory is valued at $1306.0
+Lisa says there are no more dog toys in stock. They're not going to order more.
+Lisa says there are no more cat toys in stock. They're not going to order more.
+Lisa says there are no more bird toys in stock. They're not going to order more.
+Lisa says there are no dog leashes in stock. They're going to order more.
+The order will cost $64.0
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a cat.
+Lisa says Customer 1 will pay for the cat at list price.
+Insurance will be added to the sale for $50.
+Lisa is adding $114.0 to the register.
+Customer 1 has left the store after buying a cat.
 Customer 2 has entered the store.
 Customer 2 is thinking about buying a bird.
 Lisa says Customer 2 will pay for the bird at list price.
-Lisa is adding 26.0 to the register.
+Insurance will be added to the sale for $50.
+Lisa is adding $144.0 to the register.
 Customer 2 has left the store after buying a bird.
 Customer 3 has entered the store.
-Customer 3 is thinking about buying a food.
-Julie offered Customer 3 a 10% discount on the food
-Customer 3 will continue to look at other items.
-Customer 3 is thinking about buying a food.
-Julie offered Customer 3 a 10% discount on the food
-Customer 3 will continue to look at other items.
-Customer 3 has left the store without buying an item.
+Customer 3 is thinking about buying a leash.
+Lisa says Customer 3 will pay for the leash at list price.
+Lisa is adding $186.0 to the register.
+Customer 3 has left the store after buying a leash.
 Customer 4 has entered the store.
-Customer 4 is thinking about buying a toy.
-Lisa says Customer 4 will pay for the toy at list price.
-Lisa is adding 170.0 to the register.
-Customer 4 has left the store after buying a toy.
-Julie is cleaning a dog cage.
-Julie is cleaning a sick cat's cage.
-Lisa is locking up the store. Lisa and Julie are leaving the store.
-      ------New Day------
-Lisa the clerk arrives at the store on day 4.
-Bob the trainer arrives at the store on day 4.
-Lisa says a new leash has arrived. It will be added to inventory.
-Lisa says a new leash has arrived. It will be added to inventory.
-Lisa says a new leash has arrived. It will be added to inventory.
-Lisa says a new leash has arrived. It will be added to inventory.
-Lisa says a new leash has arrived. It will be added to inventory.
-Lisa says a new leash has arrived. It will be added to inventory.
-Bob is feeding a dog.
-Bob is feeding a sick cat. They haven't gotten better.
-Lisa says there is $1595.7999 in the register. No need to go to bank.
-Lisa says the inventory is valued at $1130.0
-Lisa says there are no birds in stock. They're going to order more.
-The order will cost $176.0
-Lisa says there are no more dog toys in stock. They're not going to order more.
-Lisa says there are no more bird toys in stock. They're not going to order more.
-Customer 1 has entered the store.
-Customer 1 is thinking about buying a toy.
-Lisa says Customer 1 will pay for the toy at list price.
-Lisa is adding 14.0 to the register.
-Customer 1 has left the store after buying a toy.
-Customer 2 has entered the store.
-Customer 2 is thinking about buying a cat litter.
-Bob offered Customer 2 a 10% discount on the cat litter
-Customer 2 will pay for the cat litter with a 10% discount
-Lisa is adding 180.0 to the register.
-Customer 2 has left the store after buying a cat litter.
-Bob is cleaning a dog cage.
+Customer 4 is thinking about buying a snake.
+Lisa says Customer 4 will pay for the snake at list price.
+Insurance will be added to the sale for $50.
+Lisa is adding $178.0 to the register.
+Customer 4 has left the store after buying a snake.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a cat litter.
+Bob offered Customer 5 a 10% discount on the cat litter
+Customer 5 will pay for the cat litter with a 10% discount
+Lisa is adding $23.4 to the register.
+Customer 5 has left the store after buying a cat litter.
+Customer 6 has entered the store.
+Customer 6 is thinking about buying a food.
+Bob offered Customer 6 a 10% discount on the food
+Customer 6 will pay for the food with a 10% discount
+Lisa is adding $28.8 to the register.
+Customer 6 has left the store after buying a food.
+Customer 7 has entered the store.
+Customer 7 is thinking about buying a cat.
+Bob offered Customer 7 a 10% discount on the cat
+Customer 7 will pay for the cat with a 10% discount
+4 Vet visits will be added to the sale for $100
+Lisa is adding $220.6 to the register.
+Customer 7 has left the store after buying a cat.
+Bob is cleaning a ferret cage.
 Bob is cleaning a sick cat's cage.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a dog cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a ferret cage.
 Lisa is locking up the store. Lisa and Bob are leaving the store.
+      ------New Day------
+Greg the clerk arrives at the store on day 21.
+Bob the trainer arrives at the store on day 21.
+Bob is feeding a ferret.
+Bob is feeding a sick cat. Bob says the cat has gotten better. They're being moved to the store.
+Bob is feeding a sick ferret. They haven't gotten better.
+Bob is feeding a ferret.
+Bob is feeding a dog.
+Bob is feeding a ferret.
+Bob is feeding a ferret.
+Greg says there is $5759.199 in the register. No need to go to bank.
+Greg says the inventory is valued at $974.0
+Greg says there are no birds in stock. They're going to order more.
+The order will cost $210.0
+Greg says there are no snakes in stock. They're going to order more.
+The order will cost $260.0
+Greg says there are no more dog toys in stock. They're not going to order more.
+Greg says there are no more cat toys in stock. They're not going to order more.
+Greg says there are no more bird toys in stock. They're not going to order more.
+Greg says there are no cat leashes in stock. They're going to order more.
+The order will cost $96.0
+Greg says there are no dog leashes in stock. They're going to order more.
+The order will cost $198.0
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a dog.
+Bob offered Customer 1 a 10% discount on the dog
+Customer 1 will pay for the dog with a 10% discount
+A microchip will be added to the sale for $50.
+Greg is adding $224.6 to the register.
+Customer 1 has left the store after buying a dog.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a food.
+Bob offered Customer 2 a 10% discount on the food
+Customer 2 will pay for the food with a 10% discount
+Greg is adding $113.4 to the register.
+Customer 2 has left the store after buying a food.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a food.
+Bob offered Customer 3 a 10% discount on the food
+Customer 3 will pay for the food with a 10% discount
+Greg is adding $7.2 to the register.
+Customer 3 has left the store after buying a food.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a ferret.
+Bob offered Customer 4 a 10% discount on the ferret
+Customer 4 will pay for the ferret with a 10% discount
+3 Vet visits will be added to the sale for $75
+Greg is adding $118.2 to the register.
+Customer 4 has left the store after buying a ferret.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a treats.
+Bob offered Customer 5 a 10% discount on the treats
+Customer 5 will pay for the treats with a 10% discount
+Greg is adding $18.0 to the register.
+Customer 5 has left the store after buying a treats.
+Customer 6 has entered the store.
+Customer 6 is thinking about buying a food.
+Greg says Customer 6 will pay for the food at list price.
+Greg is adding $54.0 to the register.
+Customer 6 has left the store after buying a food.
+Bob is cleaning a cat cage.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a ferret cage.
+Greg is locking up the store. Greg and Bob are leaving the store.
+      ------New Day------
+Mike the clerk arrives at the store on day 22.
+Bob the trainer arrives at the store on day 22.
+Mike says a new leash has arrived. It will be added to inventory.
+Mike says a new leash has arrived. It will be added to inventory.
+Mike says a new leash has arrived. It will be added to inventory.
+Mike says a new snake has arrived. It will be added to inventory.
+Mike says a new snake has arrived. It will be added to inventory.
+Mike says a new snake has arrived. It will be added to inventory.
+Mike says a new leash has arrived. It will be added to inventory.
+Mike says a new leash has arrived. It will be added to inventory.
+Mike says a new leash has arrived. It will be added to inventory.
+Bob is feeding a cat.
+Bob is feeding a sick ferret. They haven't gotten better.
+Bob is feeding a ferret.
+Bob is feeding a ferret.
+Bob is feeding a ferret.
+Bob is feeding a snake.
+Bob is feeding a snake.
+Bob is feeding a snake.
+Mike says there is $5405.5996 in the register. No need to go to bank.
+Mike says the inventory is valued at $1169.0
+Mike says there are no dogs in stock. They're going to order more.
+The order will cost $51.0
+Mike says there are no birds in stock. They're going to order more.
+The order will cost $180.0
+Mike says there are no ferrets in stock. They're going to order more.
+The order will cost $152.0
+Mike says there is no bird food in stock. They're going to order more.
+The order will cost $176.0
+Mike says there are no more dog toys in stock. They're not going to order more.
+Mike says there are no more cat toys in stock. They're not going to order more.
+Mike says there are no more bird toys in stock. They're not going to order more.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a ferret.
+Mike says Customer 1 will pay for the ferret at list price.
+Insurance will be added to the sale for $50.
+Mike is adding $96.0 to the register.
+Customer 1 has left the store after buying a ferret.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a treats.
+Bob offered Customer 2 a 10% discount on the treats
+Customer 2 will pay for the treats with a 10% discount
+Mike is adding $7.2 to the register.
+Customer 2 has left the store after buying a treats.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a leash.
+Mike says Customer 3 will pay for the leash at list price.
+Mike is adding $16.0 to the register.
+Customer 3 has left the store after buying a leash.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a snake.
+Bob offered Customer 4 a 10% discount on the snake
+Customer 4 will pay for the snake with a 10% discount
+1 Vet visits will be added to the sale for $25
+Mike is adding $179.8 to the register.
+Customer 4 has left the store after buying a snake.
+Bob is cleaning a cat cage.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a snake cage.
+Mike is locking up the store. Mike and Bob are leaving the store.
+      ------New Day------
+Greg the clerk arrives at the store on day 23.
+Bob the trainer arrives at the store on day 23.
+Greg says a new bird has arrived. It will be added to inventory.
+Greg says a new bird has arrived. It will be added to inventory.
+Greg says a new bird has arrived. It will be added to inventory.
+Greg says a new leash has arrived. It will be added to inventory.
+Greg says a new leash has arrived. It will be added to inventory.
+Greg says a new leash has arrived. It will be added to inventory.
+Greg says a new dog has arrived. It will be added to inventory.
+Greg says a new dog has arrived. It will be added to inventory.
+Greg says a new dog has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Bob is feeding a cat.
+Bob is feeding a sick ferret. They haven't gotten better.
+Bob is feeding a ferret.
+Bob is feeding a ferret.
+Bob is feeding a snake.
+Bob is feeding a snake.
+Bob is feeding a bird.
+Bob is feeding a bird.
+Bob is feeding a bird.
+Bob is feeding a dog.
+Bob is feeding a dog.
+Bob is feeding a dog.
+Greg says there is $5070.5996 in the register. No need to go to bank.
+Greg says the inventory is valued at $1683.0
+Greg says there are no more dog toys in stock. They're not going to order more.
+Greg says there are no more cat toys in stock. They're not going to order more.
+Greg says there are no more bird toys in stock. They're not going to order more.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a dog.
+The dog is not yet housebroken, they're going to train with Bob
+The positive reinforcement training worked, the dog is now housebroken.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a dog.
+Bob offered Customer 1 a 10% discount on the dog
+Customer 1 will pay for the dog with a 10% discount
+A microchip will be added to the sale for $50.
+Greg is adding $82.4 to the register.
+Customer 1 has left the store after buying a dog.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a food.
+Bob offered Customer 2 a 10% discount on the food
+Customer 2 will pay for the food with a 10% discount
+Greg is adding $127.8 to the register.
+Customer 2 has left the store after buying a food.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a food.
+Bob offered Customer 3 a 10% discount on the food
+Customer 3 will continue to look at other items.
+Customer 3 is thinking about buying a leash.
+Bob offered Customer 3 a 10% discount on the leash
+Customer 3 will pay for the leash with a 10% discount
+Greg is adding $165.6 to the register.
+Customer 3 has left the store after buying a leash.
+Bob is cleaning a cat cage.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a dog cage.
+Bob is cleaning a dog cage.
+Greg is locking up the store. Greg and Bob are leaving the store.
+      ------New Day------
+Mike the clerk arrives at the store on day 24.
+Julie the trainer arrives at the store on day 24.
+Mike says a new bird has arrived. It will be added to inventory.
+Mike says a new bird has arrived. It will be added to inventory.
+Mike says a new bird has arrived. It will be added to inventory.
+Mike says a new ferret has arrived. It will be added to inventory.
+Mike says a new ferret has arrived. It will be added to inventory.
+Mike says a new ferret has arrived. It will be added to inventory.
+Julie is feeding a cat.
+Julie is feeding a sick ferret. They haven't gotten better.
+Julie is feeding a ferret.
+Julie is feeding a ferret.
+Julie is feeding a snake.
+Julie is feeding a snake.
+Julie is feeding a bird.
+Julie is feeding a bird.
+Julie is feeding a bird.
+Julie is feeding a dog.
+Julie is feeding a dog.
+Julie is feeding a bird.
+Julie is feeding a bird.
+Julie is feeding a bird.
+Julie is feeding a ferret.
+Julie is feeding a ferret.
+Julie is feeding a ferret.
+Mike says there is $5396.3994 in the register. No need to go to bank.
+Mike says the inventory is valued at $1834.0
+Mike says there are no more dog toys in stock. They're not going to order more.
+Mike says there are no more cat toys in stock. They're not going to order more.
+Mike says there are no more bird toys in stock. They're not going to order more.
+Julie is training a cat.
+The cat is already housebroken, no need to train.
+Julie is training a ferret.
+The ferret is already housebroken, no need to train.
+Julie is training a ferret.
+The ferret is already housebroken, no need to train.
+Julie is training a ferret.
+The ferret is already housebroken, no need to train.
+Julie is training a dog.
+The dog is already housebroken, no need to train.
+Julie is training a dog.
+The dog is already housebroken, no need to train.
+Julie is training a ferret.
+The ferret is already housebroken, no need to train.
+Julie is training a ferret.
+The ferret is already housebroken, no need to train.
+Julie is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a leash.
+Julie offered Customer 1 a 10% discount on the leash
+Customer 1 will continue to look at other items.
+Customer 1 has left the store without buying an item.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a food.
+Mike says Customer 2 will pay for the food at list price.
+Mike is adding $88.0 to the register.
+Customer 2 has left the store after buying a food.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a treats.
+Julie offered Customer 3 a 10% discount on the treats
+Customer 3 will pay for the treats with a 10% discount
+Mike is adding $171.0 to the register.
+Customer 3 has left the store after buying a treats.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a leash.
+Julie offered Customer 4 a 10% discount on the leash
+Customer 4 will continue to look at other items.
+Customer 4 is thinking about buying a snake.
+Mike says Customer 4 will pay for the snake at list price.
+Insurance will be added to the sale for $50.
+Mike is adding $216.0 to the register.
+Customer 4 has left the store after buying a snake.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a ferret.
+Mike says Customer 5 will pay for the ferret at list price.
+A microchip will be added to the sale for $50.
+Mike is adding $164.0 to the register.
+Customer 5 has left the store after buying a ferret.
+Julie is cleaning a cat cage.
+Julie is cleaning a sick ferret's cage.
+Julie is cleaning a ferret cage.
+Julie is cleaning a snake cage.
+Julie is cleaning a bird cage.
+Julie is cleaning a bird cage. Oh no the bird escaped.
+Julie has caught the bird and returned it to the cage.
+Julie is cleaning a bird cage.
+Julie is cleaning a dog cage.
+Julie is cleaning a dog cage.
+Julie is cleaning a bird cage.
+Julie is cleaning a bird cage.
+Julie is cleaning a bird cage.
+Julie is cleaning a ferret cage.
+Julie is cleaning a ferret cage.
+Julie is cleaning a ferret cage.
+Mike is locking up the store. Mike and Julie are leaving the store.
+      ------New Day------
+Greg the clerk arrives at the store on day 25.
+Julie the trainer arrives at the store on day 25.
+Julie is feeding a cat.
+Julie is feeding a sick ferret. They haven't gotten better.
+Julie is feeding a ferret.
+Julie is feeding a snake.
+Julie is feeding a bird.
+Julie is feeding a bird.
+Julie is feeding a bird.
+Julie is feeding a dog.
+Julie is feeding a dog.
+Julie is feeding a bird.
+Julie is feeding a bird.
+Julie is feeding a bird.
+Julie is feeding a ferret. Julie says the ferret has gotten sick. They're being moved to the clinic.
+Julie is feeding a ferret.
+Julie is feeding a ferret.
+Greg says there is $5935.3994 in the register. No need to go to bank.
+Greg says the inventory is valued at $1555.0
+Greg says there are no more dog toys in stock. They're not going to order more.
+Greg says there are no more cat toys in stock. They're not going to order more.
+Greg says there are no more bird toys in stock. They're not going to order more.
+Julie is training a cat.
+The cat is already housebroken, no need to train.
+Julie is training a ferret.
+The ferret is already housebroken, no need to train.
+Julie is training a ferret.
+The ferret is already housebroken, no need to train.
+Julie is training a dog.
+The dog is already housebroken, no need to train.
+Julie is training a dog.
+The dog is already housebroken, no need to train.
+Julie is training a ferret.
+The ferret is already housebroken, no need to train.
+Julie is training a ferret.
+The ferret is already housebroken, no need to train.
+Julie is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 has left the store without buying an item.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a food.
+Julie offered Customer 2 a 10% discount on the food
+Customer 2 will pay for the food with a 10% discount
+Greg is adding $171.0 to the register.
+Customer 2 has left the store after buying a food.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a ferret.
+Greg says Customer 3 will pay for the ferret at list price.
+Insurance will be added to the sale for $50.
+Greg is adding $68.0 to the register.
+Customer 3 has left the store after buying a ferret.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a bird.
+Greg says Customer 4 will pay for the bird at list price.
+A microchip will be added to the sale for $50.
+Greg is adding $248.0 to the register.
+Customer 4 has left the store after buying a bird.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a food.
+Julie offered Customer 5 a 10% discount on the food
+Customer 5 will continue to look at other items.
+Customer 5 is thinking about buying a ferret.
+Greg says Customer 5 will pay for the ferret at list price.
+A microchip will be added to the sale for $50.
+Greg is adding $172.0 to the register.
+Customer 5 has left the store after buying a ferret.
+Customer 6 has entered the store.
+Customer 6 is thinking about buying a food.
+Greg says Customer 6 will pay for the food at list price.
+Greg is adding $84.0 to the register.
+Customer 6 has left the store after buying a food.
+Customer 7 has entered the store.
+Customer 7 is thinking about buying a food.
+Greg says Customer 7 will pay for the food at list price.
+Greg is adding $96.0 to the register.
+Customer 7 has left the store after buying a food.
+Customer 8 has entered the store.
+Customer 8 is thinking about buying a treats.
+Julie offered Customer 8 a 10% discount on the treats
+Customer 8 will continue to look at other items.
+Customer 8 is thinking about buying a treats.
+Greg says Customer 8 will pay for the treats at list price.
+Greg is adding $80.0 to the register.
+Customer 8 has left the store after buying a treats.
+Customer 9 has entered the store.
+Customer 9 is thinking about buying a bird.
+Julie offered Customer 9 a 10% discount on the bird
+Customer 9 will pay for the bird with a 10% discount
+A microchip will be added to the sale for $50.
+Greg is adding $96.8 to the register.
+Customer 9 has left the store after buying a bird.
+Customer 10 has entered the store.
+Customer 10 is thinking about buying a dog.
+Greg says Customer 10 will pay for the dog at list price.
+A microchip will be added to the sale for $50.
+Greg is adding $74.0 to the register.
+Customer 10 has left the store after buying a dog.
+Julie is cleaning a cat cage.
+Julie is cleaning a sick ferret's cage.
+Julie is cleaning a snake cage.
+Julie is cleaning a bird cage.
+Julie is cleaning a dog cage.
+Julie is cleaning a bird cage.
+Julie is cleaning a bird cage.
+Julie is cleaning a bird cage.
+Julie is cleaning a sick ferret's cage.
+Julie is cleaning a ferret cage. Oh no the ferret escaped.
+Greg has caught the ferret and returned it to the cage.
+Greg is locking up the store. Greg and Julie are leaving the store.
+      ------New Day------
+Lisa the clerk arrives at the store on day 26.
+Bob the trainer arrives at the store on day 26.
+Bob is feeding a cat.
+Bob is feeding a sick ferret. They haven't gotten better.
+Bob is feeding a snake.
+Bob is feeding a bird.
+Bob is feeding a dog.
+Bob is feeding a bird.
+Bob is feeding a bird.
+Bob is feeding a bird.
+Bob is feeding a sick ferret. They haven't gotten better.
+Bob is feeding a ferret.
+Lisa says there is $6775.199 in the register. No need to go to bank.
+Lisa says the inventory is valued at $1123.0
+Lisa says there is no cat food in stock. They're going to order more.
+The order will cost $111.0
+Lisa says there are no more dog toys in stock. They're not going to order more.
+Lisa says there are no more cat toys in stock. They're not going to order more.
+Lisa says there are no more bird toys in stock. They're not going to order more.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a cat litter.
+Lisa says Customer 1 will pay for the cat litter at list price.
+Lisa is adding $86.0 to the register.
+Customer 1 has left the store after buying a cat litter.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a treats.
+Lisa says Customer 2 will pay for the treats at list price.
+Lisa is adding $116.0 to the register.
+Customer 2 has left the store after buying a treats.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a cat.
+Bob offered Customer 3 a 10% discount on the cat
+Customer 3 will pay for the cat with a 10% discount
+A microchip will be added to the sale for $50.
+Lisa is adding $190.4 to the register.
+Customer 3 has left the store after buying a cat.
+Customer 4 has entered the store.
+Customer 4 has left the store without buying an item.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a bird.
+Lisa says Customer 5 will pay for the bird at list price.
+A microchip will be added to the sale for $50.
+Lisa is adding $220.0 to the register.
+Customer 5 has left the store after buying a bird.
+Customer 6 has entered the store.
+Customer 6 is thinking about buying a leash.
+Bob offered Customer 6 a 10% discount on the leash
+Customer 6 will pay for the leash with a 10% discount
+Lisa is adding $23.4 to the register.
+Customer 6 has left the store after buying a leash.
+Customer 7 has entered the store.
+Customer 7 is thinking about buying a leash.
+Lisa says Customer 7 will pay for the leash at list price.
+Lisa is adding $148.0 to the register.
+Customer 7 has left the store after buying a leash.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a snake cage.
+Bob is cleaning a dog cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a ferret cage.
+Lisa is locking up the store. Lisa and Bob are leaving the store.
+      ------New Day------
+Mike the clerk arrives at the store on day 27.
+Bob the trainer arrives at the store on day 27.
+Bob is feeding a sick ferret. Bob says the ferret has gotten better. They're being moved to the store.
+Bob is feeding a snake.
+Bob is feeding a dog.
+Bob is feeding a bird.
+Bob is feeding a bird.
+Bob is feeding a bird.
+Bob is feeding a sick ferret. They haven't gotten better.
+Bob is feeding a ferret.
+Mike says there is $7347.999 in the register. No need to go to bank.
+Mike says the inventory is valued at $772.0
+Mike says there are no cats in stock. They're going to order more.
+The order will cost $88.0
+Mike says there is no cat food in stock. They're going to order more.
+The order will cost $226.0
+Mike says there are no more dog toys in stock. They're not going to order more.
+Mike says there are no more cat toys in stock. They're not going to order more.
+Mike says there are no more bird toys in stock. They're not going to order more.
+Mike says there is no cat litter in stock. They're going to order more.
+The order will cost $65.0
+Mike says there are no treats in stock. They're going to order more.
+The order will cost $222.0
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Bob is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a food.
+Bob offered Customer 1 a 10% discount on the food
+Customer 1 will pay for the food with a 10% discount
+Mike is adding $54.0 to the register.
+Customer 1 has left the store after buying a food.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a ferret.
+Bob offered Customer 2 a 10% discount on the ferret
+Customer 2 will pay for the ferret with a 10% discount
+A microchip will be added to the sale for $50.
+Mike is adding $62.6 to the register.
+Customer 2 has left the store after buying a ferret.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a bird.
+Mike says Customer 3 will pay for the bird at list price.
+A microchip will be added to the sale for $50.
+Mike is adding $168.0 to the register.
+Customer 3 has left the store after buying a bird.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a food.
+Bob offered Customer 4 a 10% discount on the food
+Customer 4 will pay for the food with a 10% discount
+Mike is adding $91.8 to the register.
+Customer 4 has left the store after buying a food.
+Customer 5 has entered the store.
+Customer 5 has left the store without buying an item.
+Customer 6 has entered the store.
+Customer 6 is thinking about buying a food.
+Mike says Customer 6 will pay for the food at list price.
+Mike is adding $184.0 to the register.
+Customer 6 has left the store after buying a food.
+Bob is cleaning a snake cage. Oh no the snake escaped.
+Mike has caught the snake and returned it to the cage.
+Bob is cleaning a dog cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a ferret cage.
+Mike is locking up the store. Mike and Bob are leaving the store.
+      ------New Day------
+Greg the clerk arrives at the store on day 28.
+Harry the trainer arrives at the store on day 28.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new cat has arrived. It will be added to inventory.
+Greg says a new cat has arrived. It will be added to inventory.
+Greg says a new cat has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new cat litter has arrived. It will be added to inventory.
+Greg says a new cat litter has arrived. It will be added to inventory.
+Greg says a new cat litter has arrived. It will be added to inventory.
+Harry is feeding a snake.
+Harry is feeding a dog.
+Harry is feeding a bird.
+Harry is feeding a bird.
+Harry is feeding a sick ferret. Harry says the ferret has gotten better. They're being moved to the store.
+Harry is feeding a ferret.
+Harry is feeding a cat.
+Harry is feeding a cat.
+Harry is feeding a cat.
+Greg says there is $7207.399 in the register. No need to go to bank.
+Greg says the inventory is valued at $1023.0
+Greg says there is no bird food in stock. They're going to order more.
+The order will cost $162.0
+Greg says there are no more dog toys in stock. They're not going to order more.
+Greg says there are no more cat toys in stock. They're not going to order more.
+Greg says there are no more bird toys in stock. They're not going to order more.
+Greg says there are no treats in stock. They're going to order more.
+The order will cost $170.0
+Harry is training a dog.
+The dog is already housebroken, no need to train.
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Harry is training a cat.
+The cat is not yet housebroken, they're going to train with Harry
+Harry is training a cat.
+The cat is not yet housebroken, they're going to train with Harry
+The haphazard training worked, the cat is now housebroken.
+Harry is training a cat.
+The cat is not yet housebroken, they're going to train with Harry
+Customer 1 has entered the store.
+Customer 1 has left the store without buying an item.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a leash.
+Greg says Customer 2 will pay for the leash at list price.
+Greg is adding $4.0 to the register.
+Customer 2 has left the store after buying a leash.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a snake.
+Harry offered Customer 3 a 10% discount on the snake
+Customer 3 will continue to look at other items.
+Customer 3 is thinking about buying a ferret.
+Greg says Customer 3 will pay for the ferret at list price.
+Insurance will be added to the sale for $50.
+Greg is adding $156.0 to the register.
+Customer 3 has left the store after buying a ferret.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a leash.
+Harry offered Customer 4 a 10% discount on the leash
+Customer 4 will continue to look at other items.
+Customer 4 is thinking about buying a cat.
+Greg says Customer 4 will pay for the cat at list price.
+Insurance will be added to the sale for $50.
+Greg is adding $90.0 to the register.
+Customer 4 has left the store after buying a cat.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a food.
+Greg says Customer 5 will pay for the food at list price.
+Greg is adding $76.0 to the register.
+Customer 5 has left the store after buying a food.
+Harry is cleaning a snake cage.
+Harry is cleaning a dog cage.
+Harry is cleaning a bird cage.
+Harry is cleaning a bird cage.
+Harry is cleaning a ferret cage.
+Harry is cleaning a cat cage.
+Harry is cleaning a cat cage.
+Greg is locking up the store. Greg and Harry are leaving the store.
+      ------New Day------
+Greg the clerk arrives at the store on day 29.
+Harry the trainer arrives at the store on day 29.
+Greg says a new treats has arrived. It will be added to inventory.
+Greg says a new treats has arrived. It will be added to inventory.
+Greg says a new treats has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Harry is feeding a snake.
+Harry is feeding a dog.
+Harry is feeding a bird.
+Harry is feeding a bird.
+Harry is feeding a ferret.
+Harry is feeding a cat.
+Harry is feeding a cat.
+Greg says there is $7101.399 in the register. No need to go to bank.
+Greg says the inventory is valued at $1294.0
+Greg says there is no dog food in stock. They're going to order more.
+The order will cost $85.0
+Greg says there are no more dog toys in stock. They're not going to order more.
+Greg says there are no more cat toys in stock. They're not going to order more.
+Greg says there are no more bird toys in stock. They're not going to order more.
+Harry is training a dog.
+The dog is already housebroken, no need to train.
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Harry is training a cat.
+The cat is not yet housebroken, they're going to train with Harry
+Harry is training a cat.
+The cat is not yet housebroken, they're going to train with Harry
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a leash.
+Harry offered Customer 1 a 10% discount on the leash
+Customer 1 will continue to look at other items.
+Customer 1 is thinking about buying a food.
+Greg says Customer 1 will pay for the food at list price.
+Greg is adding $140.0 to the register.
+Customer 1 has left the store after buying a food.
+Customer 2 has entered the store.
+Customer 2 has left the store without buying an item.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a leash.
+Greg says Customer 3 will pay for the leash at list price.
+Greg is adding $40.0 to the register.
+Customer 3 has left the store after buying a leash.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a leash.
+Harry offered Customer 4 a 10% discount on the leash
+Customer 4 will pay for the leash with a 10% discount
+Greg is adding $77.4 to the register.
+Customer 4 has left the store after buying a leash.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a bird.
+Harry offered Customer 5 a 10% discount on the bird
+Customer 5 will pay for the bird with a 10% discount
+1 Vet visits will be added to the sale for $25
+Greg is adding $102.4 to the register.
+Customer 5 has left the store after buying a bird.
+Harry is cleaning a snake cage. Oh no the snake escaped.
+Harry has caught the snake and returned it to the cage.
+Harry is cleaning a dog cage.
+Harry is cleaning a bird cage.
+Harry is cleaning a ferret cage.
+Harry is cleaning a cat cage.
+Harry is cleaning a cat cage.
+Greg is locking up the store. Greg and Harry are leaving the store.
+      ------New Day------
+Mike the clerk arrives at the store on day 30.
+Julie the trainer arrives at the store on day 30.
+Mike says a new treats has arrived. It will be added to inventory.
+Mike says a new treats has arrived. It will be added to inventory.
+Mike says a new treats has arrived. It will be added to inventory.
+Julie is feeding a snake.
+Julie is feeding a dog.
+Julie is feeding a bird.
+Julie is feeding a ferret.
+Julie is feeding a cat. Julie says the cat has gotten sick. They're being moved to the clinic.
+Julie is feeding a cat.
+Mike says there is $7351.1987 in the register. No need to go to bank.
+Mike says the inventory is valued at $1288.0
+Mike says there is no dog food in stock. They're going to order more.
+The order will cost $208.0
+Mike says there are no more dog toys in stock. They're not going to order more.
+Mike says there are no more cat toys in stock. They're not going to order more.
+Mike says there are no more bird toys in stock. They're not going to order more.
+Mike says there are no cat leashes in stock. They're going to order more.
+The order will cost $87.0
+Julie is training a dog.
+The dog is already housebroken, no need to train.
+Julie is training a ferret.
+The ferret is already housebroken, no need to train.
+Julie is training a cat.
+The cat is not yet housebroken, they're going to train with Julie
+Julie is training a cat.
+The cat is not yet housebroken, they're going to train with Julie
+The negative reinforcement training worked, the cat is now housebroken.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a food.
+Julie offered Customer 1 a 10% discount on the food
+Customer 1 will continue to look at other items.
+Customer 1 is thinking about buying a food.
+Julie offered Customer 1 a 10% discount on the food
+Customer 1 will pay for the food with a 10% discount
+Mike is adding $113.4 to the register.
+Customer 1 has left the store after buying a food.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a leash.
+Mike says Customer 2 will pay for the leash at list price.
+Mike is adding $70.0 to the register.
+Customer 2 has left the store after buying a leash.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a dog.
+Julie offered Customer 3 a 10% discount on the dog
+Customer 3 will pay for the dog with a 10% discount
+Insurance will be added to the sale for $50.
+Mike is adding $87.8 to the register.
+Customer 3 has left the store after buying a dog.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a leash.
+Julie offered Customer 4 a 10% discount on the leash
+Customer 4 will continue to look at other items.
+Customer 4 is thinking about buying a food.
+Julie offered Customer 4 a 10% discount on the food
+Customer 4 will pay for the food with a 10% discount
+Mike is adding $178.2 to the register.
+Customer 4 has left the store after buying a food.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a food.
+Mike says Customer 5 will pay for the food at list price.
+Mike is adding $76.0 to the register.
+Customer 5 has left the store after buying a food.
+Julie is cleaning a snake cage.
+Julie is cleaning a bird cage.
+Julie is cleaning a ferret cage.
+Julie is cleaning a sick cat's cage.
+Julie is cleaning a cat cage.
+Mike is locking up the store. Mike and Julie are leaving the store.
        -------End Simulation-------
-After 5 days the following items are left in inventory.
-leash: $35.0
-dog: $71.0
-cat: $89.0
-cat litter: $72.0
-food: $96.0
-leash: $62.0
-food: $86.0
-food: $42.0
-food: $59.0
-food: $27.0
-food: $54.0
-leash: $43.0
-leash: $88.0
-leash: $80.0
-leash: $75.0
-leash: $8.0
-leash: $36.0
-Value of remaining inventory: $1023.0
-Over 5 days the following items were sold.
-leash: sold on day 1 for 138.0
-food: sold on day 1 for 10.0
-toy: sold on day 1 for 128.0
-cat litter: sold on day 1 for 148.0
-bird: sold on day 1 for 27.0
-food: sold on day 1 for 30.0
-cat: sold on day 2 for 39.6
-dog: sold on day 2 for 166.0
-bird: sold on day 2 for 124.0
-dog: sold on day 2 for 102.6
-cat: sold on day 2 for 84.6
-food: sold on day 3 for 0.0
-bird: sold on day 3 for 26.0
-toy: sold on day 3 for 170.0
-toy: sold on day 4 for 14.0
-cat litter: sold on day 4 for 180.0
-Total money from sales: $718.0
+After 30 days the following items are left in inventory.
+snake: $91.0
+leash: $71.0
+bird: $78.0
+ferret: $38.0
+food: $40.0
+food: $33.0
+cat: $52.0
+cat: $16.0
+food: $64.0
+cat litter: $7.0
+cat litter: $7.0
+cat litter: $51.0
+treats: $71.0
+treats: $82.0
+treats: $69.0
+food: $12.0
+food: $80.0
+treats: $70.0
+treats: $34.0
+treats: $66.0
+Value of remaining inventory: $1032.0
+Over 30 days the following items were sold.
+leash: sold on day 1 for 76.0
+food: sold on day 1 for 172.8
+leash: sold on day 1 for 180.0
+bird: sold on day 1 for 219.2
+ferret: sold on day 1 for 77.2
+toy: sold on day 2 for 165.6
+dog: sold on day 2 for 52.0
+snake: sold on day 2 for 96.8
+bird: sold on day 2 for 120.2
+dog: sold on day 2 for 84.0
+cat: sold on day 2 for 60.0
+treats: sold on day 3 for 36.0
+food: sold on day 3 for 165.6
+cat litter: sold on day 4 for 118.8
+cat litter: sold on day 5 for 162.0
+ferret: sold on day 5 for 98.0
+cat: sold on day 6 for 145.4
+food: sold on day 6 for 158.0
+dog: sold on day 6 for 242.0
+treats: sold on day 6 for 133.2
+leash: sold on day 7 for 154.8
+ferret: sold on day 7 for 232.0
+food: sold on day 7 for 115.2
+food: sold on day 7 for 20.0
+leash: sold on day 8 for 14.0
+snake: sold on day 8 for 232.0
+cat litter: sold on day 8 for 154.0
+toy: sold on day 8 for 194.0
+ferret: sold on day 9 for 240.0
+dog: sold on day 9 for 62.0
+food: sold on day 9 for 25.2
+food: sold on day 10 for 184.0
+leash: sold on day 10 for 174.0
+bird: sold on day 10 for 181.4
+food: sold on day 10 for 27.0
+dog: sold on day 10 for 241.0
+leash: sold on day 10 for 40.0
+cat litter: sold on day 10 for 45.0
+snake: sold on day 10 for 119.0
+food: sold on day 11 for 50.4
+cat: sold on day 11 for 150.0
+cat litter: sold on day 11 for 40.0
+dog: sold on day 12 for 90.0
+cat litter: sold on day 12 for 44.0
+bird: sold on day 12 for 132.6
+food: sold on day 12 for 46.0
+food: sold on day 12 for 75.6
+toy: sold on day 13 for 154.8
+treats: sold on day 13 for 63.0
+food: sold on day 13 for 10.0
+snake: sold on day 13 for 73.4
+leash: sold on day 13 for 46.0
+food: sold on day 14 for 144.0
+food: sold on day 14 for 86.0
+food: sold on day 14 for 72.0
+cat: sold on day 14 for 208.0
+snake: sold on day 15 for 216.0
+dog: sold on day 15 for 118.0
+ferret: sold on day 15 for 197.4
+ferret: sold on day 15 for 47.0
+leash: sold on day 15 for 22.0
+leash: sold on day 15 for 7.2
+food: sold on day 15 for 150.0
+leash: sold on day 16 for 106.2
+treats: sold on day 16 for 138.6
+food: sold on day 16 for 84.6
+leash: sold on day 16 for 90.0
+cat: sold on day 17 for 138.2
+cat litter: sold on day 17 for 12.0
+dog: sold on day 17 for 102.0
+snake: sold on day 17 for 184.0
+dog: sold on day 17 for 26.8
+dog: sold on day 18 for 236.0
+snake: sold on day 18 for 145.4
+leash: sold on day 18 for 162.0
+dog: sold on day 18 for 118.0
+cat: sold on day 18 for 91.0
+leash: sold on day 19 for 82.0
+bird: sold on day 19 for 168.8
+snake: sold on day 19 for 172.0
+leash: sold on day 19 for 166.0
+ferret: sold on day 19 for 164.0
+cat: sold on day 20 for 114.0
+bird: sold on day 20 for 144.0
+leash: sold on day 20 for 186.0
+snake: sold on day 20 for 178.0
+cat litter: sold on day 20 for 23.4
+food: sold on day 20 for 28.8
+cat: sold on day 20 for 220.6
+dog: sold on day 21 for 224.6
+food: sold on day 21 for 113.4
+food: sold on day 21 for 7.2
+ferret: sold on day 21 for 118.2
+treats: sold on day 21 for 18.0
+food: sold on day 21 for 54.0
+ferret: sold on day 22 for 96.0
+treats: sold on day 22 for 7.2
+leash: sold on day 22 for 16.0
+snake: sold on day 22 for 179.8
+dog: sold on day 23 for 82.4
+food: sold on day 23 for 127.8
+leash: sold on day 23 for 165.6
+food: sold on day 24 for 88.0
+treats: sold on day 24 for 171.0
+snake: sold on day 24 for 216.0
+ferret: sold on day 24 for 164.0
+food: sold on day 25 for 171.0
+ferret: sold on day 25 for 68.0
+bird: sold on day 25 for 248.0
+ferret: sold on day 25 for 172.0
+food: sold on day 25 for 84.0
+food: sold on day 25 for 96.0
+treats: sold on day 25 for 80.0
+bird: sold on day 25 for 96.8
+dog: sold on day 25 for 74.0
+cat litter: sold on day 26 for 86.0
+treats: sold on day 26 for 116.0
+cat: sold on day 26 for 190.4
+bird: sold on day 26 for 220.0
+leash: sold on day 26 for 23.4
+leash: sold on day 26 for 148.0
+food: sold on day 27 for 54.0
+ferret: sold on day 27 for 62.6
+bird: sold on day 27 for 168.0
+food: sold on day 27 for 91.8
+food: sold on day 27 for 184.0
+leash: sold on day 28 for 4.0
+ferret: sold on day 28 for 156.0
+cat: sold on day 28 for 90.0
+food: sold on day 28 for 76.0
+food: sold on day 29 for 140.0
+leash: sold on day 29 for 40.0
+leash: sold on day 29 for 77.4
+bird: sold on day 29 for 102.4
+food: sold on day 30 for 113.4
+leash: sold on day 30 for 70.0
+dog: sold on day 30 for 87.8
+food: sold on day 30 for 178.2
+food: sold on day 30 for 76.0
+Total money from sales: $6757.0
 There are 1 sick pets remaining in inventory.
-There is 1613.7999 left in the register after 5 days.
-$1000.0 was added to the register over 5 days.
+There is $7531.5986 left in the register after 30 days.
+$1000.0 was added to the register over 30 days.
