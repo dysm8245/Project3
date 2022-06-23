@@ -5,9 +5,9 @@ public class Employees{
     Trainer workingT;
     Trainer[] trainers = new Trainer[3];
     void hire(){
-        trainers[0] = new Trainer("Bob", new Haphazard());
+        trainers[0] = new Trainer("Bob", new Positive());
         trainers[1] = new Trainer("Julie", new Negative());
-        trainers[2] = new Trainer("Harry", new Positive());
+        trainers[2] = new Trainer("Harry", new Haphazard());
         clerks[0] = new Clerk("Greg");
         clerks[1] = new Clerk("Lisa");
         clerks[2] = new Clerk("Mike");
@@ -26,52 +26,91 @@ public class Employees{
     }
     void ArriveAtStore(int days){//starts day off
             Random rand = new Random();
-            int num = rand.nextInt(2);
+            int num = rand.nextInt(3);
+            int num1 = rand.nextInt(3);
             System.out.println("      ------New Day------");
-            if(clerks[num].daysWorked == 3) {//checks to see if they worked 3 days in a row
-                if(num == 1){
-                    num = num - 1;
-                    System.out.println(clerks[num].name + " the clerk arrives at the store on day " + days + ".");
-                    workingC = clerks[num];
-                    clerks[num].daysWorked++;
-                    clerks[num+1].daysWorked = 0;
-                    num = num+1;
+            if(clerks[num].daysWorked == 3){
+                for(int i =0; i < clerks.length; i++){
+                    if(clerks[num] == clerks[i]){
+                        continue;
+                    }
+                    else{
+                        System.out.println(clerks[i].name + " the clerk arrives at the store on day " + days + ".");
+                        workingC = clerks[i];
+                        clerks[i].daysWorked++;
+                        break;
+                    }
                 }
-                else if(num == 0){
-                    num = num + 1;
-                    System.out.println(clerks[num].name + " the clerk arrives at the store on day " + days + ".");
-                    workingC = clerks[num];
-                    clerks[num].daysWorked++;
-                    clerks[num-1].daysWorked = 0;
-                    num = num-1;
-                }
-            }
-            if(trainers[num].daysWorked == 3){//check for days worked
-                if(num == 1){
-                    num = num-1;
-                    System.out.println(trainers[num].name + " the trainer arrives at the store on day " + days + ".");
-                    workingT = trainers[num];
-                    trainers[num].daysWorked++;
-                    trainers[num+1].daysWorked = 0;
-                    num=num+1;
-                }
-                else if(num == 0){
-                    num = num+1;
-                    System.out.println(trainers[num].name + " the trainer arrives at the store on day " + days + ".");
-                    workingT = trainers[num];
-                    trainers[num].daysWorked++;
-                    trainers[num-1].daysWorked = 0;
-                    num=num-1;
-                }
+                clerks[num].daysWorked=0;
             }
             else{
                 System.out.println(clerks[num].name + " the clerk arrives at the store on day " + days + ".");
                 workingC = clerks[num];
                 clerks[num].daysWorked++;
-                System.out.println(trainers[num].name + " the trainer arrives at the store on day " + days + ".");
-                workingT = trainers[num];
-                trainers[num].daysWorked++;
             }
+            if(trainers[num1].daysWorked == 3) {
+                for(int i = 0; i < trainers.length; i++){
+                    if(trainers[num1] == trainers[i]){
+                        continue;
+                    }
+                    else{
+                        System.out.println(trainers[i].name + " the trainer arrives at the store on day " + days + ".");
+                        workingT = trainers[i];
+                        trainers[i].daysWorked++;
+                        break;
+                    }
+                }
+                trainers[num1].daysWorked = 0;
+            }
+            else{
+                System.out.println(trainers[num1].name + " the trainer arrives at the store on day " + days + ".");
+                workingT = trainers[num1];
+                trainers[num1].daysWorked++;
+            }
+//            if(clerks[num].daysWorked == 3) {//checks to see if they worked 3 days in a row
+//                if(num == 1){
+//                    num = num - 1;
+//                    System.out.println(clerks[num].name + " the clerk arrives at the store on day " + days + ".");
+//                    workingC = clerks[num];
+//                    clerks[num].daysWorked++;
+//                    clerks[num+1].daysWorked = 0;
+//                    num = num+1;
+//                }
+//                else if(num == 0){
+//                    num = num + 1;
+//                    System.out.println(clerks[num].name + " the clerk arrives at the store on day " + days + ".");
+//                    workingC = clerks[num];
+//                    clerks[num].daysWorked++;
+//                    clerks[num-1].daysWorked = 0;
+//                    num = num-1;
+//                }
+//            }
+//            if(trainers[num].daysWorked == 3){//check for days worked
+//                if(num == 1){
+//                    num = num-1;
+//                    System.out.println(trainers[num].name + " the trainer arrives at the store on day " + days + ".");
+//                    workingT = trainers[num];
+//                    trainers[num].daysWorked++;
+//                    trainers[num+1].daysWorked = 0;
+//                    num=num+1;
+//                }
+//                else if(num == 0){
+//                    num = num+1;
+//                    System.out.println(trainers[num].name + " the trainer arrives at the store on day " + days + ".");
+//                    workingT = trainers[num];
+//                    trainers[num].daysWorked++;
+//                    trainers[num-1].daysWorked = 0;
+//                    num=num-1;
+//                }
+//            }
+//            else{
+//                System.out.println(clerks[num].name + " the clerk arrives at the store on day " + days + ".");
+//                workingC = clerks[num];
+//                clerks[num].daysWorked++;
+//                System.out.println(trainers[num].name + " the trainer arrives at the store on day " + days + ".");
+//                workingT = trainers[num];
+//                trainers[num].daysWorked++;
+//            }
     }
     
     private static int getPoissonRandom(double mean) { // https://stackoverflow.com/questions/9832919/generate-poisson-arrival-in-java

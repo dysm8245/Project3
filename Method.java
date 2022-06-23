@@ -1,4 +1,4 @@
 import java.util.*;
-public interface Method{
+public interface Method{//interface for strategies
     public void train(Pet item);
 }

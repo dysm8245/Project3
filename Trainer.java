@@ -15,34 +15,38 @@ public class Trainer extends Employees{
             if(item.name == "pet"){
                 Pet pet = (Pet) item;
                 if(pet.breed == "dog"){
+                    System.out.println(name + " is training a dog.");
                     Dog dog = (Dog) pet;
                     if(dog.housebroken){
-                        System.out.println("The dog is housebroken, but they're going to train more with " + name);
+                        System.out.println("The dog is already housebroken, no need to train.");
                     }
                     else{
                         System.out.println("The dog is not yet housebroken, they're going to train with " + name);
+                        technique.train(pet);
                     }
-                    technique.train(pet);
                 }
                 if(pet.breed == "cat"){
+                    System.out.println(name + " is training a cat.");
                     Cat cat = (Cat) pet;
                     if(cat.housebroken){
-                        System.out.println("The cat is housebroken, but they're going to train more with " + name);
+                        System.out.println("The cat is already housebroken, no need to train.");
                     }
                     else{
                         System.out.println("The cat is not yet housebroken, they're going to train with " + name);
+                        technique.train(pet);
                     }
-                    technique.train(pet);
+
                 }
                 if(pet.breed == "ferret"){
+                    System.out.println(name + " is training a ferret.");
                     Ferret ferret = (Ferret) pet;
                     if(ferret.housebroken){
-                        System.out.println("The ferret is housebroken, but they're going to train more with " + name);
+                        System.out.println("The ferret is already housebroken, no need to train.");
                     }
                     else{
                         System.out.println("The ferret is not yet housebroken, they're going to train with " + name);
+                        technique.train(pet);
                     }
-                    technique.train(ferret);
                 }
             }
         }

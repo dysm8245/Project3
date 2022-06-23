@@ -1,5 +1,5 @@
 import java.util.*;
-public class Haphazard implements Method{
+public class Haphazard implements Method{//training strategy
     public void train(Pet item){
         Random rand = new Random();
         int num = rand.nextInt(10);
@@ -21,11 +21,11 @@ public class Haphazard implements Method{
             if(num == 0){
                 if(ferret.housebroken){
                     ferret.housebroken = false;
-                    System.out.println("The haphazard training didn't work, the " + item.breed + " is no longer housebroken.");
+                    System.out.println("The haphazard training didn't work, the ferret is no longer housebroken.");
                 }
                 else{
                     ferret.housebroken = true;
-                    System.out.println("The haphazard training worked, the " + item.breed + " is now housebroken.");
+                    System.out.println("The haphazard training worked, the ferret is now housebroken.");
                 }
             }
         }

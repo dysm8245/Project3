@@ -1,5 +1,5 @@
 import java.util.*;
-public class Negative implements Method{
+public class Negative implements Method{//one of the training strategies
     public void train(Pet item) {
         Random rand = new Random();
         int num = rand.nextInt(5);
@@ -13,8 +13,10 @@ public class Negative implements Method{
                     }
                 }
                 else if (num == 1 || num == 2) {
-                    dog.housebroken = true;
-                    System.out.println("The negative reinforcement training worked, the dog is now housebroken.");
+                    if(!dog.housebroken){
+                        dog.housebroken = true;
+                        System.out.println("The negative reinforcement training worked, the dog is now housebroken.");
+                    }
                 }
             }
         }
@@ -28,8 +30,10 @@ public class Negative implements Method{
                     }
                 }
                 else if (num == 1 || num == 2) {
-                    ferret.housebroken = true;
-                    System.out.println("The negative reinforcement training worked, the ferret is now housebroken.");
+                    if(!ferret.housebroken){
+                        ferret.housebroken = true;
+                        System.out.println("The negative reinforcement training worked, the ferret is now housebroken.");
+                    }
                 }
             }
         }
@@ -42,8 +46,10 @@ public class Negative implements Method{
                 }
             }
             else if (num == 1 || num == 2) {
-                cat.housebroken = true;
-                System.out.println("The negative reinforcement training worked, the cat is now housebroken.");
+                if(!cat.housebroken){
+                    cat.housebroken = true;
+                    System.out.println("The negative reinforcement training worked, the cat is now housebroken.");
+                }
             }
         }
     }

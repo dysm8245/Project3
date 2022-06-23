@@ -1,14 +1,15 @@
 import java.util.*;
-public class Positive implements Method{
+public class Positive implements Method{//training strategy
     public void train(Pet item) {
         Random rand = new Random();
-        int num = rand.nextInt(2);
+        int num = 0;
         if(item.breed == "dog"){
+            num = rand.nextInt(2);
             Dog dog = (Dog) item;
             if(num == 0){
                 if(!dog.housebroken){
                     dog.housebroken = true;
-                    System.out.println("The negative reinforcement training worked, the dog is now housebroken.");
+                    System.out.println("The positive reinforcement training worked, the dog is now housebroken.");
                 }
             }
         }
@@ -17,7 +18,7 @@ public class Positive implements Method{
             if(num == 0){
                 if(!ferret.housebroken){
                     ferret.housebroken = true;
-                    System.out.println("The negative reinforcement training worked, the ferret is now housebroken.");
+                    System.out.println("The positive reinforcement training worked, the ferret is now housebroken.");
                 }
             }
         }
@@ -26,7 +27,7 @@ public class Positive implements Method{
             if(num == 0){
                 if(!cat.housebroken){
                     cat.housebroken = true;
-                    System.out.println("The negative reinforcement training worked, the cat is now housebroken.");
+                    System.out.println("The positive reinforcement training worked, the cat is now housebroken.");
                 }
             }
         }
