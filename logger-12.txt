@@ -1,5 +1,10 @@
 Mike the clerk arrives at the store on day 12.
-Bob the trainer arrives at the store on day 12.
+Harry the trainer arrives at the store on day 12.
+Harry is feeding a sick bird. They haven't gotten better.
+Mike says there is $3948.1995 in the register. No need to go to bank.
+Mike says the inventory is valued at $31.0
+Mike says there are no dogs in stock. They're going to order more.
+Mike says there are no cats in stock. They're going to order more.
 Customer 1 has entered the store.
 Customer 1 has left the store without buying an item.
 Customer 2 has entered the store.
@@ -10,49 +15,5 @@ Customer 4 has entered the store.
 Customer 4 has left the store without buying an item.
 Customer 5 has entered the store.
 Customer 5 has left the store without buying an item.
-Customer 6 has entered the store.
-Customer 6 has left the store without buying an item.
-Customer 7 has entered the store.
-Customer 7 has left the store without buying an item.
-Customer 8 has entered the store.
-Customer 8 has left the store without buying an item.
-Greg the clerk arrives at the store on day 12.
-Harry the trainer arrives at the store on day 12.
-Harry is feeding a sick snake. They haven't gotten better.
-Harry is feeding a cat.
-Harry is feeding a bird.
-Harry is feeding a bird.
-Harry is feeding a dog.
-Harry is feeding a dog.
-Harry is feeding a dog. Harry says the dog has gotten sick. They're being moved to the clinic.
-Greg says there is $4235.4004 in the register. No need to go to bank.
-Greg says the inventory is valued at $410.0
-Harry is training a cat.
-The cat is already housebroken, no need to train.
-Harry is training a dog.
-The dog is not yet housebroken, they're going to train with Harry
-Harry is training a dog.
-The dog is already housebroken, no need to train.
-Harry is training a dog.
-The dog is already housebroken, no need to train.
-Customer 1 has entered the store.
-Customer 1 is thinking about buying a treats.
-Greg says Customer 1 will pay for the treats at list price.
-Greg is adding $150.0 to the register.
-Customer 1 has left the store after buying a treats.
-Customer 2 has entered the store.
-Customer 2 is thinking about buying a bird.
-Greg says Customer 2 will pay for the bird at list price.
-Greg is adding $177.0 to the register.
-Customer 2 has left the store after buying a bird.
-Customer 3 has entered the store.
-Customer 3 has left the store without buying an item.
-Customer 4 has entered the store.
-Customer 4 has left the store without buying an item.
-Harry is cleaning a sick snake's cage.
-Harry is cleaning a cat cage.
-Harry is cleaning a bird cage.
-Harry is cleaning a dog cage.
-Harry is cleaning a dog cage.
-Harry is cleaning a sick dog's cage.
-Greg is locking up the store. Greg and Harry are leaving the store.
+Harry is cleaning a sick bird's cage.
+Mike is locking up the store. Mike and Harry are leaving the store.

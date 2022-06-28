@@ -1,55 +1,27 @@
-Customer 8 has left the store without buying an item.
-Lisa the clerk arrives at the store on day 14.
-Bob the trainer arrives at the store on day 14.
-Customer 1 has entered the store.
-Customer 1 is thinking about buying a ferret.
-Bob offered Customer 1 a 10% discount on the ferret
-Customer 1 will pay for the ferret with a 10% discount
-Lisa is adding $57.2 to the register.
-Customer 1 has left the store after buying a ferret.
-Customer 2 has entered the store.
-Customer 2 has left the store without buying an item.
-Customer 3 has entered the store.
-Customer 3 is thinking about buying a cat.
-Lisa says Customer 3 will pay for the cat at list price.
-Lisa is adding $98.0 to the register.
-Customer 3 has left the store after buying a cat.
-Customer 4 has entered the store.
-Customer 4 has left the store without buying an item.
-Customer 5 has entered the store.
-Customer 5 has left the store without buying an item.
 Greg the clerk arrives at the store on day 14.
 Bob the trainer arrives at the store on day 14.
-Bob is feeding a sick snake. They haven't gotten better.
+Bob is feeding a sick bird. They haven't gotten better.
+Bob is feeding a dog.
+Bob is feeding a dog.
 Bob is feeding a cat.
-Bob is feeding a dog.
-Bob is feeding a dog.
-Bob is feeding a dog.
-Greg says there is $4656.6006 in the register. No need to go to bank.
-Greg says the inventory is valued at $190.0
-Bob is training a cat.
-The cat is already housebroken, no need to train.
+Greg says there is $3941.1995 in the register. No need to go to bank.
+Greg says the inventory is valued at $184.0
 Bob is training a dog.
 The dog is not yet housebroken, they're going to train with Bob
-Bob is training a dog.
+The positive reinforcement training worked, the dog is now housebroken.Bob is training a dog.
 The dog is already housebroken, no need to train.
-Bob is training a dog.
-The dog is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
 Customer 1 has entered the store.
 Customer 1 has left the store without buying an item.
 Customer 2 has entered the store.
-Customer 2 is thinking about buying a dog.
-Greg says Customer 2 will pay for the dog at list price.
-Greg is adding $120.0 to the register.
-Customer 2 has left the store after buying a dog.
+Customer 2 has left the store without buying an item.
 Customer 3 has entered the store.
 Customer 3 has left the store without buying an item.
 Customer 4 has entered the store.
-Customer 4 is thinking about buying a cat.
-Greg says Customer 4 will pay for the cat at list price.
-Greg is adding $128.0 to the register.
-Customer 4 has left the store after buying a cat.
-Bob is cleaning a sick snake's cage.
+Customer 4 has left the store without buying an item.
+Bob is cleaning a sick bird's cage.
 Bob is cleaning a dog cage.
 Bob is cleaning a dog cage.
+Bob is cleaning a cat cage.
 Greg is locking up the store. Greg and Bob are leaving the store.

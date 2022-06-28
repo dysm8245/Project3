@@ -1,67 +1,47 @@
-Customer 7 has left the store without buying an item.
-Greg the clerk arrives at the store on day 22.
+Mike the clerk arrives at the store on day 22.
 Bob the trainer arrives at the store on day 22.
-Customer 1 has entered the store.
-Customer 1 has left the store without buying an item.
-Customer 2 has entered the store.
-Customer 2 has left the store without buying an item.
-Customer 3 has entered the store.
-Customer 3 is thinking about buying a dog.
-Bob offered Customer 3 a 10% discount on the dog
-Customer 3 will pay for the dog with a 10% discount
-Greg is adding $178.0 to the register.
-Customer 3 has left the store after buying a dog.
-Customer 4 has entered the store.
-Customer 4 has left the store without buying an item.
-Customer 5 has entered the store.
-Customer 5 has left the store without buying an item.
-Customer 6 has entered the store.
-Customer 6 is thinking about buying a dog.
-Greg says Customer 6 will pay for the dog at list price.
-Greg is adding $170.0 to the register.
-Customer 6 has left the store after buying a dog.
-Lisa the clerk arrives at the store on day 22.
-Harry the trainer arrives at the store on day 22.
-Harry is feeding a dog.
-Harry is feeding a dog.
-Harry is feeding a dog.
-Harry is feeding a ferret. Harry says the ferret has gotten sick. They're being moved to the clinic.
-Harry is feeding a ferret. Harry says the ferret has gotten sick. They're being moved to the clinic.
-Harry is feeding a ferret. Harry says the ferret has gotten sick. They're being moved to the clinic.
-Lisa says there is $3743.4004 in the register. No need to go to bank.
-Lisa says the inventory is valued at $426.0
-Harry is training a dog.
-The dog is not yet housebroken, they're going to train with Harry
-Harry is training a dog.
+Bob is feeding a sick dog. They haven't gotten better.
+Bob is feeding a sick ferret. They haven't gotten better.
+Bob is feeding a ferret.
+Bob is feeding a cat.
+Bob is feeding a cat.
+Bob is feeding a cat.
+Bob is feeding a bird.
+Bob is feeding a sick snake. Bob says the snake has gotten better. They're being moved to the store.
+Bob is feeding a snake.
+Mike says there is $4242.8 in the register. No need to go to bank.
+Mike says the inventory is valued at $681.0
+Bob is training a dog.
 The dog is already housebroken, no need to train.
-Harry is training a dog.
-The dog is already housebroken, no need to train.
-Harry is training a ferret.
-The ferret is not yet housebroken, they're going to train with Harry
-Harry is training a ferret.
+Bob is training a ferret.
 The ferret is already housebroken, no need to train.
-Harry is training a ferret.
+Bob is training a ferret.
 The ferret is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a cat.
+The cat is already housebroken, no need to train.
 Customer 1 has entered the store.
-Customer 1 is thinking about buying a dog.
-Lisa says Customer 1 will pay for the dog at list price.
-Lisa is adding $176.0 to the register.
-Customer 1 has left the store after buying a dog.
+Customer 1 is thinking about buying a snake.
+Mike says Customer 1 will pay for the snake at list price.
+Mike is adding $195.0 to the register.
+Customer 1 has left the store after buying a snake.
 Customer 2 has entered the store.
-Customer 2 has left the store without buying an item.
+Customer 2 is thinking about buying a cat.
+Mike says Customer 2 will pay for the cat at list price.
+Mike is adding $202.0 to the register.
+Customer 2 has left the store after buying a cat.
 Customer 3 has entered the store.
-Customer 3 has left the store without buying an item.
-Customer 4 has entered the store.
-Customer 4 has left the store without buying an item.
-Customer 5 has entered the store.
-Customer 5 has left the store without buying an item.
-Customer 6 has entered the store.
-Customer 6 has left the store without buying an item.
-Customer 7 has entered the store.
-Customer 7 has left the store without buying an item.
-Harry is cleaning a dog cage.
-Harry is cleaning a dog cage.
-Harry is cleaning a sick ferret's cage.
-Harry is cleaning a sick ferret's cage.
-Harry is cleaning a sick ferret's cage.
-Lisa is locking up the store. Lisa and Harry are leaving the store.
+Customer 3 is thinking about buying a bird.
+Mike says Customer 3 will pay for the bird at list price.
+Mike is adding $236.0 to the register.
+Customer 3 has left the store after buying a bird.
+Bob is cleaning a sick dog's cage.
+Bob is cleaning a sick ferret's cage.
+Bob is cleaning a ferret cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a cat cage.
+Bob is cleaning a snake cage.
+Mike is locking up the store. Mike and Bob are leaving the store.

@@ -1,25 +1,18 @@
-Lisa the clerk arrives at the store on day 17.
-Bob the trainer arrives at the store on day 17.
-Customer 1 has entered the store.
-Customer 1 has left the store without buying an item.
-Customer 2 has entered the store.
-Customer 2 has left the store without buying an item.
 Greg the clerk arrives at the store on day 17.
-Julie the trainer arrives at the store on day 17.
-Julie is feeding a sick snake. They haven't gotten better.
-Julie is feeding a dog.
-Greg says there is $4864.4004 in the register. No need to go to bank.
-Greg says the inventory is valued at $80.0
-Julie is training a dog.
-The dog is not yet housebroken, they're going to train with Julie
+Harry the trainer arrives at the store on day 17.
+Greg says there is $4283.8 in the register. No need to go to bank.
+Greg says the inventory is valued at $0.0
+Greg says there are no dogs in stock. They're going to order more.
+Greg says there are no cats in stock. They're going to order more.
+Greg says there are no birds in stock. They're going to order more.
+Greg says there are no ferrets in stock. They're going to order more.
+Greg says there are no snakes in stock. They're going to order more.
+Greg says there are no more leashes in stock. They're going to order more.
+Greg says there are no more toys in stock. They're not going to order more.
+Greg says there are no more treats in stock. They're going to order more.
+Greg says there is more food in stock. They're going to order more.
+Greg says there is no more litter in stock. They're going to order more.
 Customer 1 has entered the store.
-Customer 1 has left the store without buying an item.
 Customer 2 has entered the store.
-Customer 2 has left the store without buying an item.
 Customer 3 has entered the store.
-Customer 3 has left the store without buying an item.
-Customer 4 has entered the store.
-Customer 4 has left the store without buying an item.
-Julie is cleaning a sick snake's cage.
-Julie is cleaning a dog cage.
-Greg is locking up the store. Greg and Julie are leaving the store.
+Greg is locking up the store. Greg and Harry are leaving the store.

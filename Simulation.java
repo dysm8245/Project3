@@ -1,4 +1,4 @@
-public class Simulation{
+public class Simulation implements Logger{
     Simulation(){
 
     }
@@ -10,6 +10,7 @@ public class Simulation{
         int daysOpen = 31;
         for(int i = 1; i < daysOpen; i++){
             //stock.items();
+            clear(i);
             staff.ArriveAtStore(i);//method in employees class
             Clerk c = staff.getClerk();
             Trainer t = staff.getTrainer();

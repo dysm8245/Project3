@@ -1,34 +1,25 @@
-Customer 4 has left the store without buying an item.
 Mike the clerk arrives at the store on day 16.
-Bob the trainer arrives at the store on day 16.
+Julie the trainer arrives at the store on day 16.
+Julie is feeding a dog.
+Julie is feeding a dog.
+Mike says there is $4144.5996 in the register. No need to go to bank.
+Mike says the inventory is valued at $71.0
+Julie is training a dog.
+The dog is already housebroken, no need to train.
+Julie is training a dog.
+The dog is already housebroken, no need to train.
 Customer 1 has entered the store.
-Customer 1 has left the store without buying an item.
+Customer 1 is thinking about buying a dog.
+Mike says Customer 1 will pay for the dog at list price.
+Mike is adding $164.0 to the register.
+Customer 1 has left the store after buying a dog.
 Customer 2 has entered the store.
-Customer 2 has left the store without buying an item.
+Customer 2 is thinking about buying a dog.
+Julie offered Customer 2 a 10% discount on the dog
+Customer 2 will pay for the dog with a 10% discount
+Mike is adding $125.2 to the register.
+Customer 2 has left the store after buying a dog.
 Customer 3 has entered the store.
-Customer 3 has left the store without buying an item.
 Customer 4 has entered the store.
-Customer 4 has left the store without buying an item.
 Customer 5 has entered the store.
-Customer 5 has left the store without buying an item.
-Customer 6 has entered the store.
-Customer 6 has left the store without buying an item.
-Greg the clerk arrives at the store on day 16.
-Harry the trainer arrives at the store on day 16.
-Harry is feeding a sick snake. They haven't gotten better.
-Harry is feeding a dog.
-Greg says there is $4864.4004 in the register. No need to go to bank.
-Greg says the inventory is valued at $80.0
-Harry is training a dog.
-The dog is not yet housebroken, they're going to train with Harry
-Customer 1 has entered the store.
-Customer 1 has left the store without buying an item.
-Customer 2 has entered the store.
-Customer 2 has left the store without buying an item.
-Customer 3 has entered the store.
-Customer 3 has left the store without buying an item.
-Customer 4 has entered the store.
-Customer 4 has left the store without buying an item.
-Harry is cleaning a sick snake's cage.
-Harry is cleaning a dog cage.
-Greg is locking up the store. Greg and Harry are leaving the store.
+Mike is locking up the store. Mike and Julie are leaving the store.
