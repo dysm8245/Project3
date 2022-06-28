@@ -1,39 +1,59 @@
 Greg the clerk arrives at the store on day 18.
-Bob the trainer arrives at the store on day 18.
-Bob is feeding a dog.
-Bob is feeding a dog. Bob says the dog has gotten sick. They're being moved to the clinic.
-Bob is feeding a dog.
-Bob is feeding a ferret.
-Bob is feeding a ferret.
-Bob is feeding a ferret.
-Greg says there is $2933.7998 in the register. No need to go to bank.
-Greg says the inventory is valued at $735.0
-Bob is training a dog.
+Harry the trainer arrives at the store on day 18.
+Harry is feeding a sick dog. Harry says the dog has gotten better. They're being moved to the store.
+Harry is feeding a dog.
+Harry is feeding a cat.
+Harry is feeding a bird.
+Harry is feeding a bird.
+Harry is feeding a ferret.
+Harry is feeding a ferret.
+Harry is feeding a snake.
+Harry is feeding a snake.
+Harry is feeding a snake.
+Greg says there is $3005.6 in the register. No need to go to bank.
+Greg says the inventory is valued at $1271.0
+Harry is training a dog.
 The dog is already housebroken, no need to train.
-Bob is training a dog.
+Harry is training a dog.
 The dog is already housebroken, no need to train.
-Bob is training a dog.
-The dog is already housebroken, no need to train.
-Bob is training a ferret.
-The ferret is not yet housebroken, they're going to train with Bob
-The positive reinforcement training worked, the ferret is now housebroken.Bob is training a ferret.
+Harry is training a cat.
+The cat is already housebroken, no need to train.
+Harry is training a ferret.
 The ferret is already housebroken, no need to train.
-Bob is training a ferret.
-The ferret is not yet housebroken, they're going to train with Bob
-The positive reinforcement training worked, the ferret is now housebroken.Customer 1 has entered the store.
-Customer 1 is thinking about buying a leash.
-Bob offered Customer 1 a 10% discount on the leash
-Greg is adding $79.2 to the register.
-Customer 1 has left the store after buying a leash.
+Harry is training a ferret.
+The ferret is not yet housebroken, they're going to train with Harry
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a treats.
+Harry offered Customer 1 a 10% discount on the treats
+Greg is adding $113.4 to the register.
+Customer 1 has left the store after buying a treats.
 Customer 2 has entered the store.
-Customer 2 is thinking about buying a food.
-Greg says Customer 2 will pay for the food at list price.
-Greg is adding $116.0 to the register.
-Customer 2 has left the store after buying a food.
-Bob is cleaning a dog cage.
-Bob is cleaning a sick dog's cage.
-Bob is cleaning a dog cage.
-Bob is cleaning a ferret cage.
-Bob is cleaning a ferret cage.
-Bob is cleaning a ferret cage.
-Greg is locking up the store. Greg and Bob are leaving the store.
+Customer 2 is thinking about buying a snake.
+Greg says Customer 2 will pay for the snake at list price.
+Greg is adding $242.0 to the register.
+Customer 2 has left the store after buying a snake.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a ferret.
+Greg says Customer 3 will pay for the ferret at list price.
+Greg is adding $226.0 to the register.
+Customer 3 has left the store after buying a ferret.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a leash.
+Greg says Customer 4 will pay for the leash at list price.
+Greg is adding $158.0 to the register.
+Customer 4 has left the store after buying a leash.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a cat.
+Greg says Customer 5 will pay for the cat at list price.
+Greg is adding $130.0 to the register.
+Customer 5 has left the store after buying a cat.
+Harry is cleaning a dog cage. Oh no the dog escaped.
+Greg has caught the dog and returned it to the cage.
+Harry is cleaning a dog cage. Oh no the dog escaped.
+Greg has caught the dog and returned it to the cage.
+Harry is cleaning a bird cage.
+Harry is cleaning a bird cage.
+Harry is cleaning a ferret cage.
+Harry is cleaning a snake cage.
+Harry is cleaning a snake cage.
+Greg is locking up the store. Greg and Harry are leaving the store.

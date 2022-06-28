@@ -1,36 +1,21 @@
-Lisa the clerk arrives at the store on day 24.
-Julie the trainer arrives at the store on day 24.
-Julie is feeding a sick dog. They haven't gotten better.
-Julie is feeding a sick ferret. They haven't gotten better.
-Julie is feeding a sick cat. They haven't gotten better.
-Julie is feeding a snake.
-Lisa says there is $5117.8 in the register. No need to go to bank.
-Lisa says the inventory is valued at $239.0
-Julie is training a dog.
+Mike the clerk arrives at the store on day 24.
+Bob the trainer arrives at the store on day 24.
+Bob is feeding a sick dog. They haven't gotten better.
+Mike says there is $5329.8 in the register. No need to go to bank.
+Mike says the inventory is valued at $85.0
+Bob is training a dog.
 The dog is already housebroken, no need to train.
-Julie is training a ferret.
-The ferret is already housebroken, no need to train.
-Julie is training a cat.
-The cat is already housebroken, no need to train.
 Customer 1 has entered the store.
-Customer 1 is thinking about buying a food.
-Lisa says Customer 1 will pay for the food at list price.
-Lisa is adding $194.0 to the register.
-Customer 1 has left the store after buying a food.
+Customer 1 has left the store without buying an item.
 Customer 2 has entered the store.
 Customer 2 has left the store without buying an item.
 Customer 3 has entered the store.
-Customer 3 is thinking about buying a treats.
-Julie offered Customer 3 a 10% discount on the treats
-Lisa is adding $144.0 to the register.
-Customer 3 has left the store after buying a treats.
+Customer 3 has left the store without buying an item.
 Customer 4 has entered the store.
 Customer 4 has left the store without buying an item.
 Customer 5 has entered the store.
 Customer 5 has left the store without buying an item.
-Julie is cleaning a sick dog's cage. Oh no the dog escaped.
-Julie has caught the dog and returned it to the cage.
-Julie is cleaning a sick ferret's cage.
-Julie is cleaning a sick cat's cage.
-Julie is cleaning a snake cage.
-Lisa is locking up the store. Lisa and Julie are leaving the store.
+Customer 6 has entered the store.
+Customer 6 has left the store without buying an item.
+Bob is cleaning a sick dog's cage.
+Mike is locking up the store. Mike and Bob are leaving the store.

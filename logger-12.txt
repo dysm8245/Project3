@@ -1,19 +1,23 @@
-Mike the clerk arrives at the store on day 12.
-Harry the trainer arrives at the store on day 12.
-Harry is feeding a sick bird. They haven't gotten better.
-Mike says there is $3948.1995 in the register. No need to go to bank.
-Mike says the inventory is valued at $31.0
-Mike says there are no dogs in stock. They're going to order more.
-Mike says there are no cats in stock. They're going to order more.
+Greg the clerk arrives at the store on day 12.
+Bob the trainer arrives at the store on day 12.
+Bob is feeding a snake.
+Bob is feeding a sick bird. Bob says the bird has gotten better. They're being moved to the store.
+Bob is feeding a cat.
+Bob is feeding a dog.
+Greg says there is $3416.2 in the register. No need to go to bank.
+Greg says the inventory is valued at $273.0
+Bob is training a cat.
+The cat is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
 Customer 1 has entered the store.
 Customer 1 has left the store without buying an item.
 Customer 2 has entered the store.
-Customer 2 has left the store without buying an item.
-Customer 3 has entered the store.
-Customer 3 has left the store without buying an item.
-Customer 4 has entered the store.
-Customer 4 has left the store without buying an item.
-Customer 5 has entered the store.
-Customer 5 has left the store without buying an item.
-Harry is cleaning a sick bird's cage.
-Mike is locking up the store. Mike and Harry are leaving the store.
+Customer 2 is thinking about buying a dog.
+Greg says Customer 2 will pay for the dog at list price.
+Greg is adding $160.0 to the register.
+Customer 2 has left the store after buying a dog.
+Bob is cleaning a snake cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a cat cage.
+Greg is locking up the store. Greg and Bob are leaving the store.

@@ -1,21 +1,20 @@
 Greg the clerk arrives at the store on day 28.
 Julie the trainer arrives at the store on day 28.
-Julie is feeding a dog.
-Julie is feeding a cat.
-Julie is feeding a sick snake. They haven't gotten better.
-Greg says there is $5471.8 in the register. No need to go to bank.
-Greg says the inventory is valued at $54.0
-Julie is training a dog.
-The dog is already housebroken, no need to train.
-Julie is training a cat.
-The cat is already housebroken, no need to train.
+Greg says there is $5492.4 in the register. No need to go to bank.
+Greg says the inventory is valued at $0.0
+Greg says there are no dogs in stock. They're going to order more.
+Greg says there are no cats in stock. They're going to order more.
+Greg says there are no birds in stock. They're going to order more.
+Greg says there are no ferrets in stock. They're going to order more.
+Greg says there are no snakes in stock. They're going to order more.
+Greg says there are no more leashes in stock. They're going to order more.
+Greg says there are no more toys in stock. They're not going to order more.
+Greg says there are no more treats in stock. They're going to order more.
+Greg says there is more food in stock. They're going to order more.
+Greg says there is no more litter in stock. They're going to order more.
 Customer 1 has entered the store.
-Customer 1 has left the store without buying an item.
 Customer 2 has entered the store.
-Customer 2 has left the store without buying an item.
 Customer 3 has entered the store.
-Customer 3 has left the store without buying an item.
-Julie is cleaning a dog cage.
-Julie is cleaning a cat cage.
-Julie is cleaning a sick snake's cage.
+Customer 4 has entered the store.
+Customer 5 has entered the store.
 Greg is locking up the store. Greg and Julie are leaving the store.

@@ -12,7 +12,7 @@ public class Clerk extends Employees{
             Orders order = I.orders.get(i);
             if(order.dayArrived == day){
                 arrivals.add(i);
-                order.addToInventory(c, I);
+                order.addToInventory(c, I, i);
             }
         }
         for(int i = 0; i < arrivals.size(); i++){
@@ -126,13 +126,13 @@ public class Clerk extends Employees{
             goToBank(r,d);
             out(name + " went to the bank and will place the order. The items should arrive in a few days.\n", d);
             order.addToOrder(a,b,c,day);
-            order.getOrderCost();
+            order.getOrderCost(day);
             I.orders.add(order);
             r.amount -= total;
         }
         else{
             order.addToOrder(a,b,c,day);
-            order.getOrderCost();
+            order.getOrderCost(day);
             I.orders.add(order);
             r.amount -= total;
         }

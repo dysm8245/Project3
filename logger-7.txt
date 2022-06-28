@@ -1,30 +1,32 @@
-Lisa the clerk arrives at the store on day 7.
+Mike the clerk arrives at the store on day 7.
 Bob the trainer arrives at the store on day 7.
-Bob is feeding a sick cat. They haven't gotten better.
-Bob is feeding a sick bird. They haven't gotten better.
+Bob is feeding a bird.
+Bob is feeding a sick snake. They haven't gotten better.
+Bob is feeding a bird.
+Bob is feeding a bird.
+Bob is feeding a cat.
 Bob is feeding a snake.
-Lisa says there is $3176.9998 in the register. No need to go to bank.
-Lisa says the inventory is valued at $350.0
-Lisa says there are no dogs in stock. They're going to order more.
+Bob is feeding a dog.
+Mike says there is $2695.7998 in the register. No need to go to bank.
+Mike says the inventory is valued at $609.0
 Bob is training a cat.
 The cat is already housebroken, no need to train.
+Bob is training a dog.
+The dog is already housebroken, no need to train.
 Customer 1 has entered the store.
-Customer 1 has left the store without buying an item.
+Customer 1 is thinking about buying a bird.
+Bob offered Customer 1 a 10% discount on the bird
+Customer 1 will pay for the bird with a 10% discount
+Mike is adding $84.2 to the register.
+Customer 1 has left the store after buying a bird.
 Customer 2 has entered the store.
 Customer 2 has left the store without buying an item.
 Customer 3 has entered the store.
-Customer 3 is thinking about buying a cat litter.
-Lisa says Customer 3 will pay for the cat litter at list price.
-Lisa is adding $176.0 to the register.
-Customer 3 has left the store after buying a cat litter.
-Customer 4 has entered the store.
-Customer 4 has left the store without buying an item.
-Customer 5 has entered the store.
-Customer 5 is thinking about buying a leash.
-Lisa says Customer 5 will pay for the leash at list price.
-Lisa is adding $14.0 to the register.
-Customer 5 has left the store after buying a leash.
-Bob is cleaning a sick cat's cage.
-Bob is cleaning a sick bird's cage.
+Customer 3 has left the store without buying an item.
+Bob is cleaning a bird cage.
+Bob is cleaning a sick snake's cage.
+Bob is cleaning a bird cage.
+Bob is cleaning a cat cage.
 Bob is cleaning a snake cage.
-Lisa is locking up the store. Lisa and Bob are leaving the store.
+Bob is cleaning a dog cage.
+Mike is locking up the store. Mike and Bob are leaving the store.

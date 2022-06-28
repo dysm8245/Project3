@@ -1,42 +1,36 @@
-Greg the clerk arrives at the store on day 10.
-Bob the trainer arrives at the store on day 10.
-Bob is feeding a sick bird. They haven't gotten better.
-Bob is feeding a dog.
-Bob is feeding a dog.
-Bob is feeding a dog.
-Bob is feeding a dog.
-Bob is feeding a dog.
-Greg says there is $3505.1997 in the register. No need to go to bank.
-Greg says the inventory is valued at $270.0
-Bob is training a dog.
+Mike the clerk arrives at the store on day 10.
+Julie the trainer arrives at the store on day 10.
+Julie is feeding a snake.
+Julie is feeding a sick bird. They haven't gotten better.
+Julie is feeding a cat.
+Julie is feeding a dog.
+Julie is feeding a dog.
+Julie is feeding a dog.
+Mike says there is $3199.9998 in the register. No need to go to bank.
+Mike says the inventory is valued at $393.0
+Julie is training a cat.
+The cat is already housebroken, no need to train.
+Julie is training a dog.
 The dog is already housebroken, no need to train.
-Bob is training a dog.
-The dog is not yet housebroken, they're going to train with Bob
-The positive reinforcement training worked, the dog is now housebroken.Bob is training a dog.
+Julie is training a dog.
 The dog is already housebroken, no need to train.
-Bob is training a dog.
-The dog is already housebroken, no need to train.
-Bob is training a dog.
-The dog is not yet housebroken, they're going to train with Bob
-The positive reinforcement training worked, the dog is now housebroken.Customer 1 has entered the store.
-Customer 1 has left the store without buying an item.
+Julie is training a dog.
+The dog is not yet housebroken, they're going to train with Julie
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a dog.
+Mike says Customer 1 will pay for the dog at list price.
+Mike is adding $52.0 to the register.
+Customer 1 has left the store after buying a dog.
 Customer 2 has entered the store.
 Customer 2 has left the store without buying an item.
 Customer 3 has entered the store.
-Customer 3 has left the store without buying an item.
-Customer 4 has entered the store.
-Customer 4 is thinking about buying a dog.
-Bob offered Customer 4 a 10% discount on the dog
-Customer 4 will pay for the dog with a 10% discount
-Greg is adding $57.2 to the register.
-Customer 4 has left the store after buying a dog.
-Customer 5 has entered the store.
-Customer 5 is thinking about buying a dog.
-Greg says Customer 5 will pay for the dog at list price.
-Greg is adding $178.0 to the register.
-Customer 5 has left the store after buying a dog.
-Bob is cleaning a sick bird's cage.
-Bob is cleaning a dog cage.
-Bob is cleaning a dog cage.
-Bob is cleaning a dog cage.
-Greg is locking up the store. Greg and Bob are leaving the store.
+Customer 3 is thinking about buying a toy.
+Julie offered Customer 3 a 10% discount on the toy
+Mike is adding $120.6 to the register.
+Customer 3 has left the store after buying a toy.
+Julie is cleaning a snake cage.
+Julie is cleaning a sick bird's cage.
+Julie is cleaning a cat cage.
+Julie is cleaning a dog cage.
+Julie is cleaning a dog cage.
+Mike is locking up the store. Mike and Julie are leaving the store.

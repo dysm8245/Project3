@@ -118,7 +118,7 @@ public class Employees implements Logger{
                                 r.amount += pet.salePrice;
                                 if(add == 0){
                                     Insurance addOn = new Insurance();
-                                    addOn.addIns(pet);
+                                    addOn.addIns(pet, day);
                                 }
                                 else if(add == 1){
                                     amount = rand.nextInt(5);
@@ -126,11 +126,11 @@ public class Employees implements Logger{
                                         amount = 1;
                                     }
                                     Vet addOn = new Vet();
-                                    addOn.addVisits(pet,amount);
+                                    addOn.addVisits(pet,amount, day);
                                 }
                                 else{
                                     Microchip addOn = new Microchip();
-                                    addOn.addMicro(pet);
+                                    addOn.addMicro(pet, day);
                                 }
                                 out(c.name + " is adding $" + pet.salePrice + " to the register.\n", day);
                                 j = I.items.size();
@@ -149,7 +149,7 @@ public class Employees implements Logger{
                                     r.amount += pet.salePrice;
                                     if(add == 0){
                                         Insurance addOn = new Insurance();
-                                        addOn.addIns(pet);
+                                        addOn.addIns(pet, day);
                                     }
                                     else if(add == 1){
                                         amount = rand.nextInt(5);
@@ -157,11 +157,11 @@ public class Employees implements Logger{
                                             amount = 1;
                                         }
                                         Vet addOn = new Vet();
-                                        addOn.addVisits(pet,amount);
+                                        addOn.addVisits(pet,amount, day);
                                     }
                                     else{
                                         Microchip addOn = new Microchip();
-                                        addOn.addMicro(pet);
+                                        addOn.addMicro(pet, day);
                                     }
                                     out(c.name + " is adding $" + pet.salePrice + " to the register.\n", day);
                                     j = I.items.size();
@@ -191,7 +191,7 @@ public class Employees implements Logger{
                             out(t.name + " offered Customer " + cust + " a 10% discount on the " + item.name + "\n", day);
                             deal = rand.nextInt(4);
                             if(deal != 0){
-                                System.out.println("Customer " + cust + " will pay for the " + item.name +" with a 10% discount");
+                                out("Customer " + cust + " will pay for the " + item.name +" with a 10% discount\n", day);
                                 item.salePrice = (float) (item.listPrice*0.9);
                                 item.daySold = day;
                                 I.items.remove(item);

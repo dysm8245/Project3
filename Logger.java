@@ -13,6 +13,7 @@ public interface Logger{
             FileWriter fileWriter = new FileWriter(f1.getName(),true);
             BufferedWriter bw = new BufferedWriter(fileWriter);
             bw.write(msg);
+            System.out.println(msg);
             bw.close();
         } catch(IOException e){
             e.printStackTrace();

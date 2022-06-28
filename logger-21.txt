@@ -1,55 +1,31 @@
-Greg the clerk arrives at the store on day 21.
+Mike the clerk arrives at the store on day 21.
 Bob the trainer arrives at the store on day 21.
-Bob is feeding a dog.
-Bob is feeding a sick dog. They haven't gotten better.
-Bob is feeding a sick ferret. They haven't gotten better.
-Bob is feeding a ferret.
-Bob is feeding a cat.
-Bob is feeding a cat.
-Bob is feeding a cat.
-Bob is feeding a bird.
-Bob is feeding a bird.
-Bob is feeding a sick snake. They haven't gotten better.
+Bob is feeding a dog. Bob says the dog has gotten sick. They're being moved to the clinic.
 Bob is feeding a snake.
-Greg says there is $3914.9998 in the register. No need to go to bank.
-Greg says the inventory is valued at $851.0
+Bob is feeding a snake.
+Mike says there is $4383.8 in the register. No need to go to bank.
+Mike says the inventory is valued at $575.0
 Bob is training a dog.
 The dog is already housebroken, no need to train.
-Bob is training a dog.
-The dog is already housebroken, no need to train.
-Bob is training a ferret.
-The ferret is already housebroken, no need to train.
-Bob is training a ferret.
-The ferret is already housebroken, no need to train.
-Bob is training a cat.
-The cat is already housebroken, no need to train.
-Bob is training a cat.
-The cat is already housebroken, no need to train.
-Bob is training a cat.
-The cat is already housebroken, no need to train.
 Customer 1 has entered the store.
-Customer 1 is thinking about buying a dog.
-Bob offered Customer 1 a 10% discount on the dog
-Customer 1 will pay for the dog with a 10% discount
-Greg is adding $159.8 to the register.
-Customer 1 has left the store after buying a dog.
+Customer 1 is thinking about buying a food.
+Bob offered Customer 1 a 10% discount on the food
+Customer 1 will continue to look at other items.
+Customer 1 is thinking about buying a cat litter.
+Mike says Customer 1 will pay for the cat litter at list price.
+Mike is adding $132.0 to the register.
+Customer 1 has left the store after buying a cat litter.
 Customer 2 has entered the store.
-Customer 2 is thinking about buying a leash.
-Greg says Customer 2 will pay for the leash at list price.
-Greg is adding $64.0 to the register.
-Customer 2 has left the store after buying a leash.
+Customer 2 is thinking about buying a cat litter.
+Bob offered Customer 2 a 10% discount on the cat litter
+Mike is adding $129.6 to the register.
+Customer 2 has left the store after buying a cat litter.
 Customer 3 has entered the store.
-Customer 3 is thinking about buying a bird.
-Greg says Customer 3 will pay for the bird at list price.
-Greg is adding $204.0 to the register.
-Customer 3 has left the store after buying a bird.
+Customer 3 is thinking about buying a food.
+Bob offered Customer 3 a 10% discount on the food
+Mike is adding $176.4 to the register.
+Customer 3 has left the store after buying a food.
 Bob is cleaning a sick dog's cage.
-Bob is cleaning a sick ferret's cage.
-Bob is cleaning a ferret cage.
-Bob is cleaning a cat cage.
-Bob is cleaning a cat cage.
-Bob is cleaning a cat cage.
-Bob is cleaning a bird cage.
-Bob is cleaning a sick snake's cage.
 Bob is cleaning a snake cage.
-Greg is locking up the store. Greg and Bob are leaving the store.
+Bob is cleaning a snake cage.
+Mike is locking up the store. Mike and Bob are leaving the store.

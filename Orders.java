@@ -1,4 +1,4 @@
-public class Orders{
+public class Orders implements Logger{
     Item item1;
     Item item2;
     Item item3;
@@ -14,41 +14,38 @@ public class Orders{
         dayArrived = day;
     }
 
-    void getOrderCost(){
+    void getOrderCost(int i){
         orderCost = item1.purchasePrice + item2.purchasePrice + item3.purchasePrice;
-        System.out.println("The order will cost $" + orderCost);
+        out("The order will cost $" + orderCost +"\n", i);
     }
 
-    void addToInventory(Clerk c, Inventory I){
+    void addToInventory(Clerk c, Inventory I, int i){
         if(item1.name == "pet"){
             Pet pet1 = (Pet) item1;
-            System.out.println(c.name + " says a new " + pet1.breed + " has arrived. It will be added to inventory.");
+            out(c.name + " says a new " + pet1.breed + " has arrived. It will be added to inventory.\n", i);
             I.items.add(pet1);
         }
         else{
-            System.out.println(c.name + " says a new " + item1.name + " has arrived. It will be added to inventory.");
+            out(c.name + " says a new " + item1.name + " has arrived. It will be added to inventory.\n", i);
             I.items.add(item1);
         }
         if(item1.name == "pet"){
             Pet pet2 = (Pet) item2;
-            System.out.println(c.name + " says a new " + pet2.breed + " has arrived. It will be added to inventory.");
+            out(c.name + " says a new " + pet2.breed + " has arrived. It will be added to inventory.\n", i);
             I.items.add(pet2);
         }
         else{
-            System.out.println(c.name + " says a new " + item2.name + " has arrived. It will be added to inventory.");
+            out(c.name + " says a new " + item2.name + " has arrived. It will be added to inventory.\n", i);
             I.items.add(item2);
         }
         if(item1.name == "pet"){
             Pet pet3 = (Pet) item3;
-            System.out.println(c.name + " says a new " + pet3.breed + " has arrived. It will be added to inventory.");
+            out(c.name + " says a new " + pet3.breed + " has arrived. It will be added to inventory.\n", i);
             I.items.add(pet3);
         }
         else{
-            System.out.println(c.name + " says a new " + item3.name + " has arrived. It will be added to inventory.");
+            out(c.name + " says a new " + item3.name + " has arrived. It will be added to inventory.\n", i);
             I.items.add(item3);
-        }
-        if(item1.name == "leash"){
-
         }
     }
 }
