@@ -1,0 +1,115 @@
+Greg the clerk arrives at the store on day 1.
+Julie the trainer arrives at the store on day 1.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a snake.
+Greg says Customer 1 will pay for the snake at list price.
+Greg is adding $52.0 to the register.
+Customer 1 has left the store after buying a snake.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a treats.
+Greg says Customer 2 will pay for the treats at list price.
+Greg is adding $80.0 to the register.
+Customer 2 has left the store after buying a treats.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a ferret.
+Julie offered Customer 3 a 10% discount on the ferret
+Customer 3 will continue to look at other items.
+Customer 3 is thinking about buying a dog.
+Julie offered Customer 3 a 10% discount on the dog
+Customer 3 will pay for the dog with a 10% discount
+Greg is adding $147.2 to the register.
+Customer 3 has left the store after buying a dog.
+Lisa the clerk arrives at the store on day 1.
+Harry the trainer arrives at the store on day 1.
+Harry is feeding a dog.
+Harry is feeding a bird.
+Harry is feeding a cat.
+Harry is feeding a ferret.
+Harry is feeding a snake.
+Harry is feeding a dog.
+Harry is feeding a bird.
+Harry is feeding a cat.
+Harry is feeding a ferret.
+Harry is feeding a snake.
+Harry is feeding a dog.
+Harry is feeding a bird.
+Harry is feeding a cat.
+Harry is feeding a ferret.
+Harry is feeding a snake.
+Lisa the clerk arrives at the store on day 1.
+Harry the trainer arrives at the store on day 1.
+Harry is feeding a dog.
+Harry is feeding a bird.
+Harry is feeding a cat.
+Harry is feeding a ferret.
+Harry is feeding a snake.
+Harry is feeding a dog.
+Harry is feeding a bird.
+Harry is feeding a cat.
+Harry is feeding a ferret.
+Harry is feeding a snake.
+Harry is feeding a dog.
+Harry is feeding a bird.
+Harry is feeding a cat.
+Harry is feeding a ferret.
+Harry is feeding a snake.
+Lisa says there is $0.0 in the register. They're going to the bank.
+There is now $1000.0 in the bank.
+Lisa says the inventory is valued at $1765.0
+Harry is training a dog.
+The dog is already housebroken, no need to train.
+Harry is training a cat.
+The cat is not yet housebroken, they're going to train with Harry
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Harry is training a dog.
+The dog is not yet housebroken, they're going to train with Harry
+Harry is training a cat.
+The cat is not yet housebroken, they're going to train with Harry
+Harry is training a ferret.
+The ferret is not yet housebroken, they're going to train with Harry
+Harry is training a dog.
+The dog is not yet housebroken, they're going to train with Harry
+Harry is training a cat.
+The cat is already housebroken, no need to train.
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a bird.
+Lisa says Customer 1 will pay for the bird at list price.
+Lisa is adding $164.0 to the register.
+Customer 1 has left the store after buying a bird.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a bird.
+Harry offered Customer 2 a 10% discount on the bird
+Customer 2 will pay for the bird with a 10% discount
+Lisa is adding $39.4 to the register.
+Customer 2 has left the store after buying a bird.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a cat.
+Lisa says Customer 3 will pay for the cat at list price.
+Lisa is adding $194.0 to the register.
+Customer 3 has left the store after buying a cat.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a ferret.
+Harry offered Customer 4 a 10% discount on the ferret
+Customer 4 will pay for the ferret with a 10% discount
+Lisa is adding $159.8 to the register.
+Customer 4 has left the store after buying a ferret.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a food.
+Lisa says Customer 5 will pay for the food at list price.
+Lisa is adding $20.0 to the register.
+Customer 5 has left the store after buying a food.
+Harry is cleaning a dog cage.
+Harry is cleaning a snake cage.
+Harry is cleaning a dog cage.
+Harry is cleaning a cat cage.
+Harry is cleaning a ferret cage.
+Harry is cleaning a snake cage.
+Harry is cleaning a dog cage.
+Harry is cleaning a bird cage.
+Harry is cleaning a cat cage.
+Harry is cleaning a ferret cage.
+Harry is cleaning a snake cage.
+Lisa is locking up the store. Lisa and Harry are leaving the store.

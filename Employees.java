@@ -1,8 +1,12 @@
 import java.util.*;
-public class Employees{
+public class Employees implements Logger{
     Clerk[] clerks = new Clerk[3];
     Clerk workingC;
+
+    Clerk lastWorked;
     Trainer workingT;
+
+    Trainer workedLast;
     Trainer[] trainers = new Trainer[3];
     void hire(){
         trainers[0] = new Trainer("Bob", new Positive());
@@ -25,92 +29,48 @@ public class Employees{
         return workingT;
     }
     void ArriveAtStore(int days){//starts day off
-            Random rand = new Random();
-            int num = rand.nextInt(3);
-            int num1 = rand.nextInt(3);
-            System.out.println("      ------New Day------");
-            if(clerks[num].daysWorked == 3){
-                for(int i =0; i < clerks.length; i++){
-                    if(clerks[num] == clerks[i]){
-                        continue;
-                    }
-                    else{
-                        System.out.println(clerks[i].name + " the clerk arrives at the store on day " + days + ".");
-                        workingC = clerks[i];
-                        clerks[i].daysWorked++;
-                        break;
-                    }
+        Random rand = new Random();
+        int num = rand.nextInt(3);
+        int num1 = rand.nextInt(3);
+        System.out.println("      ------New Day------");
+        if(clerks[num].daysWorked == 3){
+            for(int i =0; i < clerks.length; i++){
+                if(clerks[num] == clerks[i]){
+                    continue;
                 }
-                clerks[num].daysWorked=0;
-            }
-            else{
-                System.out.println(clerks[num].name + " the clerk arrives at the store on day " + days + ".");
-                workingC = clerks[num];
-                clerks[num].daysWorked++;
-            }
-            if(trainers[num1].daysWorked == 3) {
-                for(int i = 0; i < trainers.length; i++){
-                    if(trainers[num1] == trainers[i]){
-                        continue;
-                    }
-                    else{
-                        System.out.println(trainers[i].name + " the trainer arrives at the store on day " + days + ".");
-                        workingT = trainers[i];
-                        trainers[i].daysWorked++;
-                        break;
-                    }
+                else{
+                    out(clerks[i].name + " the clerk arrives at the store on day " + days + ".\n", days);
+                    workingC = clerks[i];
+                    clerks[i].daysWorked++;
+                    break;
                 }
-                trainers[num1].daysWorked = 0;
             }
-            else{
-                System.out.println(trainers[num1].name + " the trainer arrives at the store on day " + days + ".");
-                workingT = trainers[num1];
-                trainers[num1].daysWorked++;
+            clerks[num].daysWorked=0;
+        }
+        else{
+            out(clerks[num].name + " the clerk arrives at the store on day " + days + ".\n", days);
+            workingC = clerks[num];
+            clerks[num].daysWorked++;
+        }
+        if(trainers[num1].daysWorked == 3) {
+            for(int i = 0; i < trainers.length; i++){
+                if(trainers[num1] == trainers[i]){
+                    continue;
+                }
+                else{
+                    out(trainers[i].name + " the trainer arrives at the store on day " + days + ".\n", days);
+                    workingT = trainers[i];
+                    trainers[i].daysWorked++;
+                    break;
+                }
             }
-//            if(clerks[num].daysWorked == 3) {//checks to see if they worked 3 days in a row
-//                if(num == 1){
-//                    num = num - 1;
-//                    System.out.println(clerks[num].name + " the clerk arrives at the store on day " + days + ".");
-//                    workingC = clerks[num];
-//                    clerks[num].daysWorked++;
-//                    clerks[num+1].daysWorked = 0;
-//                    num = num+1;
-//                }
-//                else if(num == 0){
-//                    num = num + 1;
-//                    System.out.println(clerks[num].name + " the clerk arrives at the store on day " + days + ".");
-//                    workingC = clerks[num];
-//                    clerks[num].daysWorked++;
-//                    clerks[num-1].daysWorked = 0;
-//                    num = num-1;
-//                }
-//            }
-//            if(trainers[num].daysWorked == 3){//check for days worked
-//                if(num == 1){
-//                    num = num-1;
-//                    System.out.println(trainers[num].name + " the trainer arrives at the store on day " + days + ".");
-//                    workingT = trainers[num];
-//                    trainers[num].daysWorked++;
-//                    trainers[num+1].daysWorked = 0;
-//                    num=num+1;
-//                }
-//                else if(num == 0){
-//                    num = num+1;
-//                    System.out.println(trainers[num].name + " the trainer arrives at the store on day " + days + ".");
-//                    workingT = trainers[num];
-//                    trainers[num].daysWorked++;
-//                    trainers[num-1].daysWorked = 0;
-//                    num=num-1;
-//                }
-//            }
-//            else{
-//                System.out.println(clerks[num].name + " the clerk arrives at the store on day " + days + ".");
-//                workingC = clerks[num];
-//                clerks[num].daysWorked++;
-//                System.out.println(trainers[num].name + " the trainer arrives at the store on day " + days + ".");
-//                workingT = trainers[num];
-//                trainers[num].daysWorked++;
-//            }
+            trainers[num1].daysWorked = 0;
+        }
+        else{
+            out(trainers[num1].name + " the trainer arrives at the store on day " + days + ".\n", days);
+            workingT = trainers[num1];
+            trainers[num1].daysWorked++;
+        }
     }
     
     private static int getPoissonRandom(double mean) { // https://stackoverflow.com/questions/9832919/generate-poisson-arrival-in-java
@@ -138,7 +98,7 @@ public class Employees{
     
         for(int i = 0; i < custAmmt; i++){
             int cust = i+1;
-            System.out.println("Customer " + cust + " has entered the store.");
+            out("Customer " + cust + " has entered the store.\n", day);
             for(int j = 0; j < I.items.size(); j++){
                 Item item = I.items.get(j);
                 buyChance = rand.nextInt(10);
@@ -146,11 +106,11 @@ public class Employees{
                     if(item.name == "pet"){
                         Pet pet = (Pet) item;
                         if(pet.health){
-                            System.out.println("Customer " + cust + " is thinking about buying a " + pet.breed +".");
+                            out("Customer " + cust + " is thinking about buying a " + pet.breed +".\n", day);
                             noDeal = rand.nextInt(2);
                             if(noDeal == 0){
                                 add = rand.nextInt(4);
-                                System.out.println(c.name + " says Customer " + cust + " will pay for the " + pet.breed +" at list price.");
+                                out(c.name + " says Customer " + cust + " will pay for the " + pet.breed +" at list price.\n", day);
                                 pet.salePrice = pet.listPrice;
                                 pet.daySold = day;
                                 I.items.remove(pet);
@@ -172,16 +132,16 @@ public class Employees{
                                     Microchip addOn = new Microchip();
                                     addOn.addMicro(pet);
                                 }
-                                System.out.println(c.name + " is adding $" + pet.salePrice + " to the register.");
+                                out(c.name + " is adding $" + pet.salePrice + " to the register.\n", day);
                                 j = I.items.size();
-                                System.out.println("Customer " + cust + " has left the store after buying a " + pet.breed + ".");
+                                out("Customer " + cust + " has left the store after buying a " + pet.breed + ".\n", day);
                             }
                             else{
-                                System.out.println(t.name + " offered Customer " + cust + " a 10% discount on the " + pet.breed);
+                                out(t.name + " offered Customer " + cust + " a 10% discount on the " + pet.breed + "\n", day);
                                 deal = rand.nextInt(4);
                                 if(deal != 0){
                                     add = rand.nextInt(4);
-                                    System.out.println("Customer " + cust + " will pay for the " + pet.breed +" with a 10% discount");
+                                    out("Customer " + cust + " will pay for the " + pet.breed +" with a 10% discount\n", day);
                                     pet.salePrice = (float) (pet.listPrice*0.9);
                                     pet.daySold = day;
                                     I.items.remove(pet);
@@ -203,32 +163,32 @@ public class Employees{
                                         Microchip addOn = new Microchip();
                                         addOn.addMicro(pet);
                                     }
-                                    System.out.println(c.name + " is adding $" + pet.salePrice + " to the register.");
+                                    out(c.name + " is adding $" + pet.salePrice + " to the register.\n", day);
                                     j = I.items.size();
-                                    System.out.println("Customer " + cust + " has left the store after buying a " + pet.breed + ".");
+                                    out("Customer " + cust + " has left the store after buying a " + pet.breed + ".\n", day);
                                 }
                                 else{
-                                    System.out.println("Customer " + cust + " will continue to look at other items.");
+                                    out("Customer " + cust + " will continue to look at other items.\n", day);
                                 }
                             }
                         }
                     }
                     else{
-                        System.out.println("Customer " + cust + " is thinking about buying a " + item.name +".");
+                        out("Customer " + cust + " is thinking about buying a " + item.name +".\n", day);
                         noDeal = rand.nextInt(2);
                         if(noDeal == 0){
-                            System.out.println(c.name + " says Customer " + cust + " will pay for the " + item.name +" at list price.");
+                            out(c.name + " says Customer " + cust + " will pay for the " + item.name +" at list price.\n", day);
                             item.salePrice = item.listPrice;
                             item.daySold = day;
                             I.items.remove(item);
                             I.soldItems.add(item);
                             r.amount += item.salePrice;
-                            System.out.println(c.name + " is adding $" + item.salePrice + " to the register.");
+                            out(c.name + " is adding $" + item.salePrice + " to the register.\n", day);
                             j = I.items.size();
-                            System.out.println("Customer " + cust + " has left the store after buying a " + item.name + ".");
+                            out("Customer " + cust + " has left the store after buying a " + item.name + ".\n", day);
                         }
                         else{
-                            System.out.println(t.name + " offered Customer " + cust + " a 10% discount on the " + item.name);
+                            out(t.name + " offered Customer " + cust + " a 10% discount on the " + item.name + "\n", day);
                             deal = rand.nextInt(4);
                             if(deal != 0){
                                 System.out.println("Customer " + cust + " will pay for the " + item.name +" with a 10% discount");
@@ -237,23 +197,23 @@ public class Employees{
                                 I.items.remove(item);
                                 I.soldItems.add(item);
                                 r.amount += item.salePrice;
-                                System.out.println(c.name + " is adding $" + item.salePrice + " to the register.");
+                                out(c.name + " is adding $" + item.salePrice + " to the register.\n", day);
                                 j = I.items.size();
-                                System.out.println("Customer " + cust + " has left the store after buying a " + item.name + ".");
+                                out("Customer " + cust + " has left the store after buying a " + item.name + ".\n", day);
                             }
                             else{
-                                System.out.println("Customer " + cust + " will continue to look at other items.");
+                                out("Customer " + cust + " will continue to look at other items.\n", day);
                             }
                         }
                     }
                 }
                 if(j == I.items.size()-1){
-                    System.out.println("Customer " + cust + " has left the store without buying an item.");
+                    out("Customer " + cust + " has left the store without buying an item.\n", day);
                 }
             }
         }
     }
-    void cleanStore(Inventory I, Clerk c, Trainer t){
+    void cleanStore(Inventory I, Clerk c, Trainer t, int day){
         for(int i = 0; i < I.items.size(); i++){
             Random rand = new Random();
             int num = 0;
@@ -265,30 +225,30 @@ public class Employees{
                 if(num%20==0){
                     num1 = rand.nextInt(2);
                     if(pet.health){
-                        System.out.println(t.name + " is cleaning a " + pet.breed + " cage. Oh no the " + pet.breed + " escaped." );
+                        out(t.name + " is cleaning a " + pet.breed + " cage. Oh no the " + pet.breed + " escaped.\n", day);
                     }
                     else{
-                        System.out.println(t.name + " is cleaning a sick " + pet.breed + "'s cage. Oh no the " + pet.breed + " escaped." );
+                        out(t.name + " is cleaning a sick " + pet.breed + "'s cage. Oh no the " + pet.breed + " escaped.\n", day );
                     }
                     if(num1 == 0){
-                        System.out.println(t.name + " has caught the " + pet.breed + " and returned it to the cage.");
+                        out(t.name + " has caught the " + pet.breed + " and returned it to the cage.\n", day);
                     }
                     if(num1 == 1){
-                        System.out.println(c.name + " has caught the " + pet.breed + " and returned it to the cage.");
+                        out(c.name + " has caught the " + pet.breed + " and returned it to the cage.\n", day);
                     }
                 }
                 else{
                     if(pet.health){
-                        System.out.println(t.name + " is cleaning a " + pet.breed + " cage.");
+                        out(t.name + " is cleaning a " + pet.breed + " cage.\n", day);
                     }
                     else{
-                        System.out.println(t.name + " is cleaning a sick " + pet.breed + "'s cage.");
+                        out(t.name + " is cleaning a sick " + pet.breed + "'s cage.\n", day);
                     }
                 }
             }
         }
     }
-    void leaveStore(Clerk c, Trainer t){
-        System.out.println(c.name + " is locking up the store. " + c.name + " and " + t.name + " are leaving the store.");
+    void leaveStore(Clerk c, Trainer t, int day){
+        out(c.name + " is locking up the store. " + c.name + " and " + t.name + " are leaving the store.\n", day);
     }
 }

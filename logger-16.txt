@@ -1,0 +1,34 @@
+Customer 4 has left the store without buying an item.
+Mike the clerk arrives at the store on day 16.
+Bob the trainer arrives at the store on day 16.
+Customer 1 has entered the store.
+Customer 1 has left the store without buying an item.
+Customer 2 has entered the store.
+Customer 2 has left the store without buying an item.
+Customer 3 has entered the store.
+Customer 3 has left the store without buying an item.
+Customer 4 has entered the store.
+Customer 4 has left the store without buying an item.
+Customer 5 has entered the store.
+Customer 5 has left the store without buying an item.
+Customer 6 has entered the store.
+Customer 6 has left the store without buying an item.
+Greg the clerk arrives at the store on day 16.
+Harry the trainer arrives at the store on day 16.
+Harry is feeding a sick snake. They haven't gotten better.
+Harry is feeding a dog.
+Greg says there is $4864.4004 in the register. No need to go to bank.
+Greg says the inventory is valued at $80.0
+Harry is training a dog.
+The dog is not yet housebroken, they're going to train with Harry
+Customer 1 has entered the store.
+Customer 1 has left the store without buying an item.
+Customer 2 has entered the store.
+Customer 2 has left the store without buying an item.
+Customer 3 has entered the store.
+Customer 3 has left the store without buying an item.
+Customer 4 has entered the store.
+Customer 4 has left the store without buying an item.
+Harry is cleaning a sick snake's cage.
+Harry is cleaning a dog cage.
+Greg is locking up the store. Greg and Harry are leaving the store.

@@ -1,0 +1,60 @@
+Customer 7 has left the store after buying a food.
+Lisa the clerk arrives at the store on day 29.
+Harry the trainer arrives at the store on day 29.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a food.
+Lisa says Customer 1 will pay for the food at list price.
+Lisa is adding $96.0 to the register.
+Customer 1 has left the store after buying a food.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a ferret.
+Lisa says Customer 2 will pay for the ferret at list price.
+Lisa is adding $147.0 to the register.
+Customer 2 has left the store after buying a ferret.
+Customer 3 has entered the store.
+Customer 3 is thinking about buying a cat litter.
+Harry offered Customer 3 a 10% discount on the cat litter
+Customer 3 will continue to look at other items.
+Customer 3 has left the store without buying an item.
+Lisa the clerk arrives at the store on day 29.
+Harry the trainer arrives at the store on day 29.
+Harry is feeding a sick dog. Harry says the dog has gotten better. They're being moved to the store.
+Harry is feeding a sick ferret. They haven't gotten better.
+Harry is feeding a sick cat. They haven't gotten better.
+Lisa says there is $5669.001 in the register. No need to go to bank.
+Lisa says the inventory is valued at $283.0
+Harry is training a dog.
+The dog is already housebroken, no need to train.
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Harry is training a cat.
+The cat is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a food.
+Lisa says Customer 1 will pay for the food at list price.
+Lisa is adding $50.0 to the register.
+Customer 1 has left the store after buying a food.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a leash.
+Harry offered Customer 2 a 10% discount on the leash
+Customer 2 will continue to look at other items.
+Customer 2 has left the store without buying an item.
+Customer 3 has entered the store.
+Customer 3 has left the store without buying an item.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a leash.
+Lisa says Customer 4 will pay for the leash at list price.
+Lisa is adding $130.0 to the register.
+Customer 4 has left the store after buying a leash.
+Customer 5 has entered the store.
+Customer 5 has left the store without buying an item.
+Customer 6 has entered the store.
+Customer 6 is thinking about buying a treats.
+Lisa says Customer 6 will pay for the treats at list price.
+Lisa is adding $48.0 to the register.
+Customer 6 has left the store after buying a treats.
+Harry is cleaning a dog cage.
+Harry is cleaning a sick ferret's cage. Oh no the ferret escaped.
+Harry has caught the ferret and returned it to the cage.
+Harry is cleaning a sick cat's cage.
+Lisa is locking up the store. Lisa and Harry are leaving the store.

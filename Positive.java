@@ -1,6 +1,6 @@
 import java.util.*;
-public class Positive implements Method{//training strategy
-    public void train(Pet item) {
+public class Positive implements Method, Logger{//training strategy
+    public void train(Pet item, int d) {
         Random rand = new Random();
         int num = 0;
         if(item.breed == "dog"){
@@ -9,7 +9,7 @@ public class Positive implements Method{//training strategy
             if(num == 0){
                 if(!dog.housebroken){
                     dog.housebroken = true;
-                    System.out.println("The positive reinforcement training worked, the dog is now housebroken.");
+                    out("The positive reinforcement training worked, the dog is now housebroken.", d);
                 }
             }
         }
@@ -18,7 +18,7 @@ public class Positive implements Method{//training strategy
             if(num == 0){
                 if(!ferret.housebroken){
                     ferret.housebroken = true;
-                    System.out.println("The positive reinforcement training worked, the ferret is now housebroken.");
+                    out("The positive reinforcement training worked, the ferret is now housebroken.", d);
                 }
             }
         }
@@ -27,7 +27,7 @@ public class Positive implements Method{//training strategy
             if(num == 0){
                 if(!cat.housebroken){
                     cat.housebroken = true;
-                    System.out.println("The positive reinforcement training worked, the cat is now housebroken.");
+                    out("The positive reinforcement training worked, the cat is now housebroken.", d);
                 }
             }
         }

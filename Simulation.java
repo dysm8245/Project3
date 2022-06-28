@@ -14,13 +14,13 @@ public class Simulation{
             Clerk c = staff.getClerk();
             Trainer t = staff.getTrainer();
             c.processDeliveries(c, stock, i);//method in clerk class
-            t.feedAnimals(stock, t);//method in trainer class
-            c.checkRegister(c, r);//method in clerk class
+            t.feedAnimals(stock, t, i);//method in trainer class
+            c.checkRegister(c, r, i);//method in clerk class
             c.doInventory(c, stock, r, i);//method in clerk class
-            t.trainAnimals(stock);
+            t.trainAnimals(stock, i);
             staff.openStore(stock,c,t,r,i);//method in employees class
-            staff.cleanStore(stock, c, t);//method in employees class
-            staff.leaveStore(c,t);//method in employees class
+            staff.cleanStore(stock, c, t, i);//method in employees class
+            staff.leaveStore(c,t, i);//method in employees class
         }
         System.out.println("       -------End Simulation-------");
         stock.summary(r, daysOpen-1);//method in Inventory class

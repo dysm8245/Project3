@@ -1,0 +1,83 @@
+Greg the clerk arrives at the store on day 10.
+Bob the trainer arrives at the store on day 10.
+Customer 1 has entered the store.
+Customer 1 has left the store without buying an item.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a dog.
+Bob offered Customer 2 a 10% discount on the dog
+Customer 2 will continue to look at other items.
+Customer 2 has left the store without buying an item.
+Customer 3 has entered the store.
+Customer 3 has left the store without buying an item.
+Customer 4 has entered the store.
+Customer 4 has left the store without buying an item.
+Customer 5 has entered the store.
+Customer 5 has left the store without buying an item.
+Greg the clerk arrives at the store on day 10.
+Harry the trainer arrives at the store on day 10.
+Harry is feeding a sick snake. They haven't gotten better.
+Harry is feeding a ferret.
+Harry is feeding a dog.
+Harry is feeding a dog.
+Harry is feeding a cat.
+Harry is feeding a cat.
+Harry is feeding a cat.
+Harry is feeding a bird.
+Harry is feeding a bird.
+Harry is feeding a bird.
+Greg says there is $3487.6 in the register. No need to go to bank.
+Greg says the inventory is valued at $746.0
+Harry is training a ferret.
+The ferret is already housebroken, no need to train.
+Harry is training a dog.
+The dog is already housebroken, no need to train.
+Harry is training a dog.
+The dog is not yet housebroken, they're going to train with Harry
+Harry is training a cat.
+The cat is already housebroken, no need to train.
+Harry is training a cat.
+The cat is already housebroken, no need to train.
+Harry is training a cat.
+The cat is not yet housebroken, they're going to train with Harry
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a cat.
+Harry offered Customer 1 a 10% discount on the cat
+Customer 1 will continue to look at other items.
+Customer 1 has left the store without buying an item.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a ferret.
+Greg says Customer 2 will pay for the ferret at list price.
+Greg is adding $108.0 to the register.
+Customer 2 has left the store after buying a ferret.
+Customer 3 has entered the store.
+Customer 3 has left the store without buying an item.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a toy.
+Greg says Customer 4 will pay for the toy at list price.
+Greg is adding $152.0 to the register.
+Customer 4 has left the store after buying a toy.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a dog.
+Harry offered Customer 5 a 10% discount on the dog
+Customer 5 will pay for the dog with a 10% discount
+Greg is adding $159.8 to the register.
+Customer 5 has left the store after buying a dog.
+Customer 6 has entered the store.
+Customer 6 is thinking about buying a dog.
+Greg says Customer 6 will pay for the dog at list price.
+Greg is adding $217.0 to the register.
+Customer 6 has left the store after buying a dog.
+Customer 7 has entered the store.
+Customer 7 is thinking about buying a cat.
+Harry offered Customer 7 a 10% discount on the cat
+Customer 7 will pay for the cat with a 10% discount
+Greg is adding $192.4 to the register.
+Customer 7 has left the store after buying a cat.
+Harry is cleaning a sick snake's cage. Oh no the snake escaped.
+Greg has caught the snake and returned it to the cage.
+Harry is cleaning a cat cage.
+Harry is cleaning a cat cage.
+Harry is cleaning a bird cage.
+Harry is cleaning a bird cage.
+Harry is cleaning a bird cage.
+Greg is locking up the store. Greg and Harry are leaving the store.

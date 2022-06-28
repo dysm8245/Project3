@@ -9,49 +9,49 @@ public class Trainer extends Employees{
         name = n;
         technique = method;
     }
-    void trainAnimals(Inventory I){
+    void trainAnimals(Inventory I, int day){
         for(int i = 0; i < I.items.size(); i++){
             Item item = I.items.get(i);
             if(item.name == "pet"){
                 Pet pet = (Pet) item;
                 if(pet.breed == "dog"){
-                    System.out.println(name + " is training a dog.");
+                    out(name + " is training a dog.\n", day);
                     Dog dog = (Dog) pet;
                     if(dog.housebroken){
-                        System.out.println("The dog is already housebroken, no need to train.");
+                        out("The dog is already housebroken, no need to train.\n", day);
                     }
                     else{
-                        System.out.println("The dog is not yet housebroken, they're going to train with " + name);
-                        technique.train(pet);
+                        out("The dog is not yet housebroken, they're going to train with " + name + "\n", day);
+                        technique.train(pet, day);//strategy
                     }
                 }
                 if(pet.breed == "cat"){
-                    System.out.println(name + " is training a cat.");
+                    out(name + " is training a cat.\n", day);
                     Cat cat = (Cat) pet;
                     if(cat.housebroken){
-                        System.out.println("The cat is already housebroken, no need to train.");
+                        out("The cat is already housebroken, no need to train.\n", day);
                     }
                     else{
-                        System.out.println("The cat is not yet housebroken, they're going to train with " + name);
-                        technique.train(pet);
+                        out("The cat is not yet housebroken, they're going to train with " + name + "\n", day);
+                        technique.train(pet, day);//strategy
                     }
 
                 }
                 if(pet.breed == "ferret"){
-                    System.out.println(name + " is training a ferret.");
+                    out(name + " is training a ferret.\n", day);
                     Ferret ferret = (Ferret) pet;
                     if(ferret.housebroken){
-                        System.out.println("The ferret is already housebroken, no need to train.");
+                        out("The ferret is already housebroken, no need to train.\n", day);
                     }
                     else{
-                        System.out.println("The ferret is not yet housebroken, they're going to train with " + name);
-                        technique.train(pet);
+                        out("The ferret is not yet housebroken, they're going to train with " + name + "\n", day);
+                        technique.train(pet, day);//strategy
                     }
                 }
             }
         }
     }
-    void feedAnimals(Inventory I, Trainer t){
+    void feedAnimals(Inventory I, Trainer t, int day){
         Random rand = new Random();
         int num = 0;
         for(int i = 0; i < I.items.size(); i++){
@@ -62,20 +62,20 @@ public class Trainer extends Employees{
                     num = rand.nextInt();
                     if(num%20 == 0){
                         pet.health = false;
-                        System.out.println(t.name + " is feeding a " + pet.breed + ". " + t.name + " says the " + pet.breed + " has gotten sick. They're being moved to the clinic.");
+                        out(t.name + " is feeding a " + pet.breed + ". " + t.name + " says the " + pet.breed + " has gotten sick. They're being moved to the clinic.\n", day);
                     }
                     else{
-                        System.out.println(t.name + " is feeding a " + pet.breed + ".");
+                        out(t.name + " is feeding a " + pet.breed + ".\n", day);
                     }
                 }
                 else if(!pet.health){
                     num = rand.nextInt();
                     if(num%4 == 0){
                         pet.health = true;
-                        System.out.println(t.name + " is feeding a sick " + pet.breed + ". " + t.name + " says the " + pet.breed + " has gotten better. They're being moved to the store.");
+                        out(t.name + " is feeding a sick " + pet.breed + ". " + t.name + " says the " + pet.breed + " has gotten better. They're being moved to the store.\n", day);
                     }
                     else{
-                        System.out.println(t.name + " is feeding a sick " + pet.breed + ". They haven't gotten better.");
+                        out(t.name + " is feeding a sick " + pet.breed + ". They haven't gotten better.\n", day);
                     }
                 }
             }

@@ -1,0 +1,36 @@
+Lisa the clerk arrives at the store on day 15.
+Julie the trainer arrives at the store on day 15.
+Customer 1 has entered the store.
+Customer 1 has left the store without buying an item.
+Customer 2 has entered the store.
+Customer 2 has left the store without buying an item.
+Customer 3 has entered the store.
+Customer 3 has left the store without buying an item.
+Mike the clerk arrives at the store on day 15.
+Harry the trainer arrives at the store on day 15.
+Harry is feeding a sick snake. They haven't gotten better.
+Harry is feeding a dog.
+Harry is feeding a dog.
+Mike says there is $4754.6006 in the register. No need to go to bank.
+Mike says the inventory is valued at $141.0
+Harry is training a dog.
+The dog is not yet housebroken, they're going to train with Harry
+Harry is training a dog.
+The dog is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 has left the store without buying an item.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a dog.
+Harry offered Customer 2 a 10% discount on the dog
+Customer 2 will pay for the dog with a 10% discount
+Mike is adding $159.8 to the register.
+Customer 2 has left the store after buying a dog.
+Customer 3 has entered the store.
+Customer 3 has left the store without buying an item.
+Customer 4 has entered the store.
+Customer 4 has left the store without buying an item.
+Customer 5 has entered the store.
+Customer 5 has left the store without buying an item.
+Harry is cleaning a sick snake's cage.
+Harry is cleaning a dog cage.
+Mike is locking up the store. Mike and Harry are leaving the store.

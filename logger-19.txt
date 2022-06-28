@@ -1,0 +1,41 @@
+Greg the clerk arrives at the store on day 19.
+Harry the trainer arrives at the store on day 19.
+Customer 1 has entered the store.
+Customer 1 has left the store without buying an item.
+Customer 2 has entered the store.
+Customer 2 has left the store without buying an item.
+Customer 3 has entered the store.
+Customer 3 has left the store without buying an item.
+Customer 4 has entered the store.
+Customer 4 has left the store without buying an item.
+Customer 5 has entered the store.
+Customer 5 has left the store without buying an item.
+Customer 6 has entered the store.
+Customer 6 has left the store without buying an item.
+Mike the clerk arrives at the store on day 19.
+Harry the trainer arrives at the store on day 19.
+Harry is feeding a dog.
+Mike says there is $4979.6006 in the register. No need to go to bank.
+Mike says the inventory is valued at $16.0
+Harry is training a dog.
+The dog is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 has left the store without buying an item.
+Customer 2 has entered the store.
+Customer 2 has left the store without buying an item.
+Customer 3 has entered the store.
+Customer 3 has left the store without buying an item.
+Customer 4 has entered the store.
+Customer 4 has left the store without buying an item.
+Customer 5 has entered the store.
+Customer 5 has left the store without buying an item.
+Customer 6 has entered the store.
+Customer 6 has left the store without buying an item.
+Customer 7 has entered the store.
+Customer 7 has left the store without buying an item.
+Customer 8 has entered the store.
+Customer 8 has left the store without buying an item.
+Customer 9 has entered the store.
+Customer 9 has left the store without buying an item.
+Harry is cleaning a dog cage.
+Mike is locking up the store. Mike and Harry are leaving the store.

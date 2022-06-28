@@ -1,0 +1,76 @@
+Customer 4 has left the store after buying a treats.
+Mike the clerk arrives at the store on day 5.
+Julie the trainer arrives at the store on day 5.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a dog.
+Mike says Customer 1 will pay for the dog at list price.
+Mike is adding $213.0 to the register.
+Customer 1 has left the store after buying a dog.
+Customer 2 has entered the store.
+Customer 2 is thinking about buying a treats.
+Julie offered Customer 2 a 10% discount on the treats
+Mike is adding $136.8 to the register.
+Customer 2 has left the store after buying a treats.
+Customer 3 has entered the store.
+Customer 3 has left the store without buying an item.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a treats.
+Julie offered Customer 4 a 10% discount on the treats
+Mike is adding $97.2 to the register.
+Customer 4 has left the store after buying a treats.
+Customer 5 has entered the store.
+Customer 5 is thinking about buying a leash.
+Julie offered Customer 5 a 10% discount on the leash
+Customer 5 will continue to look at other items.
+Customer 5 has left the store without buying an item.
+Customer 6 has entered the store.
+Customer 6 has left the store without buying an item.
+Customer 7 has entered the store.
+Customer 7 is thinking about buying a ferret.
+Julie offered Customer 7 a 10% discount on the ferret
+Customer 7 will pay for the ferret with a 10% discount
+Mike is adding $136.4 to the register.
+Customer 7 has left the store after buying a ferret.
+Lisa the clerk arrives at the store on day 5.
+Julie the trainer arrives at the store on day 5.
+Julie is feeding a sick snake. They haven't gotten better.
+Julie is feeding a dog.
+Julie is feeding a ferret.
+Julie is feeding a sick snake. They haven't gotten better.
+Julie is feeding a dog.
+Julie is feeding a bird.
+Julie is feeding a ferret.
+Julie is feeding a snake.
+Lisa says there is $2985.2 in the register. No need to go to bank.
+Lisa says the inventory is valued at $737.0
+Julie is training a dog.
+The dog is not yet housebroken, they're going to train with Julie
+Julie is training a ferret.
+The ferret is already housebroken, no need to train.
+Julie is training a dog.
+The dog is already housebroken, no need to train.
+Julie is training a ferret.
+The ferret is already housebroken, no need to train.
+Customer 1 has entered the store.
+Customer 1 is thinking about buying a dog.
+Julie offered Customer 1 a 10% discount on the dog
+Customer 1 will continue to look at other items.
+Customer 1 has left the store without buying an item.
+Customer 2 has entered the store.
+Customer 2 has left the store without buying an item.
+Customer 3 has entered the store.
+Customer 3 has left the store without buying an item.
+Customer 4 has entered the store.
+Customer 4 is thinking about buying a cat litter.
+Lisa says Customer 4 will pay for the cat litter at list price.
+Lisa is adding $122.0 to the register.
+Customer 4 has left the store after buying a cat litter.
+Julie is cleaning a sick snake's cage.
+Julie is cleaning a dog cage.
+Julie is cleaning a ferret cage.
+Julie is cleaning a sick snake's cage.
+Julie is cleaning a dog cage.
+Julie is cleaning a bird cage.
+Julie is cleaning a ferret cage.
+Julie is cleaning a snake cage.
+Lisa is locking up the store. Lisa and Julie are leaving the store.

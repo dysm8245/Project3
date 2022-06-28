@@ -1,6 +1,6 @@
 import java.util.*;
-public class Haphazard implements Method{//training strategy
-    public void train(Pet item){
+public class Haphazard implements Method, Logger{//training strategy
+    public void train(Pet item, int d){
         Random rand = new Random();
         int num = rand.nextInt(10);
         if(item.breed == "dog"){
@@ -8,11 +8,11 @@ public class Haphazard implements Method{//training strategy
             if(num == 0){
                 if(dog.housebroken){
                     dog.housebroken = false;
-                    System.out.println("The haphazard training didn't work, the dog is no longer housebroken.");
+                    out("The haphazard training didn't work, the dog is no longer housebroken.", d);
                 }
                 else{
                     dog.housebroken = true;
-                    System.out.println("The haphazard training worked, the dog is now housebroken.");
+                    out("The haphazard training worked, the dog is now housebroken.", d);
                 }
             }
         }
