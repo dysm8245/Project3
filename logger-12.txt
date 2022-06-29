@@ -1,23 +1,21 @@
-Greg the clerk arrives at the store on day 12.
-Bob the trainer arrives at the store on day 12.
-Bob is feeding a snake.
-Bob is feeding a sick bird. Bob says the bird has gotten better. They're being moved to the store.
-Bob is feeding a cat.
-Bob is feeding a dog.
-Greg says there is $3416.2 in the register. No need to go to bank.
-Greg says the inventory is valued at $273.0
-Bob is training a cat.
-The cat is already housebroken, no need to train.
-Bob is training a dog.
-The dog is already housebroken, no need to train.
+Mike the clerk arrives at the store on day 12.
+Julie the trainer arrives at the store on day 12.
+Mike says there is $3558.4004 in the register. No need to go to bank.
+Mike says the inventory is valued at $0.0
+Mike says there are no dogs in stock. They're going to order more.
+Mike says there are no cats in stock. They're going to order more.
+Mike says there are no birds in stock. They're going to order more.
+Mike says there are no ferrets in stock. They're going to order more.
+Mike says there are no snakes in stock. They're going to order more.
+Mike says there are no more leashes in stock. They're going to order more.
+Mike says there are no more toys in stock. They're not going to order more.
+Mike says there are no more treats in stock. They're going to order more.
+Mike says there is more food in stock. They're going to order more.
+Mike says there is no more litter in stock. They're going to order more.
 Customer 1 has entered the store.
-Customer 1 has left the store without buying an item.
 Customer 2 has entered the store.
-Customer 2 is thinking about buying a dog.
-Greg says Customer 2 will pay for the dog at list price.
-Greg is adding $160.0 to the register.
-Customer 2 has left the store after buying a dog.
-Bob is cleaning a snake cage.
-Bob is cleaning a bird cage.
-Bob is cleaning a cat cage.
-Greg is locking up the store. Greg and Bob are leaving the store.
+Customer 3 has entered the store.
+Mike is locking up the store. Mike and Julie are leaving the store.
+Mike says a new cat has arrived. It will be added to inventory.
+Mike says a new cat has arrived. It will be added to inventory.
+Mike says a new cat has arrived. It will be added to inventory.

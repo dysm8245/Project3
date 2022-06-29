@@ -9,13 +9,13 @@ public class Negative implements Method, Logger{//one of the training strategies
                 if (num == 0) {
                     if (dog.housebroken) {
                         dog.housebroken = false;
-                        out("The negative reinforcement training backfired, the dog is no longer housebroken.", d);
+                        out("The negative reinforcement training backfired, the dog is no longer housebroken.\n", d);
                     }
                 }
                 else if (num == 1 || num == 2) {
                     if(!dog.housebroken){
                         dog.housebroken = true;
-                        out("The negative reinforcement training worked, the dog is now housebroken.", d);
+                        out("The negative reinforcement training worked, the dog is now housebroken.\n", d);
                     }
                 }
             }
@@ -26,13 +26,13 @@ public class Negative implements Method, Logger{//one of the training strategies
                 if (num == 0) {
                     if (ferret.housebroken) {
                         ferret.housebroken = false;
-                        System.out.println("The negative reinforcement training backfired, the ferret is no longer housebroken.");
+                        System.out.println("The negative reinforcement training backfired, the ferret is no longer housebroken.\n");
                     }
                 }
                 else if (num == 1 || num == 2) {
                     if(!ferret.housebroken){
                         ferret.housebroken = true;
-                        System.out.println("The negative reinforcement training worked, the ferret is now housebroken.");
+                        System.out.println("The negative reinforcement training worked, the ferret is now housebroken.\n");
                     }
                 }
             }
@@ -42,13 +42,13 @@ public class Negative implements Method, Logger{//one of the training strategies
             if (num == 0) {
                 if (cat.housebroken) {
                     cat.housebroken = false;
-                    System.out.println("The negative reinforcement training backfired, the cat is no longer housebroken.");
+                    System.out.println("The negative reinforcement training backfired, the cat is no longer housebroken.\n");
                 }
             }
             else if (num == 1 || num == 2) {
                 if(!cat.housebroken){
                     cat.housebroken = true;
-                    System.out.println("The negative reinforcement training worked, the cat is now housebroken.");
+                    System.out.println("The negative reinforcement training worked, the cat is now housebroken.\n");
                 }
             }
         }

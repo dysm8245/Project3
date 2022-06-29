@@ -1,32 +1,25 @@
-Greg the clerk arrives at the store on day 23.
-Julie the trainer arrives at the store on day 23.
-Julie is feeding a sick dog. They haven't gotten better.
-Julie is feeding a snake.
-Greg says there is $4977.8 in the register. No need to go to bank.
-Greg says the inventory is valued at $261.0
-Julie is training a dog.
+Lisa the clerk arrives at the store on day 23.
+Bob the trainer arrives at the store on day 23.
+Bob is feeding a sick dog. They haven't gotten better.
+Bob is feeding a sick dog. Bob says the dog has gotten better. They're being moved to the store.
+Lisa says there is $4639.6006 in the register. No need to go to bank.
+Lisa says the inventory is valued at $249.0
+Bob is training a dog.
+The dog is already housebroken, no need to train.
+Bob is training a dog.
 The dog is already housebroken, no need to train.
 Customer 1 has entered the store.
 Customer 1 has left the store without buying an item.
 Customer 2 has entered the store.
-Customer 2 is thinking about buying a food.
-Greg says Customer 2 will pay for the food at list price.
-Greg is adding $134.0 to the register.
-Customer 2 has left the store after buying a food.
+Customer 2 has left the store without buying an item.
 Customer 3 has entered the store.
-Customer 3 is thinking about buying a food.
-Greg says Customer 3 will pay for the food at list price.
-Greg is adding $178.0 to the register.
-Customer 3 has left the store after buying a food.
+Customer 3 is thinking about buying a dog.
+Bob offered Customer 3 a 10% discount on the dog
+Customer 3 will pay for the dog with a 10% discount
+A microchip will be added to the sale for $50.
+Lisa is adding $230.0 to the register.
+Customer 3 has left the store after buying a dog.
 Customer 4 has entered the store.
-Customer 4 is thinking about buying a snake.
-Julie offered Customer 4 a 10% discount on the snake
-Customer 4 will continue to look at other items.
 Customer 4 has left the store without buying an item.
-Customer 5 has entered the store.
-Customer 5 is thinking about buying a snake.
-Greg says Customer 5 will pay for the snake at list price.
-Greg is adding $90.0 to the register.
-Customer 5 has left the store after buying a snake.
-Julie is cleaning a sick dog's cage.
-Greg is locking up the store. Greg and Julie are leaving the store.
+Bob is cleaning a sick dog's cage.
+Lisa is locking up the store. Lisa and Bob are leaving the store.

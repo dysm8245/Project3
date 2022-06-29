@@ -1,32 +1,29 @@
-Mike the clerk arrives at the store on day 7.
-Bob the trainer arrives at the store on day 7.
-Bob is feeding a bird.
-Bob is feeding a sick snake. They haven't gotten better.
-Bob is feeding a bird.
-Bob is feeding a bird.
-Bob is feeding a cat.
-Bob is feeding a snake.
-Bob is feeding a dog.
-Mike says there is $2695.7998 in the register. No need to go to bank.
-Mike says the inventory is valued at $609.0
-Bob is training a cat.
+Greg the clerk arrives at the store on day 7.
+Julie the trainer arrives at the store on day 7.
+Julie is feeding a sick cat. They haven't gotten better.
+Julie is feeding a dog.
+Julie is feeding a cat.
+Greg says there is $3097.6003 in the register. No need to go to bank.
+Greg says the inventory is valued at $240.0
+Julie is training a cat.
 The cat is already housebroken, no need to train.
-Bob is training a dog.
+Julie is training a dog.
 The dog is already housebroken, no need to train.
+Julie is training a cat.
+The cat is already housebroken, no need to train.
 Customer 1 has entered the store.
-Customer 1 is thinking about buying a bird.
-Bob offered Customer 1 a 10% discount on the bird
-Customer 1 will pay for the bird with a 10% discount
-Mike is adding $84.2 to the register.
-Customer 1 has left the store after buying a bird.
+Customer 1 is thinking about buying a cat litter.
+Greg says Customer 1 will pay for the cat litter at list price.
+Greg is adding $50.0 to the register.
+Customer 1 has left the store after buying a cat litter.
 Customer 2 has entered the store.
 Customer 2 has left the store without buying an item.
 Customer 3 has entered the store.
 Customer 3 has left the store without buying an item.
-Bob is cleaning a bird cage.
-Bob is cleaning a sick snake's cage.
-Bob is cleaning a bird cage.
-Bob is cleaning a cat cage.
-Bob is cleaning a snake cage.
-Bob is cleaning a dog cage.
-Mike is locking up the store. Mike and Bob are leaving the store.
+Julie is cleaning a sick cat's cage.
+Julie is cleaning a dog cage.
+Julie is cleaning a cat cage.
+Greg is locking up the store. Greg and Julie are leaving the store.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.
+Greg says a new food has arrived. It will be added to inventory.

@@ -20,6 +20,7 @@ public class Clerk extends Employees{
         }
     }
     void doInventory(Clerk c, Inventory I, Register r, int d){
+        ItemFactory factory = new ItemFactory();//factory to create items
         float total = 0;
         int count = 0;
         String names;
@@ -28,7 +29,8 @@ public class Clerk extends Employees{
         for(int j = 0; j < I.item.length; j++){
             names = I.item[j];
             for(int i = 0; i < I.items.size(); i++){
-                Item item = I.items.get(i);
+                Items a = I.items.get(i);
+                Item item = (Item) a;
                 if(item.name == "pet"){
                     Pet pet = (Pet) item;
                     if(pet.breed == names){
@@ -42,58 +44,58 @@ public class Clerk extends Employees{
             if(count == 0){
                 if(names == "dog"){
                     out(c.name + " says there are no dogs in stock. They're going to order more.\n", d);
-                    Dog dog1 = new Dog();
-                    Dog dog2 = new Dog();
-                    Dog dog3 = new Dog();
+                    Items dog1 = factory.createItem("dog");//creating dogs for example here
+                    Items dog2 = factory.createItem("dog");
+                    Items dog3 = factory.createItem("dog");
                     c.placeAnOrder(I, dog1, dog2, dog3, r, d);
                 }
                 if(names == "cat"){
                     out(c.name + " says there are no cats in stock. They're going to order more.\n", d);
-                    Cat cat1 = new Cat();
-                    Cat cat2 = new Cat();
-                    Cat cat3 = new Cat();
+                    Items cat1 = factory.createItem("cat");
+                    Items cat2 = factory.createItem("cat");
+                    Items cat3 = factory.createItem("cat");
                     c.placeAnOrder(I, cat1, cat2, cat3, r, d);
                 }
                 if(names == "bird"){
                     out(c.name + " says there are no birds in stock. They're going to order more.\n", d);
-                    Bird bird1 = new Bird();
-                    Bird bird2 = new Bird();
-                    Bird bird3 = new Bird();
+                    Items bird1 = factory.createItem("bird");
+                    Items bird2 = factory.createItem("bird");
+                    Items bird3 = factory.createItem("bird");
                     c.placeAnOrder(I, bird1, bird2, bird3, r, d);
                 }
                 if(names == "ferret"){
                     out(c.name + " says there are no ferrets in stock. They're going to order more.\n", d);
-                    Ferret f1 = new Ferret();
-                    Ferret f2 = new Ferret();
-                    Ferret f3 = new Ferret();
+                    Items f1 = factory.createItem("ferret");
+                    Items f2 = factory.createItem("ferret");
+                    Items f3 = factory.createItem("ferret");
                     c.placeAnOrder(I, f1, f2, f3, r, d);
                 }
                 if(names == "snake"){
                     out(c.name + " says there are no snakes in stock. They're going to order more.\n", d);
-                    Snake s1 = new Snake();
-                    Snake s2 = new Snake();
-                    Snake s3 = new Snake();
+                    Items s1 = factory.createItem("snake");
+                    Items s2 = factory.createItem("snake");
+                    Items s3 = factory.createItem("snake");
                     c.placeAnOrder(I, s1, s2, s3, r, d);
                 }
                 if(names == "treats"){
                     out(c.name + " says there are no more treats in stock. They're going to order more.\n", d);
-                    Treats t1 = new Treats();
-                    Treats t2 = new Treats();
-                    Treats t3 = new Treats();
+                    Items t1 = factory.createItem("treats");
+                    Items t2 = factory.createItem("treats");
+                    Items t3 = factory.createItem("treats");
                     c.placeAnOrder(I, t1, t2, t3, r, d);
                 }
                 if(names == "leash"){
                     out(c.name + " says there are no more leashes in stock. They're going to order more.\n", d);
-                    Leash ls1 = new Leash();
-                    Leash ls2 = new Leash();
-                    Leash ls3 = new Leash();
+                    Items ls1 = factory.createItem("leash");
+                    Items ls2 = factory.createItem("leash");
+                    Items ls3 = factory.createItem("leash");
                     c.placeAnOrder(I, ls1, ls2, ls3, r, d);
                 }
                 if(names == "litter"){
                     out(c.name + " says there is no more litter in stock. They're going to order more.\n", d);
-                    Litter l1 = new Litter();
-                    Litter l2 = new Litter();
-                    Litter l3 = new Litter();
+                    Items l1 = factory.createItem("litter");
+                    Items l2 = factory.createItem("litter");
+                    Items l3 = factory.createItem("litter");
                     c.placeAnOrder(I, l1, l2, l3, r, d);
                 }
                 if(names == "toy"){
@@ -101,15 +103,15 @@ public class Clerk extends Employees{
                 }
                 if(names == "food"){
                     out(c.name + " says there is more food in stock. They're going to order more.\n", d);
-                    Food food1 = new Food();
-                    Food food2 = new Food();
-                    Food food3 = new Food();
+                    Items food1 = factory.createItem("food");
+                    Items food2 = factory.createItem("food");
+                    Items food3 = factory.createItem("food");
                     c.placeAnOrder(I, food1, food2, food3, r, d);
                 }
             }
         }
     }
-    void placeAnOrder(Inventory I, Item a, Item b, Item c, Register r, int d){
+    void placeAnOrder(Inventory I, Items i1, Items i2, Items i3, Register r, int d){
         Random rand = new Random();
         Orders order = new Orders();
         int total = 0;
@@ -118,6 +120,12 @@ public class Clerk extends Employees{
             day = 1;
         }
         day += d;
+        i1.setArrivalDate(day);
+        i2.setArrivalDate(day);
+        i3.setArrivalDate(day);
+        Item a = (Item) i1;
+        Item b = (Item) i2;
+        Item c = (Item) i3;
         total +=  a.purchasePrice;
         total += b.purchasePrice;
         total += c.purchasePrice;

@@ -11,7 +11,8 @@ public class Trainer extends Employees{
     }
     void trainAnimals(Inventory I, int day){
         for(int i = 0; i < I.items.size(); i++){
-            Item item = I.items.get(i);
+            Items a = I.items.get(i);
+            Item item = (Item) a;
             if(item.name == "pet"){
                 Pet pet = (Pet) item;
                 if(pet.breed == "dog"){
@@ -55,7 +56,8 @@ public class Trainer extends Employees{
         Random rand = new Random();
         int num = 0;
         for(int i = 0; i < I.items.size(); i++){
-            Item item = I.items.get(i);
+            Items a = I.items.get(i);
+            Item item = (Item) a;
             if(item.name == "pet"){
                 Pet pet = (Pet) item;
                 if(pet.health){

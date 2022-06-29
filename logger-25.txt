@@ -1,20 +1,23 @@
-Lisa the clerk arrives at the store on day 25.
-Harry the trainer arrives at the store on day 25.
-Harry is feeding a sick dog. They haven't gotten better.
-Lisa says there is $5329.8 in the register. No need to go to bank.
-Lisa says the inventory is valued at $85.0
-Harry is training a dog.
+Greg the clerk arrives at the store on day 25.
+Bob the trainer arrives at the store on day 25.
+Bob is feeding a dog.
+Greg says there is $4819.6006 in the register. No need to go to bank.
+Greg says the inventory is valued at $149.0
+Bob is training a dog.
 The dog is already housebroken, no need to train.
 Customer 1 has entered the store.
 Customer 1 has left the store without buying an item.
 Customer 2 has entered the store.
 Customer 2 has left the store without buying an item.
 Customer 3 has entered the store.
-Customer 3 has left the store without buying an item.
+Customer 3 is thinking about buying a dog.
+Bob offered Customer 3 a 10% discount on the dog
+Customer 3 will pay for the dog with a 10% discount
+Insurance will be added to the sale for $50.
+Greg is adding $174.2 to the register.
+Customer 3 has left the store after buying a dog.
 Customer 4 has entered the store.
-Customer 4 is thinking about buying a treats.
-Lisa says Customer 4 will pay for the treats at list price.
-Lisa is adding $96.0 to the register.
-Customer 4 has left the store after buying a treats.
-Harry is cleaning a sick dog's cage.
-Lisa is locking up the store. Lisa and Harry are leaving the store.
+Customer 4 has left the store without buying an item.
+Customer 5 has entered the store.
+Customer 5 has left the store without buying an item.
+Greg is locking up the store. Greg and Bob are leaving the store.

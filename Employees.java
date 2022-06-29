@@ -2,11 +2,7 @@ import java.util.*;
 public class Employees implements Logger{
     Clerk[] clerks = new Clerk[3];
     Clerk workingC;
-
-    Clerk lastWorked;
     Trainer workingT;
-
-    Trainer workedLast;
     Trainer[] trainers = new Trainer[3];
     void hire(){
         trainers[0] = new Trainer("Bob", new Positive());
@@ -27,6 +23,57 @@ public class Employees implements Logger{
     }
     Trainer getTrainer(){
         return workingT;
+    }
+
+    void getCommand(Command command){
+        command.execute();
+    }//command pattern to get command from user
+    void interact(Inventory I, Employees staff){//so user can interact with employees at the store
+        boolean flag = true;
+        Clerk c = getClerk();
+        Trainer t = getTrainer();
+        while(flag){
+            System.out.println("How may we help you today?");
+            System.out.println("Enter 1 to select your store");
+            System.out.println("Enter 2 to ask for the employee names");
+            System.out.println("Enter 3 to get the time");
+            System.out.println("Enter 4 to shop");
+            System.out.println("Enter 5 for more information about an item");
+            System.out.println("Enter 6 to purchase an item");
+            System.out.println("Enter 7 to quit");
+            Scanner scan = new Scanner(System.in);
+            String a = scan.nextLine();
+            switch(a){//switch case for issuing commands
+                case "1":
+                    System.out.println("boop");
+                    break;
+                case "2":
+                    Name name = new Name(c,t);
+                    staff.getCommand(name);
+                    break;
+                case "3":
+                    Time time = new Time(c);
+                    staff.getCommand(time);
+                    break;
+                case "4":
+                    Shop shop = new Shop(I,t);
+                    staff.getCommand(shop);
+                    break;
+                case "5":
+                    System.out.println("boop");
+                    break;
+                case "6":
+                    System.out.println("boop");
+                    break;
+                case "7":
+                    flag = false;
+                    break;
+                default:
+                    System.out.println("That is an invalid input.");
+                    break;
+
+            }
+        }
     }
     void ArriveAtStore(int days){//starts day off
         Random rand = new Random();

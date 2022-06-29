@@ -9,7 +9,7 @@ public class Positive implements Method, Logger{//training strategy
             if(num == 0){
                 if(!dog.housebroken){
                     dog.housebroken = true;
-                    out("The positive reinforcement training worked, the dog is now housebroken.", d);
+                    out("The positive reinforcement training worked, the dog is now housebroken.\n", d);
                 }
             }
         }
@@ -18,7 +18,7 @@ public class Positive implements Method, Logger{//training strategy
             if(num == 0){
                 if(!ferret.housebroken){
                     ferret.housebroken = true;
-                    out("The positive reinforcement training worked, the ferret is now housebroken.", d);
+                    out("The positive reinforcement training worked, the ferret is now housebroken.\n", d);
                 }
             }
         }
@@ -27,7 +27,7 @@ public class Positive implements Method, Logger{//training strategy
             if(num == 0){
                 if(!cat.housebroken){
                     cat.housebroken = true;
-                    out("The positive reinforcement training worked, the cat is now housebroken.", d);
+                    out("The positive reinforcement training worked, the cat is now housebroken.\n", d);
                 }
             }
         }

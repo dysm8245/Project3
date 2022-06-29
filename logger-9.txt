@@ -1,30 +1,20 @@
 Lisa the clerk arrives at the store on day 9.
-Bob the trainer arrives at the store on day 9.
-Bob is feeding a snake.
-Bob is feeding a bird. Bob says the bird has gotten sick. They're being moved to the clinic.
-Bob is feeding a cat.
-Bob is feeding a snake.
-Lisa says there is $3056.7998 in the register. No need to go to bank.
-Lisa says the inventory is valued at $419.0
-Lisa says there are no dogs in stock. They're going to order more.
-Bob is training a cat.
+Julie the trainer arrives at the store on day 9.
+Julie is feeding a sick cat. They haven't gotten better.
+Julie is feeding a dog.
+Lisa says there is $3320.4004 in the register. No need to go to bank.
+Lisa says the inventory is valued at $119.0
+Julie is training a cat.
 The cat is already housebroken, no need to train.
+Julie is training a dog.
+The dog is already housebroken, no need to train.
 Customer 1 has entered the store.
 Customer 1 has left the store without buying an item.
 Customer 2 has entered the store.
-Customer 2 is thinking about buying a snake.
-Bob offered Customer 2 a 10% discount on the snake
-Customer 2 will pay for the snake with a 10% discount
-Lisa is adding $201.2 to the register.
-Customer 2 has left the store after buying a snake.
-Customer 3 has entered the store.
-Customer 3 is thinking about buying a treats.
-Lisa says Customer 3 will pay for the treats at list price.
-Lisa is adding $100.0 to the register.
-Customer 3 has left the store after buying a treats.
-Customer 4 has entered the store.
-Customer 4 has left the store without buying an item.
-Bob is cleaning a snake cage.
-Bob is cleaning a sick bird's cage.
-Bob is cleaning a cat cage.
-Lisa is locking up the store. Lisa and Bob are leaving the store.
+Customer 2 has left the store without buying an item.
+Julie is cleaning a sick cat's cage.
+Julie is cleaning a dog cage.
+Lisa is locking up the store. Lisa and Julie are leaving the store.
+Greg says a new dog has arrived. It will be added to inventory.
+Greg says a new dog has arrived. It will be added to inventory.
+Greg says a new dog has arrived. It will be added to inventory.

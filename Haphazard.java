@@ -8,11 +8,11 @@ public class Haphazard implements Method, Logger{//training strategy
             if(num == 0){
                 if(dog.housebroken){
                     dog.housebroken = false;
-                    out("The haphazard training didn't work, the dog is no longer housebroken.", d);
+                    out("The haphazard training didn't work, the dog is no longer housebroken.\n", d);
                 }
                 else{
                     dog.housebroken = true;
-                    out("The haphazard training worked, the dog is now housebroken.", d);
+                    out("The haphazard training worked, the dog is now housebroken.\n", d);
                 }
             }
         }
@@ -21,11 +21,11 @@ public class Haphazard implements Method, Logger{//training strategy
             if(num == 0){
                 if(ferret.housebroken){
                     ferret.housebroken = false;
-                    System.out.println("The haphazard training didn't work, the ferret is no longer housebroken.");
+                    System.out.println("The haphazard training didn't work, the ferret is no longer housebroken.\n");
                 }
                 else{
                     ferret.housebroken = true;
-                    System.out.println("The haphazard training worked, the ferret is now housebroken.");
+                    System.out.println("The haphazard training worked, the ferret is now housebroken.\n");
                 }
             }
         }
@@ -34,11 +34,11 @@ public class Haphazard implements Method, Logger{//training strategy
             if(num == 0){
                 if(cat.housebroken){
                     cat.housebroken = false;
-                    System.out.println("The haphazard training didn't work, the cat is no longer housebroken.");
+                    System.out.println("The haphazard training didn't work, the cat is no longer housebroken.\n");
                 }
                 else{
                     cat.housebroken = true;
-                    System.out.println("The haphazard training worked, the cat is now housebroken.");
+                    System.out.println("The haphazard training worked, the cat is now housebroken.\n");
                 }
             }
         }

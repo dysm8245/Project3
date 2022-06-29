@@ -29,7 +29,7 @@ public class Orders implements Logger{
             out(c.name + " says a new " + item1.name + " has arrived. It will be added to inventory.\n", i);
             I.items.add(item1);
         }
-        if(item1.name == "pet"){
+        if(item2.name == "pet"){
             Pet pet2 = (Pet) item2;
             out(c.name + " says a new " + pet2.breed + " has arrived. It will be added to inventory.\n", i);
             I.items.add(pet2);
@@ -38,7 +38,7 @@ public class Orders implements Logger{
             out(c.name + " says a new " + item2.name + " has arrived. It will be added to inventory.\n", i);
             I.items.add(item2);
         }
-        if(item1.name == "pet"){
+        if(item3.name == "pet"){
             Pet pet3 = (Pet) item3;
             out(c.name + " says a new " + pet3.breed + " has arrived. It will be added to inventory.\n", i);
             I.items.add(pet3);

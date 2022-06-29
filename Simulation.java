@@ -19,6 +19,7 @@ public class Simulation implements Logger{
             c.checkRegister(c, r, i);//method in clerk class
             c.doInventory(c, stock, r, i);//method in clerk class
             t.trainAnimals(stock, i);
+            staff.interact(stock, staff);
             staff.openStore(stock,c,t,r,i);//method in employees class
             staff.cleanStore(stock, c, t, i);//method in employees class
             staff.leaveStore(c,t, i);//method in employees class

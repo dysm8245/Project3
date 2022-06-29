@@ -1,43 +1,44 @@
 import java.util.*;
 public class Inventory{//inventory class demonstrates encapsulation of the whole inventory
     //Inventory class also has good cohesion as it holds all objects and acts like a real inventory
-    ArrayList<Item> items = new ArrayList<Item>();//holds all in store items
+    ArrayList<Items> items = new ArrayList<Items>();//holds all in store items
     ArrayList<Orders> orders = new ArrayList<Orders>();//holds orders that have been placed
     ArrayList<Item> soldItems = new ArrayList<Item>();//keeps track of sold items
     String[] item = new String[10];
     
     Inventory(){
         for(int i = 0; i < 3; i++){//intializes three of everything for starting inventory
-            Dog dog = new Dog();
-            dog.dayArrived = 1;
-            items.add(dog);
-            Bird bird = new Bird();
-            bird.dayArrived = 1;
-            items.add(bird);
-            Cat cat = new Cat();
-            cat.dayArrived = 1;
-            items.add(cat);
-            Ferret ferret = new Ferret();
-            ferret.dayArrived = 1;
-            items.add(ferret);
-            Snake snake = new Snake();
-            snake.dayArrived = 1;
-            items.add(snake);
-            Toy toy = new Toy();
-            toy.dayArrived = 1;
-            items.add(toy);
-            Litter litter = new Litter();
-            litter.dayArrived = 1;
-            items.add(litter);
-            Food food = new Food();
-            food.dayArrived = 1;
-            items.add(food);
-            Leash leash = new Leash();
-            leash.dayArrived = 1;
-            items.add(leash);
-            Treats treats = new Treats();
-            treats.dayArrived = 1;
-            items.add(treats);
+            ItemFactory factory = new ItemFactory();//factory to create Items
+            Items item = factory.createItem("dog");//creates a dog from factory
+            items.add(item);
+            item.setArrivalDate(1);
+            Items item1 = factory.createItem("bird");
+            items.add(item1);
+            item1.setArrivalDate(1);
+            Items item2 = factory.createItem("cat");
+            items.add(item2);
+            item2.setArrivalDate(1);
+            Items item3 = factory.createItem("ferret");
+            items.add(item3);
+            item3.setArrivalDate(1);
+            Items item4 = factory.createItem("snake");
+            items.add(item4);
+            item4.setArrivalDate(1);
+            Items item5 = factory.createItem("toy");
+            items.add(item5);
+            item5.setArrivalDate(1);
+            Items item6 = factory.createItem("litter");
+            items.add(item6);
+            item6.setArrivalDate(1);
+            Items item7 = factory.createItem("food");
+            items.add(item7);
+            item7.setArrivalDate(1);
+            Items item8 = factory.createItem("leash");
+            items.add(item8);
+            item8.setArrivalDate(1);
+            Items item9 = factory.createItem("treats");
+            items.add(item9);
+            item9.setArrivalDate(1);
         }
         item[0] = "dog";
         item[1] = "cat";
@@ -52,14 +53,16 @@ public class Inventory{//inventory class demonstrates encapsulation of the whole
     }
     void items(){//test to see items
         for(int i = 0; i < items.size(); i++){
-            Item obj = items.get(i);
+            Items item = items.get(i);
+            Item obj = (Item) item;
             System.out.println(obj.name + " " + obj.dayArrived);
         }
     }
     float addValue(){//returns purchasePrice total of all items
         float sum = 0;
         for(int i = 0; i < items.size(); i++){
-            Item item = items.get(i);
+            Items a = items.get(i);
+            Item item = (Item) a;
             sum += item.purchasePrice;
         }
         return sum;
@@ -70,7 +73,8 @@ public class Inventory{//inventory class demonstrates encapsulation of the whole
         int count = 0;
         System.out.println("After " + day + " days the following items are left in inventory.");
         for(int i = 0; i < items.size(); i++){//counts value of remaining inventory
-            Item item = items.get(i);
+            Items a = items.get(i);
+            Item item = (Item) a;
             if(item.name == "pet"){
                 Pet pet = (Pet) item;
                 System.out.println(pet.breed + ": $" + pet.purchasePrice);
@@ -98,7 +102,8 @@ public class Inventory{//inventory class demonstrates encapsulation of the whole
         }
         System.out.println("Total money from sales: $" + profit);
         for(int i = 0; i < items.size(); i++){//counts sick pets
-            Item item = items.get(i);
+            Items a = items.get(i);
+            Item item = (Item) a;
             if(item.name == "pet"){
                 Pet pet = (Pet) item;
                 if(!pet.health){

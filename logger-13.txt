@@ -1,23 +1,31 @@
-Lisa the clerk arrives at the store on day 13.
+Mike the clerk arrives at the store on day 13.
 Harry the trainer arrives at the store on day 13.
-Harry is feeding a snake.
 Harry is feeding a bird.
-Harry is feeding a cat.
-Lisa says there is $3526.2 in the register. No need to go to bank.
-Lisa says the inventory is valued at $218.0
-Lisa says there are no dogs in stock. They're going to order more.
-Harry is training a cat.
-The cat is already housebroken, no need to train.
+Harry is feeding a bird.
+Harry is feeding a bird.
+Harry is feeding a snake.
+Harry is feeding a snake.
+Harry is feeding a snake.
+Mike says there is $2232.4004 in the register. No need to go to bank.
+Mike says the inventory is valued at $472.0
+Mike says there are no dogs in stock. They're going to order more.
+Mike says there are no cats in stock. They're going to order more.
 Customer 1 has entered the store.
-Customer 1 is thinking about buying a treats.
-Harry offered Customer 1 a 10% discount on the treats
-Lisa is adding $30.6 to the register.
-Customer 1 has left the store after buying a treats.
+Customer 1 has left the store without buying an item.
 Customer 2 has entered the store.
+Customer 2 is thinking about buying a bird.
+Harry offered Customer 2 a 10% discount on the bird
+Customer 2 will continue to look at other items.
 Customer 2 has left the store without buying an item.
 Customer 3 has entered the store.
 Customer 3 has left the store without buying an item.
-Harry is cleaning a snake cage.
 Harry is cleaning a bird cage.
-Harry is cleaning a cat cage.
-Lisa is locking up the store. Lisa and Harry are leaving the store.
+Harry is cleaning a bird cage.
+Harry is cleaning a bird cage.
+Harry is cleaning a snake cage.
+Harry is cleaning a snake cage.
+Harry is cleaning a snake cage.
+Mike is locking up the store. Mike and Harry are leaving the store.
+Mike says a new bird has arrived. It will be added to inventory.
+Mike says a new bird has arrived. It will be added to inventory.
+Mike says a new bird has arrived. It will be added to inventory.
